@@ -1,0 +1,36 @@
+{
+  "id": "537077",
+  "title": "Hands-On Few-Shot and Prompt-Based Learning",
+  "speakers": [
+    {
+      "id": "51172a19-61ad-4927-b7d3-6ff69396674f",
+      "name": "Brayan Kai Mwanyumba",
+      "photo": "https://sessionize.com/image/bbb8-400o400o1-fwCkwrVcX6JKcCoUarRBeP.jpg",
+      "bio": "Brayan Kai is a Data Scientist Passionate about Communities, Technical Writing and Open-Source Advocacy. \n He currently volunteers at different developer communities across Africa including Google Crowdsource, Open-Source Community Africa, She Code Africa, PyLadies Ghana and Dev Careers. All this owing to his strong passion for supporting fellow upcoming technologists, women in tech and advocating for inclusion and diversity. He calls this his personal mission. \n It makes him happier, more balanced, and gives him a stronger sense of purpose to innovate, share, and teach in and with&nbsp;the community rather than just for it.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/Kai_mwanyumba"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brayan-mwanyumba-309498227"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Data",
+  "tags": [
+    "Cloud",
+    "Machine Learning",
+    "Data Science"
+  ],
+  "format": "General Session",
+  "level": "Advanced",
+  "day": "Friday",
+  "startTime": "14:45",
+  "endTime": "15:45",
+  "excerpt": "Machine learning has been highly successful in data-intensive applications but is often hampered when the dataset is small. Few-shot learning (FSL) was proposed to tackle this problem. FSL enables making predictions using a limited number of examples with supervised information—that is, with few...",
+  "description": "Machine learning has been highly successful in data-intensive applications but is often hampered when the dataset is small. Few-shot learning (FSL) was proposed to tackle this problem. FSL enables making predictions using a limited number of examples with supervised information—that is, with few training samples. It is used across different fields from computer vision to NLP and beyond. Metalearning has been the most common framework for FSL in recent years. The goal of this framework is not to let the model recognize the images in the training set and then generalize to the test set; instead, the goal is to “learn to learn.” Another area where FSL is used is Prompt-Based Learning.\n\nIn this talk atendees will learn the fundamentals of FSL, including popular networks and loss functions used with the network and the application of FSL techniques in Natural Language Understanding (NLU) and Computer Vision. I’ll go through the code implementation of Siamese neural networks with pairwise loss on text data to perform topic classification. Atendees will also get familiarity with multi-modal FSL. Further, they will get deeper insight into prompt-based learning paradigm in the context of Large Language Models and OpenPrompt framework. At the end of the talk, atendees will have a good idea of few-shot learning techniques and their applications and will gain a better understanding of deep learning overall."
+}

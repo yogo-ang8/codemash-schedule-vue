@@ -1,0 +1,41 @@
+{
+  "id": "534208",
+  "title": "Design Systems as a Foundation for Accessibility",
+  "speakers": [
+    {
+      "id": "2f50574a-7522-4a6f-a729-b4c99e3114d7",
+      "name": "Marko Skugor",
+      "photo": "https://sessionize.com/image/616e-400o400o1-UKoHKGPDLHgsX7R29D7YoZ.jpg",
+      "bio": "Hi, I'm Marko Skugor and I love front end! I have over a decade of experience in the industry ranging from full stack development to specializing in design systems, accessibility, and frontend architecture. I've helped modernize applications across a wide variety of industries, and believe that investment in UX research is the most valuable choice any company can make. In my free time I like to hang out with my 3 cats and do nerd stuff in beautiful sunny Columbus, OH.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/marko-skugor-399a98119/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@markoskugor"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.insight.com/en_US/solve/digital-innovation.html"
+        }
+      ]
+    }
+  ],
+  "room": "Salon G",
+  "track": "Design (UI/UX/CSS/a11y)",
+  "tags": [
+    "Front End",
+    "Diversity/Equity/Inclusion",
+    "Accessibility",
+    "UI/UX"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "11:45",
+  "endTime": "12:45",
+  "excerpt": "Design systems are at their core a repository of solved UX interaction design problems made re-usable and highly visible for others to leverage. Accessibility, on the other hand, is an outcome that is usually hard fought for and hard won for any organization - especially at scale. As technologists,...",
+  "description": "Design systems are at their core a repository of solved UX interaction design problems made re-usable and highly visible for others to leverage. Accessibility, on the other hand, is an outcome that is usually hard fought for and hard won for any organization - especially at scale. As technologists, it's our responsibility to build applications that allow everyone to participate more actively in society, and design systems provide the perfect architecture to get started on that journey. An accessible design system provides us much more than just a foundation for building with accessible components - it also provides a centralized source of documentation on how to get the larger scale experience design (and accessibility patterns) correct. In this session we'll look at how design systems and their governance structures can be intentionally constructed as a center of excellence and focal point for accessibility maturity for organizations of any scale."
+}

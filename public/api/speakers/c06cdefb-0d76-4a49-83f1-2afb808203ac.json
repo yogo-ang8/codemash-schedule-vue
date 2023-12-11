@@ -1,0 +1,16 @@
+{
+  "id": "c06cdefb-0d76-4a49-83f1-2afb808203ac",
+  "name": "Brian MacDonald",
+  "photo": "https://sessionize.com/image/161e-400o400o1-fb-0d76-4a49-83f1-2afb808203ac.f1951562-f78f-4f89-9d8a-a4bf67f58f3c.jpg",
+  "bio": "Brian MacDonald has been an editor of technical publications for over 20 years. For most of that time, he ran his own business, with clients including O’Reilly, Pragmatic Bookshelf, Wiley, Apress, Wrox, Osborne, and Manning. He also spent a few years as a technical writer at Microsoft. He has co-authored two editions of Learning C# and Learning ASP.NET for O’Reilly. He lives in southeastern Pennsylvania with his wife and son. You can follow him on Twitter at @bmac_editor.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/bmac_editor"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/macdonaldeditorial/"
+    }
+  ]
+}

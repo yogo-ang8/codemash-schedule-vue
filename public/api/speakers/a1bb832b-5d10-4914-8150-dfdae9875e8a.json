@@ -1,0 +1,24 @@
+{
+  "id": "a1bb832b-5d10-4914-8150-dfdae9875e8a",
+  "name": "Dev Agrawal",
+  "photo": "https://sessionize.com/image/2a01-400o400o1-Vh963vfLExzfuSSeBhQSuV.jpg",
+  "bio": "I am a full time Developer Advocate at Clerk and I make content on YouTube regarding software design and architecture. I've been writing full-stack JavaScript apps 7 years, recently graduated with an IT degree from University of Cincinnati. I have a special interest in devtools and practices that make it easier and faster to ship features at scale, especially those of the serverless variety.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/devagrawal09"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/dev-agr"
+    },
+    {
+      "title": "Blog",
+      "url": "https://devagr.me/"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://clerk.com"
+    }
+  ]
+}

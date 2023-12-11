@@ -1,0 +1,45 @@
+{
+  "id": "535340",
+  "title": "Unveil the Magic Without Hoodini: Transform Your Data Lake into a Fountain of Insights",
+  "speakers": [
+    {
+      "id": "e6551495-056e-429e-8dbf-004c0d88ec90",
+      "name": "Nadine Farah",
+      "photo": "https://sessionize.com/image/aa20-400o400o1-fzf5EKnDD3zuvLGevrR7ZG.png",
+      "bio": "Nadine Farah is leading Onehouse's developer initiatives and an Apache Hudi contributor. She's passionate about bridging engineering, product &amp; marketing to help drive product adoption. She previously led Rockset's developer initiatives, focusing on building technical content to drive developer adoption for real-time analytics. At Bose, she contributed to the watchOS SDK &amp; worked with partners to embrace spatial audio in the music and gaming industries.&nbsp;",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/nfarah86"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/nadinefarah/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.onehouse.ai/blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.onehouse.ai/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon B",
+  "track": "Data",
+  "tags": [
+    "Databases",
+    "Architecture",
+    "System Design",
+    "Performance"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Friday",
+  "startTime": "16:00",
+  "endTime": "17:00",
+  "excerpt": "Many people have been using their data lake as vast reservoirs of data. Yet, there’s been a real struggle to harness the full potential of this data to power actionable insights. These data lakes often become stagnant because processing and analyzing them is hard. Hudi’s magic, however, brings a...",
+  "description": "Many people have been using their data lake as vast reservoirs of data. Yet, there’s been a real struggle to harness the full potential of this data to power actionable insights. These data lakes often become stagnant because processing and analyzing them is hard. Hudi’s magic, however, brings a transformative approach to these challenges. Apache Hudi introduces features and services for upserts, incremental processing, and near real-time access. With its unique capabilities, Hudi breathes life into static data lakes, turning them into responsive, efficient, and dynamic systems. By embracing Hudi, organizations can ensure that their data is not just stored but is consistently ready for agile analytics, leading to informed decision-making and unlocking the dormant potential within their vast data repositories.\n\nIn this talk, attendees will learn:\n- The challenges with data lakes\n- How Hudi unlocks analytics on the data lake\n- Build efficient data pipelines with Hudi’s incremental processing on the data lake\n- Demo on how to get started\n"
+}

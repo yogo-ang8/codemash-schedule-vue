@@ -1,0 +1,12 @@
+{
+  "id": "3a98ccf2-e299-484d-9bbc-d6b6dd13ebb8",
+  "name": "Sam Ferree",
+  "photo": "https://sessionize.com/image/7f9e-400o400o1-20340481-0897-4912-b3a7-6b0df1e89a94.jpg",
+  "bio": "Sam Ferree is an engineer that has learned a lot of lessons about building web applications, too many of them the hard way. He enjoys finding new ways to deliver value with event driven applications built with Blazor and the wider .NET ecosystem. When not working he enjoys spending time with his family, travelling, and finding new ways to deliver value with event driven applications built with Blazor and the wider .NET ecosystem.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/sam_ferree"
+    }
+  ]
+}

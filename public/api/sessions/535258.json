@@ -1,0 +1,56 @@
+{
+  "id": "535258",
+  "title": "Dude, Who Broke My Linux Server?",
+  "speakers": [
+    {
+      "id": "09b76556-0b53-4f4e-a849-a2dcdbcd0dd6",
+      "name": "Ryan Price",
+      "photo": "https://sessionize.com/image/48f3-400o400o1-DgYHA782ZUBjCNezoepmmr.jpg",
+      "bio": "Ryan is an enthusiastic, polyglot software person who's worked across a ton of different domains, from operating systems &amp; infrastructure all the way up to \"data science\". He is the founder &amp; maintainer of OpenSourceCorp, a project aiming to emulate &amp; educate on typical enterprise IT environments. He loves video games, travel, food, and foreign language, whether of the software or human variety.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ryapric"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ryapric/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://opensourcecorp.org/blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://opensourcecorp.org"
+        }
+      ]
+    },
+    {
+      "id": "640f698f-c6cb-4adf-a87c-e597ec0845b1",
+      "name": "Justin DeBo",
+      "photo": "https://sessionize.com/image/47e4-400o400o1-dac7615a-141d-4e63-8c97-8293dc4ed08c.jpg",
+      "bio": "Justin is a passionate problem solver, with experience helping organizations solve some of their toughest cloud, devops and data engineering challenges. He’s also an active educator, serving as an adjunct instructor and facilitating workshops within the St. Louis area.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/justin-debo"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Programming Principles",
+  "tags": [
+    "Backend",
+    "Programming Principles",
+    "DevOps"
+  ],
+  "format": "PreCompiler",
+  "level": "Intermediate",
+  "day": "Wednesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "Linux-based operating systems are at the very core of the magic of computing technology -- and have been that core for decades. But software developers, data engineers, cloud engineers, and so many other disciplines often have no idea how to work effectively within those operating systems. What...",
+  "description": "Linux-based operating systems are at the very core of the magic of computing technology -- and have been that core for decades. But software developers, data engineers, cloud engineers, and so many other disciplines often have no idea how to work effectively within those operating systems. What happens when your code won't run? And how do you get things working again?\n\nIn this workshop, you'll be dropped head-first into a broken deployment machine, and you'll need to fix it, fast! This will be a fun &amp; lightly-competitive experience for all involved. Teams/individuals will be scored automatically based on how well (and how quickly) they are able to restore their machine to its former glory."
+}

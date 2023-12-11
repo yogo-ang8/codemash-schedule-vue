@@ -1,0 +1,24 @@
+{
+  "id": "f65ba841-c138-4124-bed5-fdb778ddc7aa",
+  "name": "Kilian Valkhof",
+  "photo": "https://sessionize.com/image/250b-400o400o1-SHWMWcFrAxfjBSvvwn1whn.jpg",
+  "bio": "Kilian is a front-end developer with over 20 years of experience that switched from building websites to building apps to build websites with. He is interested in modern web development, desktop app development and new technologies, and regularly speaks about topics like responsive websites, design systems and Electron. Kilian is a frequent open source contributor.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/kilianvalkhof"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/kilianvalkhof"
+    },
+    {
+      "title": "Blog",
+      "url": "https://kilianvalkhof.com"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://polypane.app"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "536452",
+  "title": "Accessibility in the Enterprise: The Relationship of A11y and ROI",
+  "speakers": [
+    {
+      "id": "730a789f-e2a8-483d-91bc-6e794f1b44d5",
+      "name": "Chris DeMars",
+      "photo": "https://sessionize.com/image/2d36-400o400o1-3g2Zbei96xuhcNUQf9X35e.jpg",
+      "bio": "Chris DeMars is a Senior Developer Advocate at Harness. He has over 20 years of technical experience and speaks all over the world on web accessibility, and CSS. For his community contributions, he holds awards as a Microsoft MVP, Google Developer Expert, Cloudinary Media Developer Expert, Auth0 Ambassador, and Progress Ninja. Chris advocates, teaches, and speaks on web accessibility as well as modern CSS; building applications with both at the forefront. When he is not working on making the web great and accessible you can find him writing blog posts, rating Detroit Style pizza, and watching Horror movies.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/saltnburnem"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chrisdemars/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon B",
+  "track": "Design (UI/UX/CSS/a11y)",
+  "tags": [
+    "Front End",
+    "Diversity/Equity/Inclusion",
+    "Accessibility"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "10:30",
+  "endTime": "11:30",
+  "excerpt": "As we build more and more things on the web, accessibility is gaining much more visibility. But what does it actually mean to you and your company? It means we HAVE to be cognizant of everyone, all the time, with no exceptions as we do our part in building awesome, accessible user experiences to...",
+  "description": "As we build more and more things on the web, accessibility is gaining much more visibility. But what does it actually mean to you and your company? It means we HAVE to be cognizant of everyone, all the time, with no exceptions as we do our part in building awesome, accessible user experiences to people of all levels of ability while being mindful of our users' diversity of disability. Accessibility on the web is not a nice-to-have, but a requirement: leaving out at least 20% of your audience can be detrimental to your organization's return on investment and bottom line. Not sure what to do? Let's fix that! Let's talk about all of the reasons that accessibility is essential to your organization and your users. You'll learn ways to ensure you're providing the best possible experience for all your users by sharing real examples from my time building and testing accessible applications to ensure you're truly delivering inclusive experiences."
+}

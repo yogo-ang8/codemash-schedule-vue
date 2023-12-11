@@ -1,0 +1,44 @@
+{
+  "id": "531984",
+  "title": "Controlling data overhead from the OpenTelmetry Collector",
+  "speakers": [
+    {
+      "id": "0fb4c43f-55e0-4fbe-b1a4-c8f5b5866cfc",
+      "name": "Nočnica Mellifera",
+      "photo": "https://sessionize.com/image/437b-400o400o1-QdpeNnYNWj3W9DizmqwaoP.png",
+      "bio": "Nočnica is a dev advocate  specializing in cloud applications, serverless, and containerization. She writes regularly for The New Stack and has been published in Information Age and Forbes. She spends her weekends caring for her dozens of houseplants.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/serverless_mom"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/serverlessmom/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/nocnica"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://github.com/signoz/signoz"
+        }
+      ]
+    }
+  ],
+  "room": "Salon D",
+  "track": "DevOps",
+  "tags": [
+    "DevOps",
+    "Performance",
+    "Observability"
+  ],
+  "format": "General Session",
+  "level": "Advanced",
+  "day": "Friday",
+  "startTime": "14:45",
+  "endTime": "15:45",
+  "excerpt": "The OpenTelemetry Collector is becoming the de facto standard for moving observability data within your architecture and to a data store. But in its default configuration it can overuse data and network resources. In this talk I'll cover the configuration control you have over your collector, and...",
+  "description": "The OpenTelemetry Collector is becoming the de facto standard for moving observability data within your architecture and to a data store. But in its default configuration it can overuse data and network resources. In this talk I'll cover the configuration control you have over your collector, and how you can reduce overhead, fix data cardinality and metrics explosion, and remove sensitive data before your data makes it out of your network.\n\nThis talk is for those using or planning to use OpenTelemetry.\n\n## Outline\n\n### why are we doing this - three concerns\n* data overhead\n* data cardinality aka metrics explosion\n* sensitive data &amp; PII\n\n### Collector Architecture\n* most basic - direct from SDK to datastore, don't do this\n* single collector\n* collector -&gt; collector\n* daemonset in Kubernetes (I promise you don't need to know Kubernetes to follow this talk!)\n\n### Configuring the collector\n* batching\n* parsing\n* averaging\n* transforming with OTTL"
+}

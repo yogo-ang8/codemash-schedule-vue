@@ -1,0 +1,35 @@
+{
+  "id": "536168",
+  "title": "Verbs, Not Nouns: Writing Documentation Users Want to Read",
+  "speakers": [
+    {
+      "id": "c06cdefb-0d76-4a49-83f1-2afb808203ac",
+      "name": "Brian MacDonald",
+      "photo": "https://sessionize.com/image/161e-400o400o1-fb-0d76-4a49-83f1-2afb808203ac.f1951562-f78f-4f89-9d8a-a4bf67f58f3c.jpg",
+      "bio": "Brian MacDonald has been an editor of technical publications for over 20 years. For most of that time, he ran his own business, with clients including O’Reilly, Pragmatic Bookshelf, Wiley, Apress, Wrox, Osborne, and Manning. He also spent a few years as a technical writer at Microsoft. He has co-authored two editions of Learning C# and Learning ASP.NET for O’Reilly. He lives in southeastern Pennsylvania with his wife and son. You can follow him on Twitter at @bmac_editor.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/bmac_editor"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/macdonaldeditorial/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon D",
+  "track": "Teams & Collaboration",
+  "tags": [
+    "Soft Skills",
+    "Teams"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "8:00",
+  "endTime": "9:00",
+  "excerpt": "Documentation should be complete and comprehensive, but that doesn't mean it has to be dull and boring. Engaging documentation focuses on what your users want to do, the tasks they're trying to accomplish, the problems they want to solve. Writing documentation with the focus on your user, instead of...",
+  "description": "Documentation should be complete and comprehensive, but that doesn't mean it has to be dull and boring. Engaging documentation focuses on what your users want to do, the tasks they're trying to accomplish, the problems they want to solve. Writing documentation with the focus on your user, instead of the product, results in a better experience for the user and a better reputation for your product.\n\nFinding the right balance isn't always easy, though. In this session, you'll discover the right verbs that fit the use cases for your product. That means learning more about your users and what they want, which may be more than one group of people. You'll turn those use cases into effective tutorials that cover the right amount of information. And you'll learn when reference-style documentation is needed, and how to make that more efficient too.\n\nAttendees will learn:\n* How to shift the focus from what the product is to what the reader wants to do.\n* Discovering the verbs that relate to your product.\n* How to create tutorial scenarios for your use cases.\n* How to write effective documentation for users with different experience levels.\n* When reference-style documentation is appropriate."
+}

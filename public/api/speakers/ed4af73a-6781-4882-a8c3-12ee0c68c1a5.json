@@ -1,0 +1,24 @@
+{
+  "id": "ed4af73a-6781-4882-a8c3-12ee0c68c1a5",
+  "name": "Bob Fornal",
+  "photo": "https://sessionize.com/image/dbfd-400o400o1-wkngtwMKUcVNxcmS2rBGgG.jpg",
+  "bio": "My focus is on front-end development: JavaScript, CSS, SVG, AngularJS and Angular, React, and Ionic. I commonly speak about Quality Engineering, Best Practices, and Front-End Technologies.\n \n \"Learning from my mistakes over the decades, I feel that I have become a solid programmer.\" -- Me",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/rfornal"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rfornal/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://dev.to/rfornal"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://www.leadingedje.com/home"
+    }
+  ]
+}

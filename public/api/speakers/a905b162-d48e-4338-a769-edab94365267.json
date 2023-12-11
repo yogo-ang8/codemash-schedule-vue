@@ -1,0 +1,20 @@
+{
+  "id": "a905b162-d48e-4338-a769-edab94365267",
+  "name": "Ryan Edge",
+  "photo": "https://sessionize.com/image/37bb-400o400o1-UgkAsAjTbiPUhAmYgLSyzF.jpg",
+  "bio": "Ryan Edge is a software engineer and Flutter GDE living in Charlotte, North Carolina.  His primary focus is front-end mobile and web development using Flutter and React. His secondary focus is back-end development with technologies including Node.js, GraphQL, Vercel, Supabase, and Firebase.  He is a co-author of the \"Cross-Platform UIs with Flutter\" book.\n \n Ryan Edge has 10+ years of experience ranging from maintaining large-scale systems to developing internal and commercial web, mobile, and desktop applications using various technologies.\n \n Ryan Edge is a community organizer of Flutter Charlotte and GDG Charlotte. He is passionate about creating software that has a tangible positive impact on the lives of its users, furthering diversity in the developer community, and mentoring young software engineers.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/chimon1984?t=gW9O4IWmo93sJoq1hA7cfg&s=09"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-edge"
+    },
+    {
+      "title": "Blog",
+      "url": "https://poetryincode.dev/"
+    }
+  ]
+}

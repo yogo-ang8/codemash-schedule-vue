@@ -1,0 +1,43 @@
+{
+  "id": "530145",
+  "title": "My Pi in the Sky - Running MySQL on a Raspberry Pi and Replicating Data to the Cloud",
+  "speakers": [
+    {
+      "id": "d8e84b6f-f7e0-4d3d-bd51-44fee46ad5ea",
+      "name": "Scott Stroz",
+      "photo": "https://sessionize.com/image/e3a6-400o400o1-PpxnvqFyqY3nmMZ2DyspZd.png",
+      "bio": "Scott is a developer with over 20 years of experience in several languages. In those years, MySQL was the only constant in his development stack. He is passionate about sharing what he has learned on his coding journey so others may learn from his mistakes.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/boyzoid"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/boyzoid/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://scottstroz.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.oracle.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon D",
+  "track": "Hardware/IoT",
+  "tags": [
+    "Hardware",
+    "Databases"
+  ],
+  "format": "General Session",
+  "level": "Advanced",
+  "day": "Thursday",
+  "startTime": "16:45",
+  "endTime": "17:45",
+  "excerpt": "Did you know that you can run MySQL on a Raspberry Pi and replicate the data to the cloud?\n\nIn this session, we will cover how to install MySQL on a Raspberry Pi, give a brief overview of how to store data on this MySQL instance, demonstrate an application that can visualize that data, and finally,...",
+  "description": "Did you know that you can run MySQL on a Raspberry Pi and replicate the data to the cloud?\n\nIn this session, we will cover how to install MySQL on a Raspberry Pi, give a brief overview of how to store data on this MySQL instance, demonstrate an application that can visualize that data, and finally, how you can replicate that data to a MySQL instance running in the cloud."
+}

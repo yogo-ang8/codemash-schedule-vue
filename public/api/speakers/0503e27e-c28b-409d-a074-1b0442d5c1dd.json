@@ -1,0 +1,24 @@
+{
+  "id": "0503e27e-c28b-409d-a074-1b0442d5c1dd",
+  "name": "Nuri Halperin",
+  "photo": "https://sessionize.com/image/870a-400o400o1-7e-c28b-409d-a074-1b0442d5c1dd.c9d28562-6658-4097-af03-b3374e077ea1.jpg",
+  "bio": "Nuri Halperin is a software architect, speaker, and author. He helps companies design scalable systems, websites, and business applications. He’s been turning projects into success stories for a variety of clients for over 2 decades.\n \n He authored of several Pluralsight.com courses. He's also a Microsoft MVP alum, a MongoDB Champions member, and recipient of MongoDB's William Zola Award for Community Excellence. He enjoys tinkering with Arduinos, 3D printing, and robotics.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/nurih"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/nurih"
+    },
+    {
+      "title": "Blog",
+      "url": "https://plusnconsulting.com/archive/"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://plusnconsulting.com/"
+    }
+  ]
+}

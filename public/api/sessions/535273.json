@@ -1,0 +1,47 @@
+{
+  "id": "535273",
+  "title": "Using Web Components to Scale Your UX",
+  "speakers": [
+    {
+      "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
+      "name": "Burton Smith",
+      "photo": "https://sessionize.com/image/a176-400o400o1-RK53QgNQm7o2xatLDp6RRh.jpg",
+      "bio": "I am a technical lead at Microsoft working with design systems and web components.\n \n I am also the creator of various open-source projects like Kickstand UI (a design system built with web components - kickstand-ui.com) and Clarion (a style framework for managing design systems - projectclarion.com).\n \n In my free time, I love spending time with my wife and three daughters, practicing martial arts, jamming on my ukulele, and learning new things (usually about software engineering).",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/stuffbreaker"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/burton-smith-48132a34/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stuffbreaker"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.microsoft.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon H",
+  "track": "Web/Front-End",
+  "tags": [
+    "Javascript",
+    "Front End",
+    "Accessibility",
+    "CSS",
+    "UI/UX",
+    "Architecture"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "8:00",
+  "endTime": "9:00",
+  "excerpt": "Whether you're a company with a variety of projects or an app that uses micro-front-end architecture, creating a consistent and reliable user experience can be difficult.\n\nIn this session, we will discuss how, at Microsoft, we have leveraged web components to standardize our user experiences and...",
+  "description": "Whether you're a company with a variety of projects or an app that uses micro-front-end architecture, creating a consistent and reliable user experience can be difficult.\n\nIn this session, we will discuss how, at Microsoft, we have leveraged web components to standardize our user experiences and improve developer efficiency."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "536416",
+  "title": "Designing Effective Unit Tests for React",
+  "speakers": [
+    {
+      "id": "ed4af73a-6781-4882-a8c3-12ee0c68c1a5",
+      "name": "Bob Fornal",
+      "photo": "https://sessionize.com/image/dbfd-400o400o1-wkngtwMKUcVNxcmS2rBGgG.jpg",
+      "bio": "My focus is on front-end development: JavaScript, CSS, SVG, AngularJS and Angular, React, and Ionic. I commonly speak about Quality Engineering, Best Practices, and Front-End Technologies.\n \n \"Learning from my mistakes over the decades, I feel that I have become a solid programmer.\" -- Me",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/rfornal"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rfornal/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/rfornal"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.leadingedje.com/home"
+        }
+      ]
+    }
+  ],
+  "room": "Salon H",
+  "track": "Software Quality",
+  "tags": [
+    "React",
+    "Front End",
+    "Code Quality"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Wednesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "React has great tools for Unit Testing component. This doesn’t mean testing is easy. There are still a lot of questions you have to figure out for yourself: How many component tests should you write vs end-to-end tests or lower-level unit tests? How can you test a certain line of code that is...",
+  "description": "React has great tools for Unit Testing component. This doesn’t mean testing is easy. There are still a lot of questions you have to figure out for yourself: How many component tests should you write vs end-to-end tests or lower-level unit tests? How can you test a certain line of code that is tricky to test? And what in the world are you supposed to do about that persistent act() warning?\n\nIn this workshop we’ll introduce Unit Testing with React, along with a mental model for how to think about designing your components and tests. This mental model will help you see how to test each bit of logic, whether or not to mock dependencies, and will help improve the design of your components. You’ll walk away with the tools, techniques, and principles you need to implement low-cost, high-value component tests.\n\nTable of contents\n\n- The different kinds of React application tests, and where component tests fit in.\n- A mental model for thinking about the inputs and outputs of the components you test.\n- Options for selecting DOM elements to verify and interact with them.\n- The value of mocks and why they shouldn’t be avoided.\n- The challenges with asynchrony in RTL tests and how to handle them.\n\nPrerequisites\n\n- Familiarity with building applications with React.\n- Basic experience writing automated tests with Jest or another unit testing framework."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "536084",
+  "title": "You Are the Pilot: Getting Better with Code Gen AI Tools",
+  "speakers": [
+    {
+      "id": "87db584b-f295-4018-96af-a0e1074fe7b4",
+      "name": "Sean Wedig",
+      "photo": "https://sessionize.com/image/ac15-400o400o1-4b-f295-4018-96af-a0e1074fe7b4.cdccc64d-0238-4778-8f2f-d36bcf29ecab.jpg",
+      "bio": "Sean Wedig is a Staff Software Engineer, tech talk organizer, mustache-wielder, and general loud mouth. He's been doing various forms of professional software development for about 20 years and making terrible puns for even longer. He's currently working on neat R&amp;D problems in computer vision and geometric model search algorithms, while also getting awesome people to talk about awesome things at Physna, the company behind Thangs.com.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/seanwedig/"
+        }
+      ]
+    }
+  ],
+  "room": "Nile",
+  "track": "Programming Principles",
+  "tags": [
+    "Velocity",
+    "Machine Learning",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Friday",
+  "startTime": "16:00",
+  "endTime": "17:00",
+  "excerpt": "You might have asked yourself - \"Self, what's all this hubub about AI tools for programmers?  Am I going to lose my job?\" and you might have answered, \"I don't know, self.  I haven't even really played with any AI code generation tools.  There are so many tools, I wouldn't even know where to...",
+  "description": "You might have asked yourself - \"Self, what's all this hubub about AI tools for programmers?  Am I going to lose my job?\" and you might have answered, \"I don't know, self.  I haven't even really played with any AI code generation tools.  There are so many tools, I wouldn't even know where to start.\"\n\nOr maybe you've said, \"Yeah, these code gen tools seem exciting in a glossy corporate demo, but have you tried using a chat interface to _actually_ develop software?  It's a nightmare!\"\n\nIf those sound like you, then you should come to this talk!  We've rolled out AI tools for all engineers at our company, and we've refined usage to get the most out of them.  I'll demo several recommended AI tool workflows, deliver tips on effectively using these tools, and discuss how you can get started with HUGE productivity gains as a software engineer!  (And maybe - expand your impact and roll the tools out more broadly at your company!)\n\nIt's the age of the machine!  Take advantage of it!"
+}

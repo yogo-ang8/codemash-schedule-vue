@@ -1,0 +1,20 @@
+{
+  "id": "49c0235d-431e-4dbe-aa84-acb19b900ca4",
+  "name": "Matt Burke",
+  "photo": "https://sessionize.com/image/282a-400o400o1-U5q6V6yoS59QbmaL6GkUyu.jpg",
+  "bio": "Matt has been slinging code in multiple languages for over a decade. He loves diving headfirst into new technology and learning and sharing its best practices to help teams deliver quality quickly.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/mattburkedev"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/akatakritos/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://www.mattburkedev.com/"
+    }
+  ]
+}

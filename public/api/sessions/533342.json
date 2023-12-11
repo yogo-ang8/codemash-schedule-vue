@@ -1,0 +1,41 @@
+{
+  "id": "533342",
+  "title": "From Theory to Practice: Building Reliable Event-Driven Services",
+  "speakers": [
+    {
+      "id": "e8f87752-5c8a-4531-8eb5-aac39867f51d",
+      "name": "Hugh McKee",
+      "photo": "https://sessionize.com/image/028f-400o400o1-s3zywT1e6skhbY9YnDF4qy.jpg",
+      "bio": "Hugh McKee is a skilled back-end developer, and developer advocate with decades of experience building enterprise applications. Specializing in large-scale, cloud-based systems, Hugh is dedicated to learning new technologies and sharing his knowledge with others. As a developer advocate, he speaks at conferences worldwide and is the author of \"Designing Reactive Systems: The Role Of Actors In Distributed Architecture.\" With a passion for teaching and evolving his software engineering skills, Hugh is a valuable contributor to the tech community.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mckeeh3"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mckeehugh/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://lightbend.com"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Architecture",
+  "tags": [
+    "Java",
+    "Backend",
+    "Programming Principles",
+    "System Design"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "16:00",
+  "endTime": "17:00",
+  "excerpt": "This talk will delve into the key concepts and strategies for creating effective and efficient event-driven services. We will cover the following topics:\n\nHandling at-least-once message delivery: This section will discuss the importance of ensuring that messages are delivered at least once, even in...",
+  "description": "This talk will delve into the key concepts and strategies for creating effective and efficient event-driven services. We will cover the following topics:\n\nHandling at-least-once message delivery: This section will discuss the importance of ensuring that messages are delivered at least once, even in the face of network failures or other errors. You will learn about various techniques for achieving this, such as using message acknowledgments and retries.\n\nIdempotent command handling: In this section, you will learn about the concept of idempotency, and why it is important for event-driven services. You will also learn about strategies for achieving idempotent command handling, such as approaches for de-duping incoming messages.\n\nLaws of event-driven physics: This section will introduce attendees to the laws of event-driven physics and how they can be applied to ensure efficient and effective event exchange in their services. You will learn about concepts such as event ordering, causality, and consistency.\n\nLive coding examples: The talk will include live coding examples demonstrating the concepts discussed in the talk. You will see firsthand how the techniques and strategies for building robust event-driven services can be applied in practice.\n\nThroughout the talk, You will learn how to build event-driven services that can handle large volumes of events, network failures, and multiple events simultaneously, emphasizing the best practices and common pitfalls to avoid."
+}

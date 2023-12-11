@@ -1,0 +1,43 @@
+{
+  "id": "532566",
+  "title": "A Hands-On Overview to Building AI Solutions with AI Builder",
+  "speakers": [
+    {
+      "id": "e4808bf3-8fc2-43e5-b9d0-303f77f43547",
+      "name": "Barret Blake",
+      "photo": "https://sessionize.com/image/0d94-400o400o1-Dc7G7MqgRQdxCvhDFwtvfL.png",
+      "bio": "Microsoft MVP, husband, father, solutions architect, manager, developer, gamer, Buckeyes fan, model railroader, board member of JavaScript &amp; Friends conference. When I'm not doing all that other stuff I also occasionally develop applications.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/BarretBlake"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/barretblake"
+        },
+        {
+          "title": "Blog",
+          "url": "https://barretblake.dev"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.cgi.com/en"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Data",
+  "tags": [
+    "Cloud",
+    "Automation"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "13:00",
+  "endTime": "14:00",
+  "excerpt": "Whether it's generating automated interactive chat experiences or automating business processes, AI is the future of business software. AI Builder is a powerful tool for organizations looking to incorporate the power of AI into their business processes. \n\nIn this talk, we'll explore the key features...",
+  "description": "Whether it's generating automated interactive chat experiences or automating business processes, AI is the future of business software. AI Builder is a powerful tool for organizations looking to incorporate the power of AI into their business processes.\n\nIn this talk, we'll explore the key features and capabilities of Power Automate's AI Builder and demonstrate how it can be used to build and deploy AI models quickly and easily. From automating tedious tasks to enhancing customer experiences, we'll examine the various use cases for AI Builder and show how it can help organizations drive innovation and growth. Whether you're new to AI or looking to expand your knowledge, this talk will provide valuable insights and best practices for using AI Builder to unlock the full potential of artificial intelligence to automate your work processes."
+}

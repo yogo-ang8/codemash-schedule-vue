@@ -1,0 +1,27 @@
+{
+  "id": "536897",
+  "title": "Talking to the Astronauts: Amateur HAM Radio",
+  "speakers": [
+    {
+      "id": "7da95183-3179-4157-a208-4a535419cb1f",
+      "name": "Laci Graham",
+      "photo": "https://sessionize.com/image/395d-400o400o1-Juj2ETnYQ7hb9cpAAA4Bdy.jpeg",
+      "bio": " My name is Lacilynn Graham and I’m a Meteorology student at Ohio State University. I’m a certified storm spotter and storm chaser.",
+      "links": []
+    }
+  ],
+  "room": "Guava / Tamarind",
+  "track": "KidzMash",
+  "tags": [
+    "Hardware",
+    "System Design",
+    "Observability"
+  ],
+  "format": "KidzMash Sessionz",
+  "level": "",
+  "day": "Friday",
+  "startTime": "10:30",
+  "endTime": "11:30",
+  "excerpt": "This interactive talk is open to anyone who is interested but suggested for older kids. In this talk we’ll learn about how radios work, how to get your amateur radio license, and we’ll talk to the astronauts in the International Space Station.",
+  "description": "This interactive talk is open to anyone who is interested but suggested for older kids. In this talk we’ll learn about how radios work, how to get your amateur radio license, and we’ll talk to the astronauts in the International Space Station."
+}

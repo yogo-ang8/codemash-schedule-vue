@@ -1,0 +1,30 @@
+{
+  "id": "577401",
+  "title": "TinkerCAD and 3D-Printing",
+  "speakers": [
+    {
+      "id": "746cf599-ae60-45b2-8867-5d011745bfdd",
+      "name": "Andrew Fuller",
+      "photo": "https://sessionize.com/image/1aa3-400o400o1-3JsAjzaQ1nPMMA18S2h9yt.jpg",
+      "bio": " I am a senior student at The University of Akron, going for my Bachelors of Science in Mechanical Engineering. My main involvement outside of classes is the Akronauts Rocket Design Team, where we build rockets that launch miles into the sky. I am a Solid Propulsion Research and Development Lead on the team and have been a part of multiple other sub-teams, such as structures and avionics. I recently interned at Northrop Grumman this past summer as a Structural Analysis Engineer, and I also participated in one of their intern programs that focused on creative design and team building. I am always looking to learn and to share what I have learned. I have been to every CodeMash conference since I was four years old, and seeing a 3D-printer at CodeMash years ago helped inspired me in my interests in engineering in the first place, of which I now own three 3D printers.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andrew-fuller-127852238"
+        }
+      ]
+    }
+  ],
+  "room": "Portia / Wisteria",
+  "track": "KidzMash",
+  "tags": [
+    "System Design"
+  ],
+  "format": "KidzMash Divez",
+  "level": "",
+  "day": "Wednesday",
+  "startTime": "9:30",
+  "endTime": "11:30",
+  "excerpt": "In this session, I will introduce the basic ideas of 3D-Printing using TinkerCAD, a simple and free modeling software anyone can use. You will learn how to make your own CodeMash/KidzMash token that you will be able to take home with you at the end of the week. Make sure to bring a laptop and be...",
+  "description": "In this session, I will introduce the basic ideas of 3D-Printing using TinkerCAD, a simple and free modeling software anyone can use. You will learn how to make your own CodeMash/KidzMash token that you will be able to take home with you at the end of the week. Make sure to bring a laptop and be ready to design!"
+}

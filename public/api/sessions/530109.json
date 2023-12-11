@@ -1,0 +1,44 @@
+{
+  "id": "530109",
+  "title": "Stop using JavaScript for that: moving features from JS to CSS and HTML",
+  "speakers": [
+    {
+      "id": "f65ba841-c138-4124-bed5-fdb778ddc7aa",
+      "name": "Kilian Valkhof",
+      "photo": "https://sessionize.com/image/250b-400o400o1-SHWMWcFrAxfjBSvvwn1whn.jpg",
+      "bio": "Kilian is a front-end developer with over 20 years of experience that switched from building websites to building apps to build websites with. He is interested in modern web development, desktop app development and new technologies, and regularly speaks about topics like responsive websites, design systems and Electron. Kilian is a frequent open source contributor.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/kilianvalkhof"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/kilianvalkhof"
+        },
+        {
+          "title": "Blog",
+          "url": "https://kilianvalkhof.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://polypane.app"
+        }
+      ]
+    }
+  ],
+  "room": "Nile",
+  "track": "Design (UI/UX/CSS/a11y)",
+  "tags": [
+    "Javascript",
+    "Front End",
+    "Accessibility"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Thursday",
+  "startTime": "15:30",
+  "endTime": "16:30",
+  "excerpt": "If you've been building websites for a while you \"know\" that some things require JS and that's just the way it is. Turns out, spec writers and browser makers both are working hard to find common JS patterns and implementing them in CSS and HTML. Things like accordions, auto-suggest, smooth...",
+  "description": "If you've been building websites for a while you \"know\" that some things require JS and that's just the way it is. Turns out, spec writers and browser makers both are working hard to find common JS patterns and implementing them in CSS and HTML. Things like accordions, auto-suggest, smooth scrolling, dialogs are all available without JS. Looking a little ahead, things like parallax scrolling, styleable selects and component-dependent styling are expected to make their CSS-debut as well.\n\nIn this talk I walk through a few common patterns, explain how they can be implemented in CSS and HTML, how that's better and what accessibility implications they have, both for features available today and feature available soon™️."
+}

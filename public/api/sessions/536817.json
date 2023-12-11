@@ -1,0 +1,52 @@
+{
+  "id": "536817",
+  "title": "Building Applications on Top of Large Language Models (LLMs) (Part 1)",
+  "speakers": [
+    {
+      "id": "58bf8fb1-7471-4281-9bdb-2e814c8422e5",
+      "name": "Nilanjan Raychaudhuri",
+      "photo": "https://sessionize.com/image/a654-400o400o1-Qf8w8wDgBvFnGVet6EG6SY.jpeg",
+      "bio": "I am a software engineer and founder of Tublian, living in Columbus, Ohio. My interests range from product development to entrepreneurship, technology, AI, and programming languages.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/nraychaudhuri"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/nraychaudhuri/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://devlog.tublian.com/"
+        }
+      ]
+    },
+    {
+      "id": "3f72b13f-457a-4935-9011-aeefa7adb90e",
+      "name": "BJ Allmon",
+      "photo": "https://sessionize.com/image/dc40-400o400o1-w9EPfr8VsxvF1C459956d5.jpg",
+      "bio": "I enjoy building great things with humans who desire to do good.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/bjallmon/"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Data",
+  "tags": [
+    "Python",
+    "Programming Principles",
+    "Machine Learning"
+  ],
+  "format": "PreCompiler",
+  "level": "Intermediate",
+  "day": "Tuesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "It’s no secret that a new generation of powerful and highly-scaled language models is taking the world by storm. Large language models are becoming a powerful new primitive for building software.\nIn this precompiler, we will deep dive into the rapidly evolving landscape of Large Language Models...",
+  "description": "It’s no secret that a new generation of powerful and highly-scaled language models is taking the world by storm. Large language models are becoming a powerful new primitive for building software.\nIn this precompiler, we will deep dive into the rapidly evolving landscape of Large Language Models (LLMs) &amp; how software developers can leverage the untapped potential of LLMs. The hands-on exercises will give the audience a first-hand experience building applications on top of LLMs. Using Python, OpenAI, Langchain, and vector databases, developers will learn how to build intuitive conversational interfaces for their applications, making them more engaging and user-friendly."
+}

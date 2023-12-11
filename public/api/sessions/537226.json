@@ -1,0 +1,40 @@
+{
+  "id": "537226",
+  "title": "You’re Doing Exceptions Wrong",
+  "speakers": [
+    {
+      "id": "49c0235d-431e-4dbe-aa84-acb19b900ca4",
+      "name": "Matt Burke",
+      "photo": "https://sessionize.com/image/282a-400o400o1-U5q6V6yoS59QbmaL6GkUyu.jpg",
+      "bio": "Matt has been slinging code in multiple languages for over a decade. He loves diving headfirst into new technology and learning and sharing its best practices to help teams deliver quality quickly.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mattburkedev"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/akatakritos/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mattburkedev.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Programming Principles",
+  "tags": [
+    "Backend",
+    "Object Oriented Programming",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "11:45",
+  "endTime": "12:45",
+  "excerpt": "Exceptions are powerful and valuable, but we frequently misuse them and destabilize our applications. We fear users seeing an error message, so we swallow the exception, creating troubleshooting nightmares down the road. We fail to check inputs and throw them at all, letting garbage into our...",
+  "description": "Exceptions are powerful and valuable, but we frequently misuse them and destabilize our applications. We fear users seeing an error message, so we swallow the exception, creating troubleshooting nightmares down the road. We fail to check inputs and throw them at all, letting garbage into our databases that ruins our application’s correctness. When we do actually get around to throwing an error, we use unclear messages that mislead and distract or we go overboard and cover our entire codebase with annoying try-catch blocks that make the code impossible to read.\n\nIt doesn’t have to be this way! This talk will tell you about numerous exception-related antipatterns and how to fix them. You’ll get practical examples born of real-world codebases that show you how to design your systems in ways that are easy to troubleshoot. If you’re new to object-oriented programming with exceptions, you’ll get a lot out of this talk: you’ll learn how to do exceptions the right way and enjoy safer and more maintainable code."
+}

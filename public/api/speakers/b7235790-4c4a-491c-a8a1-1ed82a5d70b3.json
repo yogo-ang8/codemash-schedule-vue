@@ -1,0 +1,16 @@
+{
+  "id": "b7235790-4c4a-491c-a8a1-1ed82a5d70b3",
+  "name": "Seth Petry-Johnson",
+  "photo": "https://sessionize.com/image/e25b-400o400o1-apT1veHMEsTzkNtDX4hGKo.jpg",
+  "bio": "Seth spent 21 years as a professional developer/architect before finally joining the dark side of management. He now spends his days as a pointy-haired boss leading a small-but-mighty product development team in the search for elegant solutions to complex problems. He is passionate about clean architecture, testable systems, and bringing order to chaos. Seth lives in Columbus, OH and is an active participant in the Midwest developer community. He'll write TPS reports when he has to, but still enjoys writing, reviewing, and talking about code.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/spetryjohnson"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sethpetryjohnson/"
+    }
+  ]
+}

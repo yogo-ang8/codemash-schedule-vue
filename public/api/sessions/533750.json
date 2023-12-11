@@ -1,0 +1,31 @@
+{
+  "id": "533750",
+  "title": "Projectional Code Editors: Past, Present, and Future",
+  "speakers": [
+    {
+      "id": "b0285dfa-db64-4536-86ba-8961c007f4bb",
+      "name": "Jonathan Arnett",
+      "photo": "https://sessionize.com/image/fd8d-400o400o1-MDneB8uy4XauuHMhndx4zD.jpg",
+      "bio": "Jonathan is a software engineer who has dabbled in embedded systems and desktop applications, but has spent the vast majority of his career working with web technologies.  His interests are centered around developer productivity and happiness, specifically programming languages, tools, and ecosystems.",
+      "links": [
+        {
+          "title": "Blog",
+          "url": "https://j3rn.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Programming Principles",
+  "tags": [
+    "UI/UX",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "8:30",
+  "endTime": "9:30",
+  "excerpt": "Have you ever felt that your humble text editor could be—should be—so much more?  After all, the software we're writing is much more than text!  Programming languages mandate rigid structures for textual code, for instance that (in some languages) the conditional for an \"if\" must be in...",
+  "description": "Have you ever felt that your humble text editor could be—should be—so much more?  After all, the software we're writing is much more than text!  Programming languages mandate rigid structures for textual code, for instance that (in some languages) the conditional for an \"if\" must be in parentheses, but it seems that our editors are woefully unaware of these rules.  While modern editors can list the methods on an object after you type a period, they don't seem to know that after \"if\" comes \"then\"!  If only we had \"smarter\" editors that could take some of the drudgery out of writing code, we may be able to achieve greater productivity.\n\nLuckily for us, developers have been thinking about this for quite some time.  In fact, editors that operate on programs' abstract syntax trees (ASTs) instead of textual code, known as \"projectional editors,\" have been around since the 1980s!  Unfortunately for us, however, they have always been fairly niche and had several significant drawbacks.  Together we'll explore the complicated history of these editors, the current state-of-the-art, and the prospects for a more efficient future!"
+}

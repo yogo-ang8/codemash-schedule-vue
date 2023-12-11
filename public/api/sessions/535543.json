@@ -1,0 +1,43 @@
+{
+  "id": "535543",
+  "title": "Does Your API Need a REST? Check Out GraphQL",
+  "speakers": [
+    {
+      "id": "c2745a9d-1b7d-4cc3-a620-46afb9337f6d",
+      "name": "Dan Vega",
+      "photo": "https://sessionize.com/image/93f1-400o400o1-VqkFnqj8XbT2tsMwdh9WqF.png",
+      "bio": "Dan Vega is a Spring Developer Advocate at VMware Tanzu. He has been developing software for the web for over 20 years and his superpower is problem-solving. Dan is a blogger, YouTuber, course creator, and speaker. He is a lifelong learner and his passion is sharing his knowledge with the developer community. Dan lives near Cleveland Ohio with his beautiful wife and 2 daughters. When he isn’t writing code or teaching he enjoys spending time with his family, lifting weights, running, or reading a good book.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/therealdanvega"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/danvega/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.danvega.dev/blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.vmware.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon A",
+  "track": "Programming Principles",
+  "tags": [
+    "Java",
+    "GraphQL"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "15:30",
+  "endTime": "16:30",
+  "excerpt": "GraphQL is a declarative query language that simplifies retrieving data from an application's back end. It provides a clear and comprehensive description of the data in your API, giving you the ability to request only what you need. This makes it easy to evolve APIs over time and enables powerful...",
+  "description": "GraphQL is a declarative query language that simplifies retrieving data from an application's back end. It provides a clear and comprehensive description of the data in your API, giving you the ability to request only what you need. This makes it easy to evolve APIs over time and enables powerful developer tools.\n\nIn this talk, I will cover the basics of GraphQL and how it differs from traditional RESTful API architectures. You will learn how to construct API requests using the query language on the client side. On the server side, you will learn how to create a schema and data fetchers (controller methods) to power them. We will also discuss best practices for building GraphQL APIs with Spring Boot, including batch loading, pagination, and error handling.\nBy the end of this talk you will have everything you need to build your first GraphQL API in Spring."
+}

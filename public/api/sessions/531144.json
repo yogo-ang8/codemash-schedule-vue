@@ -1,0 +1,43 @@
+{
+  "id": "531144",
+  "title": "The Right Database for the Right Job",
+  "speakers": [
+    {
+      "id": "0503e27e-c28b-409d-a074-1b0442d5c1dd",
+      "name": "Nuri Halperin",
+      "photo": "https://sessionize.com/image/870a-400o400o1-7e-c28b-409d-a074-1b0442d5c1dd.c9d28562-6658-4097-af03-b3374e077ea1.jpg",
+      "bio": "Nuri Halperin is a software architect, speaker, and author. He helps companies design scalable systems, websites, and business applications. He’s been turning projects into success stories for a variety of clients for over 2 decades.\n \n He authored of several Pluralsight.com courses. He's also a Microsoft MVP alum, a MongoDB Champions member, and recipient of MongoDB's William Zola Award for Community Excellence. He enjoys tinkering with Arduinos, 3D printing, and robotics.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/nurih"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/nurih"
+        },
+        {
+          "title": "Blog",
+          "url": "https://plusnconsulting.com/archive/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://plusnconsulting.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Data",
+  "tags": [
+    "Databases",
+    "Architecture"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "11:00",
+  "endTime": "12:00",
+  "excerpt": "Picking a database for your particular purpose is hard, and vendors don't make it easier. So which database is right for which workload?\n\nThis session breaks down the decision factors into characteristics that let you decide and reason with them on even ground.\n\nWe will examine the underlying...",
+  "description": "Picking a database for your particular purpose is hard, and vendors don't make it easier. So which database is right for which workload?\n\nThis session breaks down the decision factors into characteristics that let you decide and reason with them on even ground.\n\nWe will examine the underlying technology and core strength of each database. Is it distributed I/O? Is it in-memory? Does it rely on indexing? Columnar? Row-Oriented? Document? With this understanding, we can match our expected workloads to the most appropriate technology.\n\nWith this knowledge, you will be able to:\n- Identify core capabilities of major databases.\n- Fit your workload needs to the right DB engine.\n- Cut through the hype."
+}

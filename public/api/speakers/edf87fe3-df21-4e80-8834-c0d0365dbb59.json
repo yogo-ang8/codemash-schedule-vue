@@ -1,0 +1,16 @@
+{
+  "id": "edf87fe3-df21-4e80-8834-c0d0365dbb59",
+  "name": "Bill Sempf",
+  "photo": "https://sessionize.com/image/d49c-400o400o1-DXpUYKaiyv72mcRe5fJ4EF.jpg",
+  "bio": "Bill Sempf is a software security architect. His breadth of experience includes business and technical analysis, software design, development, testing, server management and maintenance, and security. In his 20 years of professional experience he has participated in the creation of well over 200 applications for large and small companies, managed the software infrastructure of two Internet service providers, coded complex software happily in every environment imaginable, tested the security of all natures of applications and APs, and made mainframes talk to cell phones. He is the author of C# 5 All in One for Dummies and Windows 8 Programming with HTML5 For Dummies; a coauthor of Effective Visual Studio.NET and many other books, a frequent contributor to industry magazines; and has recently been an invited speaker for the ACM and IEEE, BlackHat, CodeMash, DerbyCon, BSides, DevEssentials, the International XML Web Services Expo and the Association of Information Technology Professionals. Bill also serves on the board of the Columbus branch of the Open Web Application Security Project, and is the Administrative Director of Locksport International.",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/billsempf/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://sempf.net/"
+    }
+  ]
+}

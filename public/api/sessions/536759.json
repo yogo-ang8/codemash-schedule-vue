@@ -1,0 +1,39 @@
+{
+  "id": "536759",
+  "title": "State of Mobile Development",
+  "speakers": [
+    {
+      "id": "fc1d0cd3-9675-4188-aa98-e0088069f1a4",
+      "name": "Sam Basu",
+      "photo": "https://sessionize.com/image/9947-400o400o1-d3-9675-4188-aa98-e0088069f1a4.0788eacd-acef-44d2-868e-cf111b1f2516.jpg",
+      "bio": "Sam Basu is a technologist, author, speaker, Microsoft MVP, gadget-lover and Developer Advocate at Progress Software. With a long developer background, he now spends much of his time advocating modern development platforms &amp; tools on Microsoft/Telerik technology stacks. His spare times call for travel, fast cars, cricket and culinary adventures. You can find him as @samidip on the internet.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/samidip"
+        },
+        {
+          "title": "Blog",
+          "url": "https://samidipbasu.com/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Mobile",
+  "tags": [
+    ".NET",
+    "Javascript"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "8:30",
+  "endTime": "9:30",
+  "excerpt": "It’s 2024. Thankfully, developers have a lot of choice in how to build for mobile form factors. Mobile strategy can often be an afterthought – in reality, it needs to be driven by type of app, audience, platform reach, developer expertise & need for code reuse. \n\nIs Mobile web still an option?...",
+  "description": "It’s 2024. Thankfully, developers have a lot of choice in how to build for mobile form factors. Mobile strategy can often be an afterthought – in reality, it needs to be driven by type of app, audience, platform reach, developer expertise &amp; need for code reuse.\n\nIs Mobile web still an option? Have PWAs matured enough to prove the web as a distribution medium? What key factors demand native mobile apps for iOS/Android/Windows? Can you target dual screen devices or share code with wearables? Developers also want to leverage preferred technology stacks - .NET or JavaScript. .NET MAUI sounds like the next-generation .NET cross-platform story – is it truly native &amp; does it allow bringing in web technologies? How do NativeScript &amp; React Native fare for JS Native apps? How do Blazor &amp; JS Spa apps play in the mobile space? What could developers achieve with Flutter or Uno Platform or Avalonia?\n\nThe answer to the correct mobile strategy is – it depends. Developers today can build true modern cross-platform mobile apps from single code base, with easy platform API access &amp; matured tooling everywhere. The choice of technology stack should not matter as much. Design &amp; UX are of utmost importance though. Let’s recap options, glimpse into the future and equip ourselves to build amazing mobile apps.\n"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "536549",
+  "title": "Meet Your New BFF: Backend to Frontend without the Duct Tape",
+  "speakers": [
+    {
+      "id": "a1bb832b-5d10-4914-8150-dfdae9875e8a",
+      "name": "Dev Agrawal",
+      "photo": "https://sessionize.com/image/2a01-400o400o1-Vh963vfLExzfuSSeBhQSuV.jpg",
+      "bio": "I am a full time Developer Advocate at Clerk and I make content on YouTube regarding software design and architecture. I've been writing full-stack JavaScript apps 7 years, recently graduated with an IT degree from University of Cincinnati. I have a special interest in devtools and practices that make it easier and faster to ship features at scale, especially those of the serverless variety.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/devagrawal09"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/dev-agr"
+        },
+        {
+          "title": "Blog",
+          "url": "https://devagr.me/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://clerk.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon A",
+  "track": "Web/Front-End",
+  "tags": [
+    "Javascript",
+    "Backend",
+    "Front End"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "9:15",
+  "endTime": "10:15",
+  "excerpt": "Even with all of the incredible frameworks available today vs. a decade ago (or even two––for devs who have been around as long as I have), it still feels like much of our work as fullstack developers is still repetitive, and held together by duct tape code we shouldn’t be writing.  \n\nThis is...",
+  "description": "Even with all of the incredible frameworks available today vs. a decade ago (or even two––for devs who have been around as long as I have), it still feels like much of our work as fullstack developers is still repetitive, and held together by duct tape code we shouldn’t be writing.\n\nThis is because we write a lot of duplicate and boilerplate code for everyday things such as simple database CRUD, data validation, authorization, and data-type conversions, but the majority of these tasks haven’t advanced at the pace of modern web architecture.\n\nIn this live coding session we'll turn a front-end app into a fullstack app with code that is easy to write, follow &amp;, most importantly maintain, with end-to-end typesafety (say no to GraphQL!), consistent and encapsulated validations, live querying, access control, secured APIs, you get the idea.\n\nYou’ll come away from this session able to build apps for modern web architecture while still maintaining our code DRY and increase productivity.\n"
+}

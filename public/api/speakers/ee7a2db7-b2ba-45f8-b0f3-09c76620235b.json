@@ -1,0 +1,20 @@
+{
+  "id": "ee7a2db7-b2ba-45f8-b0f3-09c76620235b",
+  "name": "John Hammond",
+  "photo": "https://sessionize.com/image/0ca6-400o400o1-398298f9-1e45-4d0c-8d7d-04b9907db32d.jpg",
+  "bio": "John Hammond is a cybersecurity researcher, educator and content creator. As part of the Research &amp; Development Threat Operations team at Huntress, John spends his days analyzing malware and making hackers earn their access. Previously, as a Department of Defense Cyber Training Academy instructor, he taught the Cyber Threat Emulation course, educating both civilian and military members on offensive Python, PowerShell, other scripting languages and the adversarial mindset. He has developed training material and information security challenges for events such as PicoCTF and competitions at DEFCON US. John speaks at security conferences such as BsidesNoVA, to students at colleges such as the US Naval Academy, and other online events including the SANS Holiday Hack Challenge/KringleCon. He is an online YouTube personality showcasing programming tutorials, CTF video walkthroughs and other cyber security content.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/_johnhammond"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/johnhammond010"
+    },
+    {
+      "title": "Blog",
+      "url": "https://johnhammond.llc"
+    }
+  ]
+}

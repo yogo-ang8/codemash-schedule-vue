@@ -1,0 +1,44 @@
+{
+  "id": "537169",
+  "title": "Beyond Request/Response: Why and how we should change the way we build web applications",
+  "speakers": [
+    {
+      "id": "911aa52a-b0e0-42d7-99c2-e6701cfefcb0",
+      "name": "Chris Nelson",
+      "photo": "https://sessionize.com/image/2da1-400o400o1-2a-b0e0-42d7-99c2-e6701cfefcb0.a944d54a-eb9d-4300-b373-b5561ffacbd8.jpg",
+      "bio": "Chris Nelson is a Co-Founder of Launch Scout. He created the company’s apprenticeship program, mentors new developers, and sets technology direction. He loves sharing what he’s learned from over 25 years of developing software across a wide range of industries. Chris has given workshops across the country and spoken at conferences including ElixirConf, RailsConf, RubyConf, JavaOne, CodeMash and Scottish Ruby Conf.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/superchris"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chris-nelson-038875/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://launchscout.com/blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://launchscout.com"
+        }
+      ]
+    }
+  ],
+  "room": "Orange",
+  "track": "Web/Front-End",
+  "tags": [
+    "Javascript",
+    "Front End",
+    "Functional Programming"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "11:00",
+  "endTime": "12:00",
+  "excerpt": "As web developers, we’ve been building web applications the same way for 25 years. We send a request, and we receive a response. We might get a whole page back, or we might get some data to render, but the common thread for almost every web application that has ever been built is the...",
+  "description": "As web developers, we’ve been building web applications the same way for 25 years. We send a request, and we receive a response. We might get a whole page back, or we might get some data to render, but the common thread for almost every web application that has ever been built is the request/response cycle. What if we didn’t have to do it this way? What kind possibilities would open up to us?\n\nIn this session, we’ll take a simple, existing design pattern that you are probably already familiar with even if you don’t know it by name: the Event/State Reducer pattern. You’ve already used it if you’ve worked with Redux or Elm. We are going to stretch this pattern just a little: we will publish events from the client, use reducer functions on the server to compute our new state, and subscribe to these state changes on the client.\n\nWe’ll explore this idea with several code examples that gradually increase in complexity. We’ll see how building collaborative and real-time applications becomes natural and straightforward. We’ll also see how to combine statically generated websites with interactive applications in a way that was difficult or impossible before. You can expect to come away with practical but hopefully mind expanding new approaches to building your next application.\n"
+}

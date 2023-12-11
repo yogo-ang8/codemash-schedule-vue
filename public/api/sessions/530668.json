@@ -1,0 +1,46 @@
+{
+  "id": "530668",
+  "title": "Prime (re)Factoring",
+  "speakers": [
+    {
+      "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",
+      "name": "Steve Smith",
+      "photo": "https://sessionize.com/image/2328-400o400o1-4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
+      "bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\n \n Steve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ardalis"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stevenandrewsmith"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ardalis.com/blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://nimblepros.com"
+        }
+      ]
+    }
+  ],
+  "room": "Orange",
+  "track": "Programming Principles",
+  "tags": [
+    ".NET",
+    "C#",
+    "Object Oriented Programming",
+    "Programming Principles",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "13:00",
+  "endTime": "14:00",
+  "excerpt": "You've probably heard of refactoring, but did you know the term originates from the process of factoring programming code? In mathematics, factoring is used to pull out factors of numbers through division, and importantly prime numbers have factors of only themselves and the identity constant,...",
+  "description": "You've probably heard of refactoring, but did you know the term originates from the process of factoring programming code? In mathematics, factoring is used to pull out factors of numbers through division, and importantly prime numbers have factors of only themselves and the identity constant, 1.\n\nSoftware also has factors, and the process of factoring is used to help reduce the scope of complex software to its prime factors, each of which elegantly performs a single function or responsibility.\n\nLearn how to factor - and refactor - your non-prime code into more elegant, testable, and maintainable prime code."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "536770",
+  "title": "Learning, Giving Back, & the Art of Community",
+  "speakers": [
+    {
+      "id": "39a66c04-95e2-4fbb-b3b4-99f505a24db6",
+      "name": "Mike Nelson",
+      "photo": "https://sessionize.com/image/98f5-400o400o1-04-95e2-4fbb-b3b4-99f505a24db6.ba0d8d1b-ca73-4c3d-823c-5205b83fd542.jpg",
+      "bio": "My career in information technology spans over many decades, involving a vast array of technologies and solutions. I am very passionate about cutting edge technology, solutions, and knowledge sharing. I have been awarded prestigious community contribution awards such as a Microsoft MVP for Cloud and Datacenter Management, a Microsoft Azure Advisor, a Citrix Technology Advocate, and a VMware vExpert and VMware User Group Leader. I am an international speaker at technical conferences, corporations, and user groups.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://www.twitter.com/mikenelsonio"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/nelmedia"
+        },
+        {
+          "title": "Blog",
+          "url": "https://mikenelson.io"
+        }
+      ]
+    }
+  ],
+  "room": "Salon G",
+  "track": "Career Development",
+  "tags": [
+    "Career Development",
+    "Diversity/Equity/Inclusion",
+    "Soft Skills",
+    "Leadership",
+    "Teams"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Friday",
+  "startTime": "9:45",
+  "endTime": "10:45",
+  "excerpt": "As you journey through your career(s) in IT, it is becoming more critical for you to immerse yourself in the network of worldwide and regional communities that are available in just a few mouse clicks. The drive for continuous learning, combined with the passion for giving back through many...",
+  "description": "As you journey through your career(s) in IT, it is becoming more critical for you to immerse yourself in the network of worldwide and regional communities that are available in just a few mouse clicks. The drive for continuous learning, combined with the passion for giving back through many different avenues, should be engraved in your professional and personal goals. Come and listen to some great stories, a little bit of role playing, and best practices for teaching yourself the Art of the Community."
+}

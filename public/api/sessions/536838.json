@@ -1,0 +1,51 @@
+{
+  "id": "536838",
+  "title": "Enhance Fullstack Workshop",
+  "speakers": [
+    {
+      "id": "888fa440-0056-4eb5-971c-7945fe50311d",
+      "name": "Simon MacDonald",
+      "photo": "https://sessionize.com/image/5126-400o400o1-VS2MCeoNj9oKK5nL9nJwTz.JPG",
+      "bio": "Simon has over twenty years of development experience and has worked on a variety of projects, including object-oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source projects Architect and Enhance to enable developers to create functional web applications. Simon’s been building web applications since the days they were written using shell scripts, and he still has nightmares about those dark days.\n",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/macdonst"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/simonmacdonald/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.begin.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://begin.com"
+        }
+      ]
+    },
+    {
+      "id": "385e3ea4-6dbb-47f9-924c-df80e4fe0e8f",
+      "name": "Ryan Bethel",
+      "photo": "//www.codemash.org/wp-content/uploads/2018/10/codemash-logo-256x300.png",
+      "bio": "",
+      "links": []
+    }
+  ],
+  "room": "Salon H",
+  "track": "Web/Front-End",
+  "tags": [
+    "Javascript",
+    "Backend",
+    "Front End"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Wednesday",
+  "startTime": "13:00",
+  "endTime": "17:00",
+  "excerpt": "The Enhance Fullstack Workshop is designed for developers. You will learn how to build a full-stack web application (client and server) using Enhance powered by Node.js, and AWS. You'll leave with the skills required to construct multi-page dynamic web apps that leverage the platform while avoiding...",
+  "description": "The Enhance Fullstack Workshop is designed for developers. You will learn how to build a full-stack web application (client and server) using Enhance powered by Node.js, and AWS. You'll leave with the skills required to construct multi-page dynamic web apps that leverage the platform while avoiding so-called \"modern\" tools that layer on complexity and unnecessary weight.\nYou'll start by learning about Enhance's HTML first approach, how it works and what problems it helps you avoid. Then we'll proceed through several hands-on learning activities for building a modern web application complete with a UI built from web components, a serverless API layer, and a cloud-managed database."
+}

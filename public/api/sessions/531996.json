@@ -1,0 +1,44 @@
+{
+  "id": "531996",
+  "title": "Hands on with OpenTelemetry",
+  "speakers": [
+    {
+      "id": "0fb4c43f-55e0-4fbe-b1a4-c8f5b5866cfc",
+      "name": "Nočnica Mellifera",
+      "photo": "https://sessionize.com/image/437b-400o400o1-QdpeNnYNWj3W9DizmqwaoP.png",
+      "bio": "Nočnica is a dev advocate  specializing in cloud applications, serverless, and containerization. She writes regularly for The New Stack and has been published in Information Age and Forbes. She spends her weekends caring for her dozens of houseplants.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/serverless_mom"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/serverlessmom/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/nocnica"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://github.com/signoz/signoz"
+        }
+      ]
+    }
+  ],
+  "room": "Salon A",
+  "track": "DevOps",
+  "tags": [
+    "DevOps",
+    "Observability",
+    "QA Testing"
+  ],
+  "format": "PreCompiler",
+  "level": "Intermediate",
+  "day": "Tuesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "OpenTelemetry is the 'wave of the future' for observability, but is it ready for your team? Yes! In a few hours we'll instrument a demo application and see what OpenTelmetry can do. We'll also cover basic data filtering and compression, and how to see our first visualizations\n\n### OpenTelemetry\n\n*...",
+  "description": "OpenTelemetry is the 'wave of the future' for observability, but is it ready for your team? Yes! In a few hours we'll instrument a demo application and see what OpenTelmetry can do. We'll also cover basic data filtering and compression, and how to see our first visualizations\n\n### OpenTelemetry\n\n* History\n* What's in the project - data backend, vizualization and queries are not part of OTel\n* Use cases - can help almost anyone\n* Status of development - Logs support is still growing, but you can send logs through the collector\n\n### Where to send data\n\n* Closed source SaaS backends\n* issues with OTel data being a 'second class citizen'\n* data in, but not data out\n* Prometheus/Grafana\n* Loki\n* SigNoz/ClickHouse\n\n### Collector Design\n\n* Most basic - direct from SDK to datastore, don't do this\n* Single collector\n* Collector -&gt; collector\n* Daemonset in Kubernetes (I promise you don't need to know Kubernetes to follow this talk!)\n\n### Sample Application\n\n* Basic data emitter from the CLI\n* Auto-instrumentation with the language-appropriate SDK\n* Configuring data sends\n* A basic dashboard\n\n### Configuring the Collector\n\n* YAML config\n* restarting the collector\n\n### OpenTelemetry Processors - config\n\n* batching - reducing sends\n* parsing - finding data early\n* crushing cardinality - getting the data you need\n* filtering - removing sensitive data\n* transforming with OTTL\n"
+}

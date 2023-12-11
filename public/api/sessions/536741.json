@@ -1,0 +1,40 @@
+{
+  "id": "536741",
+  "title": "Long-Term Planning in an Agile World",
+  "speakers": [
+    {
+      "id": "34364a2b-23b6-488c-91de-66ef7cbf5743",
+      "name": "Jeremy Jarrell",
+      "photo": "https://sessionize.com/image/7508-400o400o1-RzPhCKUccfWa77efHKgvZR.jpg",
+      "bio": "Jeremy Jarrell is a technical leader and author who helps teams get better at doing what they love. When not helping tech teams find a better way of working, he shares his knowledge of agile program management as a Pluralsight author where his videos have been viewed by over 400,000 people.\n \n He loves to discuss all aspects of agile product management and can be reached via Twitter, LinkedIn, or at his website: www.jeremyjarrellcom.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/jeremyjarrell"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeremyjarrell/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.jeremyjarrell.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon D",
+  "track": "Teams & Collaboration",
+  "tags": [
+    "Leadership",
+    "Agile",
+    "Project Management"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "11:45",
+  "endTime": "12:45",
+  "excerpt": "“Long-term” and “Agile” typically aren’t two words that go together. After all, agile teams prize reactivity and adaptability over firm plans set in stone. But these two concepts aren’t mutually exclusive. In fact, the best-performing agile teams keep one eye on their longer-term...",
+  "description": "“Long-term” and “Agile” typically aren’t two words that go together. After all, agile teams prize reactivity and adaptability over firm plans set in stone. But these two concepts aren’t mutually exclusive. In fact, the best-performing agile teams keep one eye on their longer-term strategy to ensure it still aligns with what they’re learning from their customers.\n\nIn this session, you’ll learn the different lenses through which agile teams view short-term, near-term, and long-term planning and how you can apply these same lenses with your own team. You’ll also learn common frameworks that can be used at each level of planning, as well as what amount of adaptability you can expect at each level. Finally, you’ll learn how each of these different levels of planning work together to create a coherent and cohesive strategy for your team."
+}

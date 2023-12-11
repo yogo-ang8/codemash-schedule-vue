@@ -1,0 +1,40 @@
+{
+  "id": "534990",
+  "title": "How to Ground LLM's to minimize hallucinations",
+  "speakers": [
+    {
+      "id": "2e4f0878-3e9b-4f24-aa95-50dac254c1b7",
+      "name": "Cameron Vetter",
+      "photo": "https://sessionize.com/image/7096-400o400o1-MpmevFyQAXYAzicU6mxQT3.jpg",
+      "bio": "Cameron Vetter is a technologist with 25 years of experience using Microsoft tools and technologies to create products. He has experience in Technical, Leadership, and Managerial roles in many different organizations.\n \n Cameron has worked for some of the largest companies in the world as well as small companies getting a breadth of experience helping him understand the needs of different size businesses and different verticals. He is the Principal Architect at the Octavian Technology Group, where he helps clients develop technical strategies and execute them. He helps clients Architect, Design, and Develop software focusing on Deep Learning, Artificial Intelligence, Cloud Architecture, Mixed Reality, and Azure.\n \n Cameron enjoys sharing what he has learned by speaking at national, regional, and local conferences, including THAT Conference, Microsoft Ignite, The Midwest Architect Community Conference, AI DevWorld, and various technology user groups. \n \n In 2019, he was named a Microsoft MVP for Artificial Intelligence (AI) – one of the first honorees in the U.S. and has received an MVP award for 5 consecutive years.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/poshporcupine"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cameronvetter/"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.octaviantg.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Data",
+  "tags": [
+    "Python",
+    "Machine Learning",
+    "Data Science"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Thursday",
+  "startTime": "8:00",
+  "endTime": "9:00",
+  "excerpt": "Language models have made significant advancements in recent years, with models like GPT-3 and GPT-4 showcasing impressive capabilities. However, one persistent challenge that arises with these models is the occurrence of hallucinations—instances where the model generates plausible-sounding but...",
+  "description": "Language models have made significant advancements in recent years, with models like GPT-3 and GPT-4 showcasing impressive capabilities. However, one persistent challenge that arises with these models is the occurrence of hallucinations—instances where the model generates plausible-sounding but incorrect or nonsensical responses.\n\nIn this talk, we will explore strategies to ground language models to minimize the occurrence of hallucinations. By grounding LLMs, we aim to enhance their reliability and ensure that the generated outputs align more closely with factual accuracy and logical coherence.\n\nWe will discuss various techniques and approaches that can be employed to address hallucinations effectively. These may include fine-tuning the models on domain-specific data, incorporating external knowledge sources, leveraging human-in-the-loop feedback, and implementing robust evaluation mechanisms.\n\nFurthermore, we will delve into the underlying causes of hallucinations and examine the limitations of current language models. By understanding these factors, we can develop targeted strategies to mitigate the occurrence of hallucinations and improve the overall performance of LLMs.\n\nJoin us in this talk as we explore practical methods to ground language models and minimize hallucinations. Discover how these techniques can enhance the reliability and trustworthiness of LLMs, making them more suitable for real-world applications across various domains. Together, let's unlock the full potential of language models while ensuring their outputs align with factual accuracy and logical coherence."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "534509",
+  "title": "Managing a Rewrite Without Getting Stuck in the Tar Pit",
+  "speakers": [
+    {
+      "id": "f6c71ee0-c321-4ac0-8cb5-a20f9f6bfad9",
+      "name": "Randall Koutnik",
+      "photo": "https://sessionize.com/image/4b3d-400o400o1-e0-c321-4ac0-8cb5-a20f9f6bfad9.46bb06f3-0596-4b3c-8054-0b78dd4702a8.jpg",
+      "bio": "Randall's career can be politely summed up as \"interesting\".  He's worked at everything from tiny startups to Netflix to teaching introductory programming at a bootcamp (and wrote a book, to boot!).  Along the way, he's picked up insights that others on more traditional career paths tend to miss, and he'd like to share those insights with you.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/rkoutnik"
+        },
+        {
+          "title": "Blog",
+          "url": "https://rkoutnik.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Orange",
+  "track": "Teams & Collaboration",
+  "tags": [
+    "Soft Skills",
+    "Teams",
+    "System Design"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "9:15",
+  "endTime": "10:15",
+  "excerpt": "It's a tale as old as time: our startup had finally found success and was ready to scale up, but we'd taken on a huge amount of technical debt to get there.  In particular, our frontend still relied on an old templating system!  How could we rewrite our frontend to take advantage of modern tooling...",
+  "description": "It's a tale as old as time: our startup had finally found success and was ready to scale up, but we'd taken on a huge amount of technical debt to get there.  In particular, our frontend still relied on an old templating system!  How could we rewrite our frontend to take advantage of modern tooling while still delivering features?\n\nIf this challenge sounds familiar, you're in the right place.  Learn how to convince your leadership to start a migration project, how to measure progress, and strategies for getting the whole team on board.  You'll leave this talk with the knowledge and confidence to start your next migration off right."
+}

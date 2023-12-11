@@ -1,0 +1,24 @@
+{
+  "id": "0fb4c43f-55e0-4fbe-b1a4-c8f5b5866cfc",
+  "name": "Nočnica Mellifera",
+  "photo": "https://sessionize.com/image/437b-400o400o1-QdpeNnYNWj3W9DizmqwaoP.png",
+  "bio": "Nočnica is a dev advocate  specializing in cloud applications, serverless, and containerization. She writes regularly for The New Stack and has been published in Information Age and Forbes. She spends her weekends caring for her dozens of houseplants.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/serverless_mom"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/serverlessmom/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://dev.to/nocnica"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://github.com/signoz/signoz"
+    }
+  ]
+}

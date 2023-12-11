@@ -1,0 +1,40 @@
+{
+  "id": "530240",
+  "title": "Alexa on the Go: Building Location Aware Voice Experiences for Alexa",
+  "speakers": [
+    {
+      "id": "6baa8ae0-aa56-42e3-8ab8-6c511a55c2bc",
+      "name": "Craig Walls",
+      "photo": "https://sessionize.com/image/42f5-400o400o1-9pY1kLHD9oGMPofcHPGHvc.jpeg",
+      "bio": "Craig Walls is an engineer with VMware, Java Champion, Alexa Champion, and the author of Spring in Action, Spring Boot in Action, and Build Talking Apps. He's a zealous promoter of the Spring Framework, speaking frequently at local user groups and conferences and writing about Spring. When he's not slinging code, Craig is planning his next trip to Disney World or Disneyland and spending as much time as he can with his wife, two daughters, 1 bird and 3 dogs.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/habuma"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/habuma/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/feed/@thetalkingapp"
+        }
+      ]
+    }
+  ],
+  "room": "Salon B",
+  "track": "Mobile",
+  "tags": [
+    "Javascript",
+    "Front End",
+    "Mobile"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "9:45",
+  "endTime": "10:45",
+  "excerpt": "When you think of voice assistants like Amazon Alexa, you probably are thinking of a device on a shelf or a desk somewhere, tethered to a power outlet. But what if you could take Alexa with you wherever you go? \n\nSeveral devices allow for mobile Alexa, including Echo Auto, Echo Frames, Echo Buds,...",
+  "description": "When you think of voice assistants like Amazon Alexa, you probably are thinking of a device on a shelf or a desk somewhere, tethered to a power outlet. But what if you could take Alexa with you wherever you go?\n\nSeveral devices allow for mobile Alexa, including Echo Auto, Echo Frames, Echo Buds, Fossil Gen 6 watches, and the TalkSocket. You can even take Alexa with you on your phone using the Alexa app or on your Apple Watch using the Voice in a Can app. Being able to take Alexa with you opens a whole new world of possibilities, enabling voice application developers to create voice experiences that help users no matter where they are.\n\nIn this session, we'll see how to create Alexa applications (called \"skills\") that can take advantage of Alexa while on-the-go. You'll learn how to gain permission to access the user's location and provide information relevant to that location. We'll also have a look at a real-world Alexa Skill that uses location awareness to enhance a visit to Disneyland or Disney World theme parks."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "534479",
+  "title": "Button masher to code master – Unity3D Workshop",
+  "speakers": [
+    {
+      "id": "ea1df662-eb74-4fa2-821b-e225faec1870",
+      "name": "Mason Beale",
+      "photo": "https://sessionize.com/image/e10a-400o400o1-GcgzQUWJTbgu1QPyL66TKP.jpg",
+      "bio": "Mason is passionate about game development, but loves learning about all technologies, especially in the areas of code quality and software tooling.  Spending the early days of Covid teaching himself skills like Python and Unity3D, he quickly learned to appreciate and value self teaching. Now, while wrapping up a Computer Science degree, he is often diving into a new technology or taking a new online course alongside his school courses and projects. Mason always loves any chance he can to share his passions with others, be it family, friend or stranger.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mason-beale/"
+        }
+      ]
+    },
+    {
+      "id": "145c3c07-2cd4-44ee-9048-4f7ab3219efb",
+      "name": "Brendan Barth",
+      "photo": "https://sessionize.com/image/834f-400o400o1-f89Q31E4GdjLGQhxNoPWhB.jpg",
+      "bio": "Brendan has always had a fascination for figuring out how things work.  He has a passion for problem solving, breaking and making things, and innovation.  He is always working on learning something new.  His latest role is working as a consultant helping guide and teach developers that need assistance across all of Nationwide.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/barthba/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon A",
+  "track": "Programming Principles",
+  "tags": [
+    "C#",
+    "Programming Principles"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Tuesday",
+  "startTime": "13:00",
+  "endTime": "17:00",
+  "excerpt": "Considered learning how to make video games, but never made the jump? Now is your time to press “space”! No matter your current career (or input device), explore your creative side in Unity and learn the essentials by improving, expanding and customizing a 3D Rollerball game. You’ll start with...",
+  "description": "Considered learning how to make video games, but never made the jump? Now is your time to press “space”! No matter your current career (or input device), explore your creative side in Unity and learn the essentials by improving, expanding and customizing a 3D Rollerball game. You’ll start with an intro to the Unity ecosystem before diving into a starter scene, where you’ll power up some simple gameplay features to learn the basics of game development. But that’s just the tutorial level! As you continue to build and customize your game, you will learn about many core video game concepts, such as User Interfaces, basic level design, collisions and player control. Take this quest to learn and have fun while you do it. You will end this session with a leveled-up knowledge of Unity and game development, propelling you into an open world of possibilities."
+}

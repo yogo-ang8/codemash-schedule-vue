@@ -1,0 +1,24 @@
+{
+  "id": "04b2f4cb-4318-4aea-90c9-a215e6116179",
+  "name": "Eric Boyd",
+  "photo": "https://sessionize.com/image/6cd1-400o400o1-9NypoPEhpPtDE1FUEZY7Qw.jpg",
+  "bio": "Eric D. Boyd is the Founder and CEO of responsiveX, a Microsoft Azure MVP, a Microsoft Regional Director, a regular conference speaker, and the co-author of Step-by-Step Azure SQL Database from Microsoft Press. He is so passionate about cloud, mobile and modern applications, that he founded responsiveX (www.responsiveX.com), a technology company that helps customers deliver great web, mobile and enterprise apps using the cloud and Azure. Eric launched his technology career almost two decades ago with a web development startup and has served in multiple roles since including developer, consultant, technology executive and business owner. You can find Eric blogging at http://www.EricDBoyd.com and on Twitter at http://twitter.com/EricDBoyd.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "http://www.twitter.com/EricDBoyd"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "http://www.linkedin.com/in/EricDBoyd"
+    },
+    {
+      "title": "Blog",
+      "url": "http://www.EricDBoyd.com"
+    },
+    {
+      "title": "Company Website",
+      "url": "http://www.responsivex.com"
+    }
+  ]
+}

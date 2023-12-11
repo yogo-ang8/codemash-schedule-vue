@@ -1,0 +1,20 @@
+{
+  "id": "468d2621-a815-4e39-8c07-6c18162c9b1a",
+  "name": "Jordan Thayer",
+  "photo": "https://sessionize.com/image/5a3f-400o400o1-hZemfRHbjV6ghaTgqR8HDm.jpg",
+  "bio": "Jordan Thayer received their PhD in Artificial Intelligence in 2012 from the University of New Hampshire. Ever since, they've been applying artificial intelligence in academia and industry to problems including intrusion detection, planning, static analysis, and program generation.\n \n As a thought leader at SEP, they’ve been proving that AI isn't futuristic technology. Rather, it's a collection of techniques of varying levels of maturity that can often reliably solve problems they have today. They give talks, runs workshop, visualize algorithm behavior, and build proofs of concept as well as products to show what AI can do already.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/drbass"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jordan-seabass-thayer/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://sep.com/blog/author/jordan-thayer/"
+    }
+  ]
+}

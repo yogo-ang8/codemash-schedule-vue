@@ -1,0 +1,20 @@
+{
+  "id": "48c0f128-adfa-43f0-bf16-dae7314b5a2f",
+  "name": "Daniel Mikusa",
+  "photo": "https://sessionize.com/image/016c-400o400o1-28-adfa-43f0-bf16-dae7314b5a2f.7fa169ac-30df-4cea-9afb-401790b6c076.jpg",
+  "bio": "Daniel Mikusa has been a professional software developer since 2001, with experience building software based on open-source solutions. Since 2007, Daniel has developed enterprise web solutions using Java and Spring. In 2013, he moved into the world of cloud and container technologies, beginning to work with CloudFoundry and then later Kubernetes. Daniel presently works at 7SIGNAL where he leads the API development efforts. In his spare time, he is involved in the OSS community as a committer with the Cloud-Native Buildpacks project, and a steering committee member of the Paketo Buildpacks project.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/dmikusa"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/danielmikusa/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://mikusa.blogspot.com/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "533186",
+  "title": "Spaces, squares, and circles - an intro to UI design",
+  "speakers": [
+    {
+      "id": "49d109f0-32cf-4187-aedc-dcfcf234a92e",
+      "name": "Ash Banaszek",
+      "photo": "https://sessionize.com/image/860d-400o400o1-SyysvHizy83R9cr49PcuaF.jpg",
+      "bio": "Ash Banaszek is a passionate and outspoken UX advocate at Valorem Reply with over a decade of experience in the field. Ash holds a masters of science in information science from Missouri University of Science and Technology in Rolla, MO and returns to occasionally guest lecture in human factors and human-computer interaction courses.  Ash has a passion for teaching and getting folks to that \"ah-hah\" moment about UX. As an avid proponent of creating technology people want to use, Ash's eternal quest is to destroy technology that gets people so frustrated that they want to chuck it out of a window. Outside of righting tech wrongs, Ash is an award-winning Toastmaster and uses public speaking experience to infuse humor and thought-provoking questions into talks. You can follow Ash at linkedin.com/in/ashmb or ux-ash.com",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ashmb"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ux-ash.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://ux-ash.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon H",
+  "track": "Design (UI/UX/CSS/a11y)",
+  "tags": [
+    "Front End",
+    "Soft Skills",
+    "UI/UX"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "13:00",
+  "endTime": "14:00",
+  "excerpt": "Are you a techie that has found yourself in charge of laying out and designing screens?  Do you find yourself staring at screens that just don't \"feel right\" but it is hard to pinpoint why.  Maybe a few design basics can get you back in the game.  In this talk, [Redacted name] (an experienced UX...",
+  "description": "Are you a techie that has found yourself in charge of laying out and designing screens?  Do you find yourself staring at screens that just don't \"feel right\" but it is hard to pinpoint why.  Maybe a few design basics can get you back in the game.  In this talk, [Redacted name] (an experienced UX researcher and designer) will take you through the basics of UI design to help your screens look clean, professional, and pleasing to the eye."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "530629",
+  "title": "What's that smell? Monitoring air quality with Python, Raspberry Pi, and Redis",
+  "speakers": [
+    {
+      "id": "1b601568-9ef8-4a2b-9599-c67f6c1abe18",
+      "name": "Justin Castilla",
+      "photo": "https://sessionize.com/image/ed0a-400o400o1-Lc8B8QyPs5PschfyLzRaiu.png",
+      "bio": "Justin started his Software Engineering career as a Web Development Boot Camp Instructor where he developed a passion for exciting others with new concepts and empowering individuals with the tools needed to excel in their own right. As a Developer Advocate at Redis, Justin has created numerous videos breaking down Data Structures into easy-to-understand, relatable examples with real-world use cases. \n \n In his spare time, Justin enjoys hiking around the Pacific Northwest, building hobby electronics, and collecting vintage music synthesizers. His love of hardware and software has led him into a deep exploration of IoT for practical applications as well as performance art!",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/justincastilla/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.youtube.com/watch?v=Tqaqdfxi-J4&list=PL83Wfqi-zYZG_tk7VQvkPDqRua0uwfXIF&ab_channel=Redis"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.redis.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon H",
+  "track": "Hardware/IoT",
+  "tags": [
+    "Python",
+    "IoT",
+    "Cloud",
+    "Data Science",
+    "Databases"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "16:00",
+  "endTime": "17:00",
+  "excerpt": "With a little wiring and a few lines of code, one can create your own hyper-local air sensor system to send alerts, activate smart-windows, and gather data. A sensor measures air particulate density and sends the values to a Raspberry Pi compute unit. The Raspberry Pi then sends the data along with...",
+  "description": "With a little wiring and a few lines of code, one can create your own hyper-local air sensor system to send alerts, activate smart-windows, and gather data. A sensor measures air particulate density and sends the values to a Raspberry Pi compute unit. The Raspberry Pi then sends the data along with a timestamp and location information to a cloud instance of Redis, a NoSQL data store. Once in Redis, the data can trigger SMS notifications, feed data visualization libraries, or activate electronics such as air purifiers or motors to open or close windows. This can be scaled to monitor air quality in multiple rooms, offices, city blocks, or cities.\n\n"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "533606",
+  "title": "Application Architecture Patterns",
+  "speakers": [
+    {
+      "id": "137fb55c-d120-4a6b-9e15-98123df17302",
+      "name": "Joseph Guadagno",
+      "photo": "https://sessionize.com/image/a114-400o400o1-3tev7cMVvNUmgJZveNqbpX.png",
+      "bio": "Joe Guadagno has been writing software for over 20 years, has been an active member of the .NET community,\n serving on the .NET Foundation Board of Directors, as President and has been a Microsoft MVP in .NET for more than 14 years.  He has spoken through the United States and at international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on Twitter at @jguadagno, Facebook at JosephGuadagnoNet, and on his blog at https://www.josephguadagno.net.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/jguadagno"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/josephguadagno/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.josephguadagno.net"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.josephguadagno.net"
+        }
+      ]
+    }
+  ],
+  "room": "Cypress",
+  "track": "Architecture",
+  "tags": [
+    "Programming Principles",
+    "Architecture",
+    "System Design"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "8:30",
+  "endTime": "9:30",
+  "excerpt": "Architecting an application can be challenging.  What do you do to keep your application flexible to ever-constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well...",
+  "description": "Architecting an application can be challenging.  What do you do to keep your application flexible to ever-constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well with other applications?\n\nIn this session, we'll take a look at some well-understood and practiced Software Architecture patterns.  We'll cover these patterns at a high level to understand how to use these patterns in different scenarios.\n\nYou'll walk away with some knowledge, tips, and tricks that you'll be able to use for new and existing applications."
+}

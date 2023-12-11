@@ -1,0 +1,16 @@
+{
+  "id": "fb604c95-4153-4540-8d13-0aab25c3a61f",
+  "name": "Matthew Sheehan",
+  "photo": "https://sessionize.com/image/7205-400o400o1-Q945SemELgNN2jH2YKBqGS.png",
+  "bio": "Matt is a Software Engineer for Planet DDS, developing innovative dental imaging software for more than eight years. Besides having an opinionated coding style with a knack for breaking things, he enjoys amateur rockhounding and fossil collecting.",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matt-sheehan-dev"
+    },
+    {
+      "title": "Blog",
+      "url": "https://github.com/MattSheehanDev"
+    }
+  ]
+}

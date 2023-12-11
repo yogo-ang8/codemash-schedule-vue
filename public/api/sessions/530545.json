@@ -1,0 +1,32 @@
+{
+  "id": "530545",
+  "title": "Writing Secure APIs - A Look at the OWASP 2023 API Top 10 List",
+  "speakers": [
+    {
+      "id": "75788862-bda6-48b5-96bb-18c1fd7ba0d2",
+      "name": "Darylynn Ross",
+      "photo": "https://sessionize.com/image/fc9c-400o400o1-3igmogkTR8hsPVmbtg9kdb.jpeg",
+      "bio": "Darylynn Ross is currently a Senior Application Security Engineer on the Product Security team at CoverMyMeds (CMM). She directs the CMM Security Champions Group and the CMM Security Community of Practice.  Darylynn spent the first part of her career at EDS and Verizon Wireless as a software developer working in varied applications, languages, databases and development environments. After pivoting to application security at Verizon, she worked with Chipotle's security operations team as Security Operations Analyst and Application Security Engineer. Darylynn is passionate about developing a security first culture fostered by relationship building and mentoring. In her free time, Darylynn enjoys working on event planning for several organizations, walking her dog Maple, and traveling with her husband.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/darylynn-ross-csslp-cissp"
+        }
+      ]
+    }
+  ],
+  "room": "Nile",
+  "track": "Security",
+  "tags": [
+    "Programming Principles",
+    "Security",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Friday",
+  "startTime": "8:30",
+  "endTime": "9:30",
+  "excerpt": "OWASP published a new API top 10 list in July of 2023. There are some old favorites hanging around (I'm looking at you Authentication) and some new comers like Server Side Request Forgery and Unrestricted Access to Sensitive Business Flows.  This session will cover the new top 10 list and take a...",
+  "description": "OWASP published a new API top 10 list in July of 2023. There are some old favorites hanging around (I'm looking at you Authentication) and some new comers like Server Side Request Forgery and Unrestricted Access to Sensitive Business Flows.  This session will cover the new top 10 list and take a look at why each of these flaws is a real world problem.\n\nGet ready to dig into API authorization and authentication gotchas, API inventory challenges and resource management strategies.  Anyone who is designing, developing, testing or securing APIs will want to join the discussion and learn how to defend against the most common issues facing engineers today in API development."
+}

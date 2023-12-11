@@ -1,0 +1,46 @@
+{
+  "id": "582451",
+  "title": "Design and Develop a Serverless Event-Driven Microservice-Based Solution (Part 2)",
+  "speakers": [
+    {
+      "id": "76842364-2733-4aea-a940-7c81195e5120",
+      "name": "Chad Green",
+      "photo": "https://sessionize.com/image/20e3-400o400o1-64-2733-4aea-a940-7c81195e5120.d3cf93d9-f052-4da4-a7ca-6eaee78083c4.jpg",
+      "bio": "Chad Green is a developer, speaker, and software development community organizer. He is the organizer of Code PaLOUsa, a regional software development conference in Louisville, Kentucky along with the Louisville .NET Meetup and Louisville Tech Leaders. He is also a frequent speaker at software development conferences, where he shares his knowledge and experience in the field. He is passionate about helping other developers grow in their careers and is active in the local developer community.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/chadgreen"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chadwickgreen/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.chadgreen.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.glennissolutions.com"
+        }
+      ]
+    }
+  ],
+  "room": "Cypress",
+  "track": "Architecture",
+  "tags": [
+    ".NET",
+    "C#",
+    "Backend",
+    "Cloud",
+    "Architecture"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Wednesday",
+  "startTime": "13:00",
+  "endTime": "17:00",
+  "excerpt": "You have heard all the buzzwords such as microservices, event-driven architecture, serverless, etc. You probably have attended sessions that talk about these terms. But how do you put all that together?\n\nDuring this full-day workshop, you will start by designing a solution using serverless and...",
+  "description": "You have heard all the buzzwords such as microservices, event-driven architecture, serverless, etc. You probably have attended sessions that talk about these terms. But how do you put all that together?\n\nDuring this full-day workshop, you will start by designing a solution using serverless and event-driven cloud services using microservice patterns. Then you will build that solution using .NET, Azure services, and other best-practice tools. Finally, you will deploy that solution to the cloud so your customers can reap the rewards of a well-architected, reliable, and scalable solution that meets their needs today and provides for growth in the future."
+}

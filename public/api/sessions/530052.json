@@ -1,0 +1,32 @@
+{
+  "id": "530052",
+  "title": "Out of Control: How to Rescue a Struggling Software Project",
+  "speakers": [
+    {
+      "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
+      "name": "Cory House",
+      "photo": "https://sessionize.com/image/32ba-400o400o1-05b6b3db-4cb4-42f9-8077-b2fa91ebc163.jpg",
+      "bio": "Cory is a Pluralsight author, 9 time Microsoft MVP, and international speaker. He is founder of reactjsconsulting, where he helps companies transition to React. He has trained over 10,000 software developers at conferences and businesses worldwide. Cory has authored over a dozen courses on JavaScript, React, C#, automated testing, and web development on Pluralsight. He shares software development tips daily on Twitter as @housecor.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://www.twitter.com/housecor"
+        }
+      ]
+    }
+  ],
+  "room": "Kilamanjaro Ballroom",
+  "track": "Software Quality",
+  "tags": [
+    "Architecture",
+    "System Design",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "15:30",
+  "endTime": "16:30",
+  "excerpt": "We were drowning in bugs. We had countless partially implemented features. We had no tests, few types, no CI, no error handling, and we couldn't demo our work reliably. Developers kept copying anti-patterns in our code. Our software was out of control. \n\nIf you want to improve quality and velocity,...",
+  "description": "We were drowning in bugs. We had countless partially implemented features. We had no tests, few types, no CI, no error handling, and we couldn't demo our work reliably. Developers kept copying anti-patterns in our code. Our software was out of control.\n\nIf you want to improve quality and velocity, this session is for you. In this session, I'll share techniques for rescuing software projects. I'll show how we rescued a failing project by incrementally implementing quality controls."
+}

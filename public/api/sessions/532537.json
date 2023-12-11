@@ -1,0 +1,43 @@
+{
+  "id": "532537",
+  "title": "A Contrarian View of Software Architecture",
+  "speakers": [
+    {
+      "id": "cf80d55a-62bf-4be2-a986-27d217129faf",
+      "name": "Jeremy Miller",
+      "photo": "https://sessionize.com/image/661e-400o400o1-L2UUSV4QsUxHmXUr87AJwX.jpg",
+      "bio": "Jeremy Miller started his career as a “real” engineer but wandered into software because that looked like more fun. Since then, Jeremy has worked in and led software development teams in the computer manufacturing industry, finance, insurance, health care, and banking industries. Lately, Jeremy has been focused on leading software architecture teams and helping mentor other software architects. Having had roles both as an in-house software architect and as a software consultant, Jeremy has a great deal of insight into the challenges that confront companies developing and maintaining enterprise systems over time.\n \n Jeremy is well known for his Open-Source Software tools starting with Structure Map and continuing today to Marten and Wolverine. Jeremy is also a frequent author and technical speaker at software conferences. Jeremy recently helped found JasperFx Software to build a sustainable business around the \"Critter Stack\" tools.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/jeremydmiller"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeremy-miller-500a3a1/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jeremydmiller.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://jasperfx.net"
+        }
+      ]
+    }
+  ],
+  "room": "Cypress",
+  "track": "Architecture",
+  "tags": [
+    "Programming Principles",
+    "Architecture"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Thursday",
+  "startTime": "11:45",
+  "endTime": "12:45",
+  "excerpt": "I’ve spent an inordinate amount of time the past half decade across multiple companies working with very large, long running enterprise systems. Especially in long running, constantly changing systems, you want the code to be easy to understand, relatively painless to extend or modify, and when...",
+  "description": "I’ve spent an inordinate amount of time the past half decade across multiple companies working with very large, long running enterprise systems. Especially in long running, constantly changing systems, you want the code to be easy to understand, relatively painless to extend or modify, and when advantageous, be simple to modernize with updated technology. Unfortunately, the systems I’ve worked on have consistently failed to satisfy these goals.\n\nIronically enough though, my judgment is that the code in these systems has been hard to understand, extend or change, and modernize because they had all adopted much of the very industry conventional wisdom about how to build large, maintainable systems.\n\nIn particular, I want to demonstrate and explain how I think that prescriptive, layered architectural styles like Clean or Onion Architecture can actually cause harm in larger systems. I also want us to train our sights on how teams attempt to hide the actual persistence technology with “repository” abstractions and why I also think that’s harmful. I want us to shine a light on how teams fall down a trap of organizing code around business entities or data storage in ways that helps make the code in big systems hard to work with.\n\nAnd of course, we’re going to talk about alternatives, or at least ways to ameliorate the potential problems with prescriptive architectural approaches. In particular, I’m going to show the shift to vertical slice architecture approaches for organizing code. I’m also going to examine ways to reduce code ceremony to improve code readability and use that to show the negative tradeoffs of using approaches like the Clean Architecture that mandate some elements of code ceremony to “force” developers into a consistent approach. And finally, we’re going to examine whether or not “consistency” should be a first class goal in code organization or architecture.\n"
+}

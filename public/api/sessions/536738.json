@@ -1,0 +1,40 @@
+{
+  "id": "536738",
+  "title": "Failing Forward",
+  "speakers": [
+    {
+      "id": "34364a2b-23b6-488c-91de-66ef7cbf5743",
+      "name": "Jeremy Jarrell",
+      "photo": "https://sessionize.com/image/7508-400o400o1-RzPhCKUccfWa77efHKgvZR.jpg",
+      "bio": "Jeremy Jarrell is a technical leader and author who helps teams get better at doing what they love. When not helping tech teams find a better way of working, he shares his knowledge of agile program management as a Pluralsight author where his videos have been viewed by over 400,000 people.\n \n He loves to discuss all aspects of agile product management and can be reached via Twitter, LinkedIn, or at his website: www.jeremyjarrellcom.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/jeremyjarrell"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeremyjarrell/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.jeremyjarrell.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Teams & Collaboration",
+  "tags": [
+    "Agile",
+    "Project Management",
+    "UI/UX"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Friday",
+  "startTime": "11:00",
+  "endTime": "12:00",
+  "excerpt": "The first iteration of a product never succeeds. Nor does the second, the tenth, or even the 20th. Instead, most of the successful products we know and love today were abject failures at the start…but then evolved to get better.\n\nChances are your own product might be heading toward failure right...",
+  "description": "The first iteration of a product never succeeds. Nor does the second, the tenth, or even the 20th. Instead, most of the successful products we know and love today were abject failures at the start…but then evolved to get better.\n\nChances are your own product might be heading toward failure right now. And while you might be experiencing some of the same failure patterns as early versions of Netflix, YouTube, and Post-Its, you may not have the luxury of a big budget or long runway to pull your product back from the brink.\n\nLuckily, there are cheap and easy-to-implement techniques that you can start using immediately that can help you iterate quickly enough to find your product’s path to success before it’s too late. In this session, you’ll learn how to use techniques from Lean Customer Development and Lean Startup to quickly guide your product through multiple iterations toward finding product-market fit.\n\nBy the end of this session, you’ll have everything you need to set up a Lean Customer Development framework in your own company without having to ask for additional budget or resources. And you’ll finally be ready to lead your product out of the pits of failure and into the daybreak of success."
+}

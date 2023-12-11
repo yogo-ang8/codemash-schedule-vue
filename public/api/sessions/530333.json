@@ -1,0 +1,48 @@
+{
+  "id": "530333",
+  "title": "Mad Scientist Lab With Raspberry Pi Pico Microcontrollers",
+  "speakers": [
+    {
+      "id": "8df97796-8644-4bb5-82e3-103a3c34138c",
+      "name": "Barry Tarlton",
+      "photo": "https://sessionize.com/image/bc22-400o400o1-hqw5H5nK19pVJDJZKDGAi3.png",
+      "bio": " Barry is passionate about learning, problem solving, and teaching.  He believes that software developers are problem solvers at heart and the languages and platforms we work with are simply the tools in our utility belts.  Barry can often be found trying to inspire and educate others both inside and outside of work. Whether he's MacGyver'ing IOT solutions together or leading a hackathon team, he loves innovating and constantly trying new things.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/btarlton"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/barry-tarlton-5816345/"
+        }
+      ]
+    },
+    {
+      "id": "145c3c07-2cd4-44ee-9048-4f7ab3219efb",
+      "name": "Brendan Barth",
+      "photo": "https://sessionize.com/image/834f-400o400o1-f89Q31E4GdjLGQhxNoPWhB.jpg",
+      "bio": "Brendan has always had a fascination for figuring out how things work.  He has a passion for problem solving, breaking and making things, and innovation.  He is always working on learning something new.  His latest role is working as a consultant helping guide and teach developers that need assistance across all of Nationwide.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/barthba/"
+        }
+      ]
+    }
+  ],
+  "room": "Nile",
+  "track": "Hardware/IoT",
+  "tags": [
+    "Python",
+    "Hardware",
+    "IoT"
+  ],
+  "format": "PreCompiler",
+  "level": "Intermediate",
+  "day": "Wednesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "Carefully plugging the wires into the bread board, doubt seeps in, “should the red wire go to ground or the white one?”  LEDs all in place, Python code properly indented (spaces, not tabs), prayers go up for the magic smoke to not escape as the electronics are powered on.  In an instant, worries...",
+  "description": "Carefully plugging the wires into the bread board, doubt seeps in, “should the red wire go to ground or the white one?”  LEDs all in place, Python code properly indented (spaces, not tabs), prayers go up for the magic smoke to not escape as the electronics are powered on.  In an instant, worries subside as the microcontroller springs to life and the twinkling of little lights glowing in the precise rhythm as instructed by your code testifies that software and hardware are in perfect harmony.\n\nAmazing experiences like this and more can be yours in this session.  You’ll get to create your own awesome game with sharks and lasers using the Raspberry Pi Pico microcontroller and a variety of other electrical components.  Learn to merge electronics and software in beautiful harmony. The Pi Pico is an inexpensive microcontroller that can run MicroPython to control a plethora of electrical doodads.  If you want to bring your code into the real world with crazy inventions, come to this session to get the foundational skills you need to release your inner mad scientist!"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "536704",
+  "title": "Aerospace Engineering for Computer Scientists",
+  "speakers": [
+    {
+      "id": "b4795845-293c-4432-9a26-a12b54c31a33",
+      "name": "Ilyana Smith",
+      "photo": "https://sessionize.com/image/ba6f-400o400o1-32sa6K2cdgSjEXioJDu9rb.jpg",
+      "bio": "Ilyana is a student at the University of Michigan studying aerospace engineering and minoring in computer science and German. She loves playing board games, reading, and watching movies, and programming!",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ilyanaDev"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ilyana-smith/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ilyana.dev/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon B",
+  "track": "Programming Principles",
+  "tags": [
+    "Programming Principles",
+    "Project Management"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "15:30",
+  "endTime": "16:30",
+  "excerpt": "It IS rocket science! What do the International Space station and Apollo 1 have to do with basic programming principles?  What considerations need to be taken into account when computers go to space? How did computers impact the moon landing? (Hint: it wasn’t special effects!) In this session,...",
+  "description": "It IS rocket science! What do the International Space station and Apollo 1 have to do with basic programming principles?  What considerations need to be taken into account when computers go to space? How did computers impact the moon landing? (Hint: it wasn’t special effects!) In this session, you’ll get the answers to all these questions and more! You’ll discover the connections between these two seemingly unrelated fields, and you’ll come away with a better understanding of the aerospace field and how its history is intertwined with that of computers. You might even learn something about programming principles along the way!"
+}

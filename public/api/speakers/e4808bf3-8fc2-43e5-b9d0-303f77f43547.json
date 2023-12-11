@@ -1,0 +1,24 @@
+{
+  "id": "e4808bf3-8fc2-43e5-b9d0-303f77f43547",
+  "name": "Barret Blake",
+  "photo": "https://sessionize.com/image/0d94-400o400o1-Dc7G7MqgRQdxCvhDFwtvfL.png",
+  "bio": "Microsoft MVP, husband, father, solutions architect, manager, developer, gamer, Buckeyes fan, model railroader, board member of JavaScript &amp; Friends conference. When I'm not doing all that other stuff I also occasionally develop applications.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/BarretBlake"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barretblake"
+    },
+    {
+      "title": "Blog",
+      "url": "https://barretblake.dev"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://www.cgi.com/en"
+    }
+  ]
+}

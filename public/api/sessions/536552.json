@@ -1,0 +1,44 @@
+{
+  "id": "536552",
+  "title": "Build an end to end Next JS app with Next auth, postgres realtime functionality",
+  "speakers": [
+    {
+      "id": "a1bb832b-5d10-4914-8150-dfdae9875e8a",
+      "name": "Dev Agrawal",
+      "photo": "https://sessionize.com/image/2a01-400o400o1-Vh963vfLExzfuSSeBhQSuV.jpg",
+      "bio": "I am a full time Developer Advocate at Clerk and I make content on YouTube regarding software design and architecture. I've been writing full-stack JavaScript apps 7 years, recently graduated with an IT degree from University of Cincinnati. I have a special interest in devtools and practices that make it easier and faster to ship features at scale, especially those of the serverless variety.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/devagrawal09"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/dev-agr"
+        },
+        {
+          "title": "Blog",
+          "url": "https://devagr.me/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://clerk.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon A",
+  "track": "Web/Front-End",
+  "tags": [
+    "Javascript",
+    "Backend",
+    "Front End"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Wednesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "With the new Next JS app router functionality, a lot have changed with building next js applications.\n\nIn this hands-on workshop we'll build a full stack CRUD application that will use Postgres as a database, Next Auth for authorization, and even ably for real time functionality.\n\nIt'll include:\n*...",
+  "description": "With the new Next JS app router functionality, a lot have changed with building next js applications.\n\nIn this hands-on workshop we'll build a full stack CRUD application that will use Postgres as a database, Next Auth for authorization, and even ably for real time functionality.\n\nIt'll include:\n* Server side sorting, paging and filtering\n* Front end query language\n* Data validation on both frontend and backend\n* Authentication using Next Auth\n* Authorization of api and front end functionality.\n* Deployment to a node js cloud and a serverless cloud"
+}

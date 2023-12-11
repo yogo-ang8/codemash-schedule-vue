@@ -1,0 +1,44 @@
+{
+  "id": "536969",
+  "title": "The User Experience Eclipse: Rise Against Dark Design Patterns",
+  "speakers": [
+    {
+      "id": "88770e94-e146-41db-b936-1989b265ed8d",
+      "name": "Scott Showalter",
+      "photo": "https://sessionize.com/image/91bd-400o400o1-hifG8FAiVg5WuY6dsr7ck9.jpg",
+      "bio": "Scott has a passion for helping people design, grow and automate their products and their lives so that they can focus on what's truly important and have a greater impact on this planet.\n \n By day, he coaches leaders and teams on product growth at Ford, by night he coaches IT professionals and entrepreneurs on income growth and career advancement, and on the weekends he has been known to perform laugh-out-loud stand-up comedy.\n \n Scott's dynamic presentation style delivers learning in many ways for many different types of learners, and he threads humor throughout his sessions to help drive every point home and make each one memorable. \n \n When he's not busy helping people level up their careers or helping teams and leaders build world-changing products, he can be found spending time with his wife, 11 year old daughter and 3 creative and rambunctious younger sons.\n \n They're probably building something out of Lego together.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/scottrageous"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/scottrageous"
+        },
+        {
+          "title": "Blog",
+          "url": "https://agilecareeraccelerator.com"
+        }
+      ]
+    }
+  ],
+  "room": "Nile",
+  "track": "Design (UI/UX/CSS/a11y)",
+  "tags": [
+    "Front End",
+    "Diversity/Equity/Inclusion",
+    "CSS",
+    "UI/UX",
+    "Architecture",
+    "System Design",
+    "QA Testing"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "8:00",
+  "endTime": "9:00",
+  "excerpt": "Dark isn't just a trendy UI mode, nor what the sky looks like in the middle of the day in Ohio on April 8th. It's a deceitful design scheme we all encounter from time to time, against our will. \n\nAs consumers, most of us can't escape the overbearing influence that corporations have on our lives....",
+  "description": "Dark isn't just a trendy UI mode, nor what the sky looks like in the middle of the day in Ohio on April 8th. It's a deceitful design scheme we all encounter from time to time, against our will.\n\nAs consumers, most of us can't escape the overbearing influence that corporations have on our lives. This is particularly true when it comes to how companies use various experience design tricks, traps and persuasive tactics in their software &amp; technology in order to take advantage of customers and coerce them into doing things like spending more money than intended.\n\nIn this session, you'll learn about the unethical psychology behind these dark design patterns that digital organizations covertly deploy in order to manipulate their users. You may even discover that some of your favorite apps are using these shady techniques on you without you even knowing it.\n\nYou'll also walk away with the skills to ensure that your team does not fall prey to such ploys, including negotiation with challenging stakeholders, so y'all can build better products together that positively impact customers' lives."
+}

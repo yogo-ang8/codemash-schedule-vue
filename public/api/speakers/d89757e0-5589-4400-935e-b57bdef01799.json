@@ -1,0 +1,20 @@
+{
+  "id": "d89757e0-5589-4400-935e-b57bdef01799",
+  "name": "Stephen Cleary",
+  "photo": "https://sessionize.com/image/f33f-400o400o1-e0-5589-4400-935e-b57bdef01799.a49d26c0-725a-4174-b920-8f7371296575.jpg",
+  "bio": "Stephen Cleary is a family man who feels like he does software development in his spare time. :)\n \n He is a Microsoft MVP and the author of \"Concurrency in C# Cookbook\" (O'Reilly) on asynchronous and parallel programming, as well as several MSDN articles. He's the top async/await answerer on Stack Overflow, he's assisted hundreds of companies with async adoption across all kinds of applications, his blog has been the go-to source for async advice for years, he contributed some of the MS documentation on subjects such as ValueTask, and he's the maintainer of AsyncEx, a library with &gt;25M downloads which provides asynchronous coordination primitives and other async helper types.\n \n He published a .NET-oriented version of the classic TCP/IP FAQ on his blog almost 15 years ago, and has helped countless developers debug their application protocols. At his first job ever, he ended up fixing the primary protocol used in all their systems as well as implementing a TCP/IP replacement for an old serial protocol, and at another job he designed and implemented a multiplexed streaming protocol for embedded devices from scratch. More recently, he recorded a YouTube series where he live-coded a fully asynchronous chat-like TCP/IP protocol using modern .NET pipelines and channels.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/aSteveCleary"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/astevecleary/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://stephencleary.com"
+    }
+  ]
+}

@@ -1,0 +1,4080 @@
+[
+  {
+    "id": "538027",
+    "title": "Build your own AI sidekick with Azure AI, Semantic Kernel, and .NET 8",
+    "speakers": [
+      "Matt Eland",
+      "Samuel Gomez"
+    ],
+    "room": "Cypress",
+    "track": "Data",
+    "tags": [
+      "C#",
+      "Cloud",
+      "Data Science"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "Are you a budding super hero or super villain* but you feel like you're lacking that AI companion to help you reach that next level? Have you ever wanted to see what AI can do to help your daily life? Do you have an interesting application that would just be so much better with a little artificial..."
+  },
+  {
+    "id": "536817",
+    "title": "Building Applications on Top of Large Language Models (LLMs) (Part 1)",
+    "speakers": [
+      "Nilanjan Raychaudhuri",
+      "BJ Allmon"
+    ],
+    "room": "Indigo Bay",
+    "track": "Data",
+    "tags": [
+      "Python",
+      "Programming Principles",
+      "Machine Learning"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "It’s no secret that a new generation of powerful and highly-scaled language models is taking the world by storm. Large language models are becoming a powerful new primitive for building software.\nIn this precompiler, we will deep dive into the rapidly evolving landscape of Large Language Models..."
+  },
+  {
+    "id": "535687",
+    "title": "Mastering Solutions Architecture with Design Katas (Part 1)",
+    "speakers": [
+      "Gaines Kergosien",
+      "Eric Potter"
+    ],
+    "room": "Nile",
+    "track": "DevOps",
+    "tags": [
+      "Agile",
+      "Project Management",
+      "Teams"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "TLDR: Architects get relatively few opportunities to practice their craft, so we will group up to formulate architectural visions for \"real world\" business problems. Attendees will then evaluate each group's solution to gain insight into the pros and cons of different approaches.\n\nFred Brooks said,..."
+  },
+  {
+    "id": "537232",
+    "title": "Build a Modern Single Page Application with Vue",
+    "speakers": [
+      "Matt Burke"
+    ],
+    "room": "Orange",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Front End"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "Vue offers developers a way to build ambitious front-end applications with powerful reactive programming patterns and an intuitive HTML-based templating language.  \n\nThis workshop will give you a jumping-off point for large front-end applications using Vue with blazing-fast dev tools like esbuild,..."
+  },
+  {
+    "id": "531996",
+    "title": "Hands on with OpenTelemetry",
+    "speakers": [
+      "Nočnica Mellifera"
+    ],
+    "room": "Salon A",
+    "track": "DevOps",
+    "tags": [
+      "DevOps",
+      "Observability",
+      "QA Testing"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "OpenTelemetry is the 'wave of the future' for observability, but is it ready for your team? Yes! In a few hours we'll instrument a demo application and see what OpenTelmetry can do. We'll also cover basic data filtering and compression, and how to see our first visualizations\n\n### OpenTelemetry\n\n*..."
+  },
+  {
+    "id": "531157",
+    "title": "What is Your Working Genius? (Workshop)",
+    "speakers": [
+      "Kyle Jenkins"
+    ],
+    "room": "Salon H",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Leadership",
+      "Teams"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "The working genius model is a productivity model developed by Patrick Lencioni with the goal of accomplishing a simple concept: bringing more joy and fulfillment at work! When you and your team understand where your geniuses are and how to (and when not to) use them, it can improve meetings, reduce..."
+  },
+  {
+    "id": "537862",
+    "title": "Accessibility Auditing: Getting Started with Accessibility (Part 1)",
+    "speakers": [
+      "Todd Libby"
+    ],
+    "room": "Salon D",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Accessibility",
+      "UI/UX",
+      "QA Testing"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "This workshop is for people that are just starting or want to get started learning accessibility and how to audit. Or for the people that are in Accessibility that want a refresher or are looking to change their workflows. \n\nThe overall points an attendee should take away and learn from this..."
+  },
+  {
+    "id": "534777",
+    "title": "Building Trust and Breaking Barriers (with LEGO!)",
+    "speakers": [
+      "Thomas Haver"
+    ],
+    "room": "Salon E",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Leadership",
+      "Project Management",
+      "QA Testing"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "LEGO(R) sets are fun to build, but who has ever attempted to build a set without looking at the instructions? In this workshop, attendees will form teams and attempt to build a LEGO(R) set without instructions. Through a series of iterative exercises that provide more product details, the teams will..."
+  },
+  {
+    "id": "586366",
+    "title": "A Kid's World of 3D printing and CAD (Tuesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Tuesday",
+    "startTime": "8:30",
+    "endTime": "10:00",
+    "excerpt": "This session is targeted for children. All ages of children are welcome based on their ability to enjoy the content being offered! Children must have a responsible adult present. We will talk about and watch videos about the exciting world of 3D printing. We will tour the 3D printer lab and look at..."
+  },
+  {
+    "id": "586668",
+    "title": "Intro to Soldering (Tuesday)",
+    "speakers": [
+      "Damon Stamper"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "Learn how to solder electronic components by assembling a themed 'Codemash Prime' LED badge. We’ll go over basic soldering equipment, safety and technique. We’ll solder through-hole and SMD components. This session assumes no prior experience with electronics. Even if you’re a total beginner,..."
+  },
+  {
+    "id": "537160",
+    "title": "Now you see it, now you don’t!  An introduction to magic!",
+    "speakers": [
+      "Andrew Potozniak"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Agile",
+      "Performance"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Tuesday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "Have you ever wondered how a magician can make a sponge ball disappear in thin air?  Or how a ball magically transports from one cup to another?  Or how a handkerchief magically appears out of nowhere and into the magician’s hands?  \nDuring this session, kids will learn the basics of magic with..."
+  },
+  {
+    "id": "586422",
+    "title": "A Kid's introduction to 3D Modeling (Tuesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Tuesday",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "excerpt": "This second session is a follow up where we get to make 3D models! Children must have a responsible adult present. We will work with a fully featured CAD application called Rhino3d and walk through the process of building a basic model from geometric shapes. We will explain the XYZ coordinate..."
+  },
+  {
+    "id": "536792",
+    "title": "Into the Storm: Storm Chasing & Public Safety",
+    "speakers": [
+      "Laci Graham"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Accessibility",
+      "Data Science",
+      "Observability"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Tuesday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": " This interactive talk about the weather is for anyone interested in the weather, open to all ages. In this session we’ll talk about the severe weather that Ohioans are most likely to encounter, and some we might encounter on vacations. We’ll talk about storm safety and the importance..."
+  },
+  {
+    "id": "535120",
+    "title": "Binary Analysis - Learn to break stuff",
+    "speakers": [
+      "Jason Slagle",
+      "John Hammond"
+    ],
+    "room": "Cypress",
+    "track": "Security",
+    "tags": [
+      "Hardware",
+      "Security"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "In this Pre-Compiler, we'll take a dive into the world of reverse engineering. \n\nWe'll start with DotPeek and reverse engineer a handful of binaries, starting with simple and ending with somewhat more complex examples with some obfuscation.  We'll also discuss problems in these tools and techniques..."
+  },
+  {
+    "id": "582450",
+    "title": "Building Applications on Top of Large Language Models (LLMs) (Part 2)",
+    "speakers": [
+      "Nilanjan Raychaudhuri",
+      "BJ Allmon"
+    ],
+    "room": "Indigo Bay",
+    "track": "Data",
+    "tags": [
+      "Python",
+      "Programming Principles",
+      "Machine Learning"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "It’s no secret that a new generation of powerful and highly-scaled language models is taking the world by storm. Large language models are becoming a powerful new primitive for building software.\nIn this precompiler, we will deep dive into the rapidly evolving landscape of Large Language Models..."
+  },
+  {
+    "id": "582445",
+    "title": "Mastering Solutions Architecture with Design Katas (Part 2)",
+    "speakers": [
+      "Gaines Kergosien",
+      "Eric Potter"
+    ],
+    "room": "Nile",
+    "track": "DevOps",
+    "tags": [
+      "Agile",
+      "Project Management",
+      "Teams"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "TLDR: Architects get relatively few opportunities to practice their craft, so we will group up to formulate architectural visions for \"real world\" business problems. Attendees will then evaluate each group's solution to gain insight into the pros and cons of different approaches.\n\nFred Brooks said,..."
+  },
+  {
+    "id": "535270",
+    "title": "Building a Web Component Library",
+    "speakers": [
+      "Burton Smith"
+    ],
+    "room": "Orange",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Front End",
+      "CSS",
+      "UI/UX",
+      "Code Quality"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "Web components have been around for a long time (since HTML 5 became a thing), but there hasn’t been a lot of attention given to them until recently. Now, tech organizations worldwide are adopting them and finding tremendous efficiency in creating framework-agnostic reusable components to build..."
+  },
+  {
+    "id": "534479",
+    "title": "Button masher to code master – Unity3D Workshop",
+    "speakers": [
+      "Mason Beale",
+      "Brendan Barth"
+    ],
+    "room": "Salon A",
+    "track": "Programming Principles",
+    "tags": [
+      "C#",
+      "Programming Principles"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "Considered learning how to make video games, but never made the jump? Now is your time to press “space”! No matter your current career (or input device), explore your creative side in Unity and learn the essentials by improving, expanding and customizing a 3D Rollerball game. You’ll start with..."
+  },
+  {
+    "id": "531780",
+    "title": "K3s - Half the Size, Twice as Awesome: Lightweight Kubernetes",
+    "speakers": [
+      "Chris Houdeshell"
+    ],
+    "room": "Salon H",
+    "track": "DevOps",
+    "tags": [
+      "DevOps"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "Are you ready to conquer the Kubernetes learning curve without the pain?\n\nEmbarking on a Kubernetes journey can be intimidating. Many have endured the steep initial challenges only to find the eventual rewards. But what if we told you there's a way to make that initial climb smoother? What if you..."
+  },
+  {
+    "id": "582446",
+    "title": "Accessibility Auditing: Getting Started with Accessibility (Part 2)",
+    "speakers": [
+      "Todd Libby"
+    ],
+    "room": "Salon D",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Accessibility",
+      "UI/UX",
+      "QA Testing"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "This workshop is for people that are just starting or want to get started learning accessibility and how to audit. Or for the people that are in Accessibility that want a refresher or are looking to change their workflows. \n\nThe overall points an attendee should take away and learn from this..."
+  },
+  {
+    "id": "537461",
+    "title": "Learning R Programming and Python Together - Data Science Primer for Everyone",
+    "speakers": [
+      "Pierre DeBois"
+    ],
+    "room": "Salon E",
+    "track": "Data",
+    "tags": [
+      "Python",
+      "Data Science"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "Both R programming and Python have become workhorse languages in the field of data science. They have allowed practitioners to apply statistical frameworks to a vast array of data models.  Today, new tools allow a combination of principles from both languages. How can tech professionals gain the..."
+  },
+  {
+    "id": "586665",
+    "title": "Getting started in basic electronics, part 1 (Tuesday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "586452",
+    "title": "From idea to physical series: A basic overview of the world of CAD and 3D printing (Tuesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "This session will talk about the exciting world of 3D printing. We will go over exciting trends and happenings in the 3D printing world. We’ll then cover choosing a CAD app and will briefly cover using curated 3D printer object libraries and different CAD apps that might be more appropriate to..."
+  },
+  {
+    "id": "537216",
+    "title": "When in Doubt... Improvise",
+    "speakers": [
+      "Matt \"Kelly\" Williams"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Career Development",
+      "Soft Skills"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Tuesday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Join us for a fun filled deep dive into the world of improvisation. In this hands on deep dive you will learn and practice techniques and skills to create something out of nothing. These skills, in turn, can help any time you need to speak in public or work in groups. Come ready to be a little..."
+  },
+  {
+    "id": "586661",
+    "title": "Getting started in basic electronics, part 2 (Tuesday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "586462",
+    "title": "From idea to physical: A demo of how to make CAD models in Rhino3d. (Tuesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Tuesday",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "excerpt": "This lab is intended to be a fast-paced technology walk-through of the process of creating a 3D printed object. We will focus in on the process of using CAD to create our model with a NURBS modeler called Rhino3D and will walk through the UI and how Rhino uses basic curves and shapes to create more..."
+  },
+  {
+    "id": "552964",
+    "title": "Solar Critters Workshop",
+    "speakers": [
+      "Christopher Judd"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Hardware"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Tuesday",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "excerpt": "Critters like turtles, frogs, and lizards can be fun to play with. They can have vibrant colors and run around. In this hands-on workshop, kidz of all ages will use their creativity to decorate and build their own moving critters. Along the way, kidz will learn basic electronics using solar power to..."
+  },
+  {
+    "id": "586469",
+    "title": "From idea to physical series: CAD and 3D printing in Jewelry (open to Adults and Kidz)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Intermediate",
+    "day": "Tuesday",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "excerpt": "Want to make something more advanced than the ones you made in the basic overview? We have some additional options to expand model building skills for those who have been through our previous sessions. \n\nNEW for this year we are offering a deeper dive into the process of making jewelry with CAD and..."
+  },
+  {
+    "id": "532679",
+    "title": "Design and Develop a Serverless Event-Driven Microservice-Based Solution (Part 1)",
+    "speakers": [
+      "Chad Green"
+    ],
+    "room": "Cypress",
+    "track": "Architecture",
+    "tags": [
+      ".NET",
+      "C#",
+      "Backend",
+      "Cloud",
+      "Architecture"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "You have heard all the buzzwords such as microservices, event-driven architecture, serverless, etc. You probably have attended sessions that talk about these terms. But how do you put all that together?\n\nDuring this full-day workshop, you will start by designing a solution using serverless and..."
+  },
+  {
+    "id": "531353",
+    "title": "Off The Shelf AI (Part 1)",
+    "speakers": [
+      "Jordan Thayer",
+      "Robert Herbig"
+    ],
+    "room": "Indigo Bay",
+    "track": "Data",
+    "tags": [
+      "Python",
+      "Programming Principles",
+      "Machine Learning"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "Hearing about artificial intelligence is unavoidable these days if you’re watching the news or staying abreast of the technical sector. We frequently hear about the power of AI-enabled tools, and are shown soundbytes of experts extolling the virtues of their approach.\n\nWhile these stories inform..."
+  },
+  {
+    "id": "530333",
+    "title": "Mad Scientist Lab With Raspberry Pi Pico Microcontrollers",
+    "speakers": [
+      "Barry Tarlton",
+      "Brendan Barth"
+    ],
+    "room": "Nile",
+    "track": "Hardware/IoT",
+    "tags": [
+      "Python",
+      "Hardware",
+      "IoT"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "Carefully plugging the wires into the bread board, doubt seeps in, “should the red wire go to ground or the white one?”  LEDs all in place, Python code properly indented (spaces, not tabs), prayers go up for the magic smoke to not escape as the electronics are powered on.  In an instant, worries..."
+  },
+  {
+    "id": "537882",
+    "title": "Event Storming Unleashed: Building Bridges for Effective Communication",
+    "speakers": [
+      "Sarah Dutkiewicz"
+    ],
+    "room": "Orange",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Agile",
+      "Teams",
+      "System Design"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "A lot of problems that we have in software development comes down to communication issues - gathering requirements, understanding processes, reporting issues, and making sure everybody involved is on the same page. This Event Storming workshop is a dynamic and interactive session designed to..."
+  },
+  {
+    "id": "536552",
+    "title": "Build an end to end Next JS app with Next auth, postgres realtime functionality",
+    "speakers": [
+      "Dev Agrawal"
+    ],
+    "room": "Salon A",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Backend",
+      "Front End"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "With the new Next JS app router functionality, a lot have changed with building next js applications.\n\nIn this hands-on workshop we'll build a full stack CRUD application that will use Postgres as a database, Next Auth for authorization, and even ably for real time functionality.\n\nIt'll include:\n*..."
+  },
+  {
+    "id": "536416",
+    "title": "Designing Effective Unit Tests for React",
+    "speakers": [
+      "Bob Fornal"
+    ],
+    "room": "Salon H",
+    "track": "Software Quality",
+    "tags": [
+      "React",
+      "Front End",
+      "Code Quality"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "React has great tools for Unit Testing component. This doesn’t mean testing is easy. There are still a lot of questions you have to figure out for yourself: How many component tests should you write vs end-to-end tests or lower-level unit tests? How can you test a certain line of code that is..."
+  },
+  {
+    "id": "537424",
+    "title": "Automated resource deployment with Bicep and Terraform (Part 1)",
+    "speakers": [
+      "Samuel Gomez",
+      "Brian Gorman"
+    ],
+    "room": "Salon D",
+    "track": "DevOps",
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Infrastructure as Code"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "This workshop is a hands-on exercise that will walk you through the process of deploying the resources needed to run an application in the cloud using Bicep and Terraform.\n\nThe concepts reviewed during the workshop include the following:\n\nVariables.\nParameters.\nModules.\nDeployment pipelines.\n\nAt the..."
+  },
+  {
+    "id": "535258",
+    "title": "Dude, Who Broke My Linux Server?",
+    "speakers": [
+      "Ryan Price",
+      "Justin DeBo"
+    ],
+    "room": "Salon E",
+    "track": "Programming Principles",
+    "tags": [
+      "Backend",
+      "Programming Principles",
+      "DevOps"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Wednesday",
+    "startTime": "8:00",
+    "endTime": "12:00",
+    "excerpt": "Linux-based operating systems are at the very core of the magic of computing technology -- and have been that core for decades. But software developers, data engineers, cloud engineers, and so many other disciplines often have no idea how to work effectively within those operating systems. What..."
+  },
+  {
+    "id": "586371",
+    "title": "A Kid's World of 3D printing and CAD (Wednesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "8:30",
+    "endTime": "10:00",
+    "excerpt": "This session is targeted for children. All ages of children are welcome based on their ability to enjoy the content being offered! Children must have a responsible adult present. We will talk about and watch videos about the exciting world of 3D printing. We will tour the 3D printer lab and look at..."
+  },
+  {
+    "id": "586669",
+    "title": "Intro to Soldering (Wednesday)",
+    "speakers": [
+      "Damon Stamper"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "Learn how to solder electronic components by assembling a themed 'Codemash Prime' LED badge. We’ll go over basic soldering equipment, safety and technique. We’ll solder through-hole and SMD components. This session assumes no prior experience with electronics. Even if you’re a total beginner,..."
+  },
+  {
+    "id": "575572",
+    "title": "I Can’t Draw…Yes, You Can!  Anyone Can!",
+    "speakers": [
+      "Courtney Eaton"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Soft Skills"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "Can You Draw a Horse?  If not, would you like to?  As a mom and former preschool teacher, I will teach you how to draw while telling a story. In this session, I will guide you through a simple drawing technique that will allow you to draw simple animals and their surroundings.  The only requirements..."
+  },
+  {
+    "id": "577401",
+    "title": "TinkerCAD and 3D-Printing",
+    "speakers": [
+      "Andrew Fuller"
+    ],
+    "room": "Portia / Wisteria",
+    "track": "KidzMash",
+    "tags": [
+      "System Design"
+    ],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "9:30",
+    "endTime": "11:30",
+    "excerpt": "In this session, I will introduce the basic ideas of 3D-Printing using TinkerCAD, a simple and free modeling software anyone can use. You will learn how to make your own CodeMash/KidzMash token that you will be able to take home with you at the end of the week. Make sure to bring a laptop and be..."
+  },
+  {
+    "id": "586430",
+    "title": "A Kid's introduction to 3D Modeling (Wednesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "excerpt": "This second session is a follow up where we get to make 3D models! Children must have a responsible adult present. We will work with a fully featured CAD application called Rhino3d and walk through the process of building a basic model from geometric shapes. We will explain the XYZ coordinate..."
+  },
+  {
+    "id": "536085",
+    "title": "Let's Build a Clock!",
+    "speakers": [
+      "Steven Swenson"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Hardware"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "What time is it? It's time to get creative and make an actual clock!\nIn this fun session every kid will be designing and creating their own clock. They get to plan and color the clock face any way they like. When they are done with the clock face, we will be adding a working clock movement to it...."
+  },
+  {
+    "id": "582451",
+    "title": "Design and Develop a Serverless Event-Driven Microservice-Based Solution (Part 2)",
+    "speakers": [
+      "Chad Green"
+    ],
+    "room": "Cypress",
+    "track": "Architecture",
+    "tags": [
+      ".NET",
+      "C#",
+      "Backend",
+      "Cloud",
+      "Architecture"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "You have heard all the buzzwords such as microservices, event-driven architecture, serverless, etc. You probably have attended sessions that talk about these terms. But how do you put all that together?\n\nDuring this full-day workshop, you will start by designing a solution using serverless and..."
+  },
+  {
+    "id": "582452",
+    "title": "Off The Shelf AI (Part 2)",
+    "speakers": [
+      "Jordan Thayer",
+      "Robert Herbig"
+    ],
+    "room": "Indigo Bay",
+    "track": "Data",
+    "tags": [
+      "Python",
+      "Programming Principles",
+      "Machine Learning"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "Hearing about artificial intelligence is unavoidable these days if you’re watching the news or staying abreast of the technical sector. We frequently hear about the power of AI-enabled tools, and are shown soundbytes of experts extolling the virtues of their approach.\n\nWhile these stories inform..."
+  },
+  {
+    "id": "535616",
+    "title": "Thinking Architecturally",
+    "speakers": [
+      "Nathaniel Schutta"
+    ],
+    "room": "Nile",
+    "track": "Architecture",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "Architecture"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "Rich Hickey once said programmers know the benefits of everything and the trade offs of nothing...an approach that can lead a project down a path of frustrated developers and unhappy customers. As architects though, we must consider the trade offs of every new library, language, pattern or approach..."
+  },
+  {
+    "id": "534330",
+    "title": "The Subtle Art of Communication",
+    "speakers": [
+      "Natalie Hylton",
+      "Tristan Chiappisi"
+    ],
+    "room": "Orange",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Leadership",
+      "Teams"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "We probably don't need this session. Technologists are excellent communicators, aren’t they? But for those who would like to learn (and practice) a new thing or two, here is a session packed with experiential learning. Amongst the things that we will cover:\n•\tCommunication styles (assessment..."
+  },
+  {
+    "id": "533070",
+    "title": "Mastering TDD in Legacy Code",
+    "speakers": [
+      "Brendan Enrick",
+      "Steve Smith"
+    ],
+    "room": "Salon A",
+    "track": "Software Quality",
+    "tags": [
+      "Code Quality"
+    ],
+    "format": "PreCompiler",
+    "level": "Intermediate",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "In this hands-on workshop, you’ll learn to effectively use the principles and practices of increasing the reliability and maintainability of your code through testing and pair programming. You’ll sharpen your skills working with your peers on programming exercises designed to instill good..."
+  },
+  {
+    "id": "536838",
+    "title": "Enhance Fullstack Workshop",
+    "speakers": [
+      "Simon MacDonald",
+      "Ryan Bethel"
+    ],
+    "room": "Salon H",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Backend",
+      "Front End"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "The Enhance Fullstack Workshop is designed for developers. You will learn how to build a full-stack web application (client and server) using Enhance powered by Node.js, and AWS. You'll leave with the skills required to construct multi-page dynamic web apps that leverage the platform while avoiding..."
+  },
+  {
+    "id": "582448",
+    "title": "Automated resource deployment with Bicep and Terraform (Part 2)",
+    "speakers": [
+      "Samuel Gomez",
+      "Brian Gorman"
+    ],
+    "room": "Salon D",
+    "track": "DevOps",
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Infrastructure as Code"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "This workshop is a hands-on exercise that will walk you through the process of deploying the resources needed to run an application in the cloud using Bicep and Terraform.\n\nThe concepts reviewed during the workshop include the following:\n\nVariables.\nParameters.\nModules.\nDeployment pipelines.\n\nAt the..."
+  },
+  {
+    "id": "535629",
+    "title": "Beyond the Cache with Redis + Node.js",
+    "speakers": [
+      "Justin Castilla"
+    ],
+    "room": "Salon E",
+    "track": "Data",
+    "tags": [
+      "Javascript",
+      "Databases"
+    ],
+    "format": "PreCompiler",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "If you’re like a lot of developers, you’ve probably used Redis. You’ve probably used it as a cache—which it does amazingly—and you’ve probably cached strings. But Redis is much, much more than just a cache. It can be a message broker using queues, streams, and pub-sub. It can be a..."
+  },
+  {
+    "id": "586664",
+    "title": "Getting started in basic electronics, part 1 (Wednesday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "586457",
+    "title": "From idea to physical series: A basic overview of the world of CAD and 3D printing (Wednesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "This session will talk about the exciting world of 3D printing. We will go over exciting trends and happenings in the 3D printing world. We’ll then cover choosing a CAD app and will briefly cover using curated 3D printer object libraries and different CAD apps that might be more appropriate to..."
+  },
+  {
+    "id": "536707",
+    "title": "Balloon Animals: Blowing things Up at Codemash",
+    "speakers": [
+      "Ilyana Smith"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Soft Skills"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "In this fun session, you’ll learn the basics of balloon animals, twisting your way to a variety of adorable creatures! We’ll bring the balloons if you’ll bring the imagination! Kidz of all ages are welcome (younger kidz – please assist your parents)! No experience necessary! You’ll leave..."
+  },
+  {
+    "id": "531729",
+    "title": "The Legend of CodeMash",
+    "speakers": [
+      "Christopher Judd"
+    ],
+    "room": "Portia / Wisteria",
+    "track": "KidzMash",
+    "tags": [
+      "Javascript"
+    ],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "excerpt": "In 1986, the iconic fantasy action-adventure game, The Legends of Zelda, was released to the fanfare of video gamers across the globe. Everybody loved the 2D quests that Link would go on to rescue Princess Zelda. In 2024, it is your turn to create a classic, The Legends of CodeMash, video game. In..."
+  },
+  {
+    "id": "586660",
+    "title": "Getting started in basic electronics, part 2 (Wednesday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "586463",
+    "title": "From idea to physical: A demo of how to make CAD models in Rhino3d. (Wednesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Wednesday",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "excerpt": "This lab is intended to be a fast-paced technology walk-through of the process of creating a 3D printed object. We will focus in on the process of using CAD to create our model with a NURBS modeler called Rhino3D and will walk through the UI and how Rhino uses basic curves and shapes to create more..."
+  },
+  {
+    "id": "574677",
+    "title": "A squishy Play-Doh intro to Electronics",
+    "speakers": [
+      "Damon Stamper"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Hardware",
+      "Soft Skills"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Wednesday",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "excerpt": "Learning electronics doesn't have to be hard. In fact it can be quite squishy! Come learn some simple electronics and play with Play-Doh along the way. \n\nYou'll learn how to make creatures with glowing eyes, fire trucks with fading lights, and other fun creations!\n\nElectronic components taught will..."
+  },
+  {
+    "id": "586472",
+    "title": "From idea to physical series: Codemash Race League project. (open to Adults and Kidz) (Wednesday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Intermediate",
+    "day": "Wednesday",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "excerpt": "Want to make something more advanced than the ones you made in the basic overview? We have some additional options to expand model building skills for those who have been through our previous sessions. \n\nThis session the goal will be to build a raceable “matchbox/hot wheels scaled” 3d-printed..."
+  },
+  {
+    "id": "531581",
+    "title": "Simplifying Microservices with Dapr",
+    "speakers": [
+      "Matthew Sheehan"
+    ],
+    "room": "Cypress",
+    "track": "Architecture",
+    "tags": [
+      "Cloud",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "In the world of modern software development, microservices have emerged as the go-to solution for building scalable and deployable applications. However, the path to realizing their promised benefits can be riddled with challenges, leaving engineers with concerns about achieving a truly clean..."
+  },
+  {
+    "id": "531162",
+    "title": "Software Test Automation ​and System Design",
+    "speakers": [
+      "Kate Jordan"
+    ],
+    "room": "Indigo Bay",
+    "track": "Software Quality",
+    "tags": [
+      "Programming Principles",
+      "System Design",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "In this session I'll share with you one of the most valuable lessons that I've learned as a software engineer. From what I've seen it's not something that colleges or courses have nearly enough emphasis on for the impact that it has. Both on your skills, and the health of the systems you work..."
+  },
+  {
+    "id": "536969",
+    "title": "The User Experience Eclipse: Rise Against Dark Design Patterns",
+    "speakers": [
+      "Scott Showalter"
+    ],
+    "room": "Nile",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Front End",
+      "Diversity/Equity/Inclusion",
+      "CSS",
+      "UI/UX",
+      "Architecture",
+      "System Design",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "Dark isn't just a trendy UI mode, nor what the sky looks like in the middle of the day in Ohio on April 8th. It's a deceitful design scheme we all encounter from time to time, against our will. \n\nAs consumers, most of us can't escape the overbearing influence that corporations have on our lives...."
+  },
+  {
+    "id": "537404",
+    "title": "Neurodiverse Coders: Unlocking ADHD & Autism Superpowers in Tech",
+    "speakers": [
+      "Gaines Kergosien"
+    ],
+    "room": "Orange",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Diversity/Equity/Inclusion",
+      "Soft Skills",
+      "Leadership",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "In the tech world, diversity isn't just about backgrounds; it's also about how we think and process information. ADHD and Autism Spectrum Disorder (ASD) are often pigeonholed as challenges. However, what if we told you that these so-called 'disorders' house superpowers that can be game-changers in..."
+  },
+  {
+    "id": "536061",
+    "title": "Securing Your Software Supply Chain One Open Source Project at a Time",
+    "speakers": [
+      "Lori Lorusso"
+    ],
+    "room": "Salon A",
+    "track": "Security",
+    "tags": [
+      "Security",
+      "DevOps",
+      "CI/CD"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "Delivering software fast is one piece of the CI/CD puzzle, but delivering it securely is the glue that keeps your puzzle from falling apart. Software supply chain attacks are on the rise with security exploits directly targeting open source projects, central repositories, and software package..."
+  },
+  {
+    "id": "535273",
+    "title": "Using Web Components to Scale Your UX",
+    "speakers": [
+      "Burton Smith"
+    ],
+    "room": "Salon H",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Front End",
+      "Accessibility",
+      "CSS",
+      "UI/UX",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "Whether you're a company with a variety of projects or an app that uses micro-front-end architecture, creating a consistent and reliable user experience can be difficult.\n\nIn this session, we will discuss how, at Microsoft, we have leveraged web components to standardize our user experiences and..."
+  },
+  {
+    "id": "536168",
+    "title": "Verbs, Not Nouns: Writing Documentation Users Want to Read",
+    "speakers": [
+      "Brian MacDonald"
+    ],
+    "room": "Salon D",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "Documentation should be complete and comprehensive, but that doesn't mean it has to be dull and boring. Engaging documentation focuses on what your users want to do, the tasks they're trying to accomplish, the problems they want to solve. Writing documentation with the focus on your user, instead of..."
+  },
+  {
+    "id": "534990",
+    "title": "How to Ground LLM's to minimize hallucinations",
+    "speakers": [
+      "Cameron Vetter"
+    ],
+    "room": "Salon E",
+    "track": "Data",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "Language models have made significant advancements in recent years, with models like GPT-3 and GPT-4 showcasing impressive capabilities. However, one persistent challenge that arises with these models is the occurrence of hallucinations—instances where the model generates plausible-sounding but..."
+  },
+  {
+    "id": "537209",
+    "title": "Be an Ally for Mobile A11y",
+    "speakers": [
+      "Rachael Yomtoob"
+    ],
+    "room": "Salon B",
+    "track": "Mobile",
+    "tags": [
+      "Mobile",
+      "Accessibility"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "Accessibility for the web has gained visibility in the last few years, but what about mobile apps? Let's talk about why making your mobile app accessible is just as important, if not more important, than building an accessible website. I'll introduce how digital accessibility standards like the Web..."
+  },
+  {
+    "id": "535310",
+    "title": "Java Anti-Patterns",
+    "speakers": [
+      "Vitaliy Matiyash"
+    ],
+    "room": "Salon G",
+    "track": "Programming Principles",
+    "tags": [
+      "Java",
+      "Backend",
+      "Programming Principles"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "8:00",
+    "endTime": "9:00",
+    "excerpt": "God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential..."
+  },
+  {
+    "id": "586379",
+    "title": "A Kid's World of 3D printing and CAD (Thursday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "8:30",
+    "endTime": "10:00",
+    "excerpt": "This session is targeted for children. All ages of children are welcome based on their ability to enjoy the content being offered! Children must have a responsible adult present. We will talk about and watch videos about the exciting world of 3D printing. We will tour the 3D printer lab and look at..."
+  },
+  {
+    "id": "586670",
+    "title": "Intro to Soldering (Thursday)",
+    "speakers": [
+      "Damon Stamper"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "Learn how to solder electronic components by assembling a themed 'Codemash Prime' LED badge. We’ll go over basic soldering equipment, safety and technique. We’ll solder through-hole and SMD components. This session assumes no prior experience with electronics. Even if you’re a total beginner,..."
+  },
+  {
+    "id": "536066",
+    "title": "Wizarding 101: Static Electricity Magic Tricks",
+    "speakers": [
+      "Sean Wedig"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Career Development"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "Learn the summoning charm, and make inanimate objects dance!  Bend the flow of water without touching it!  Summon a golem to do your bidding!  Learn the infamous \"Wingardium Leviosa\", and make things levitate!  Grab your wizarding robes, cheer for your house, control the very forces of nature with..."
+  },
+  {
+    "id": "530062",
+    "title": "Don’t Build a Distributed Monolith: How to Avoid Doing Microservices Completely Wrong",
+    "speakers": [
+      "Jonathan \"J.\" Tower"
+    ],
+    "room": "Kilamanjaro Ballroom",
+    "track": "Architecture",
+    "tags": [
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "As a consultant, I get to see many systems built by many different developers. Recently, I’ve seen an uptick in the number of systems built with a microservice architecture in mind, but those systems often include a lot of the same mistakes that keep them from working well. \n\nIn this session..."
+  },
+  {
+    "id": "533074",
+    "title": "Not Your Mother's or Father's C#",
+    "speakers": [
+      "Brendan Enrick"
+    ],
+    "room": "Cypress",
+    "track": "Programming Principles",
+    "tags": [
+      ".NET",
+      "C#"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "Gone are the days of verbose C# code and having only one way to solve a problem. In recent updates, C# has been adapting ideas from other programming paradigms, including functional programming. Some of the most recent ones have significantly changed the appearance of C# code. We'll see what you..."
+  },
+  {
+    "id": "536025",
+    "title": "Finding your Motivation and Managing When you aren’t Motivated",
+    "speakers": [
+      "Jennie Ocken"
+    ],
+    "room": "Indigo Bay",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Diversity/Equity/Inclusion",
+      "Soft Skills",
+      "Leadership",
+      "Remote Work"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "We are all motivated by different things.  But most companies and managers only know how to encourage employees through money or title.  By better understanding what motivates each of us, we can be better teammates, managers, and people.  In this session we will learn:\n•\tThe 8 different kinds of..."
+  },
+  {
+    "id": "530962",
+    "title": "How I use VS Code to implement local CICD",
+    "speakers": [
+      "John Petersen"
+    ],
+    "room": "Nile",
+    "track": "DevOps",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "It's simplicity, transparency,  & clarity make VS Code an effective code editor. One of VS Code's greatest features is the seamless way the terminal/CLI experience meshes with an intellisense-enabled code editor. In this session, I'll demonstrate how I use VS Code as a CI/CD-based development..."
+  },
+  {
+    "id": "534509",
+    "title": "Managing a Rewrite Without Getting Stuck in the Tar Pit",
+    "speakers": [
+      "Randall Koutnik"
+    ],
+    "room": "Orange",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Teams",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "It's a tale as old as time: our startup had finally found success and was ready to scale up, but we'd taken on a huge amount of technical debt to get there.  In particular, our frontend still relied on an old templating system!  How could we rewrite our frontend to take advantage of modern tooling..."
+  },
+  {
+    "id": "536549",
+    "title": "Meet Your New BFF: Backend to Frontend without the Duct Tape",
+    "speakers": [
+      "Dev Agrawal"
+    ],
+    "room": "Salon A",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Backend",
+      "Front End"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "Even with all of the incredible frameworks available today vs. a decade ago (or even two––for devs who have been around as long as I have), it still feels like much of our work as fullstack developers is still repetitive, and held together by duct tape code we shouldn’t be writing.  \n\nThis is..."
+  },
+  {
+    "id": "535249",
+    "title": "Black Box Techniques for Unit Tests",
+    "speakers": [
+      "Jenny Bramble"
+    ],
+    "room": "Salon H",
+    "track": "Software Quality",
+    "tags": [
+      "Programming Principles",
+      "Code Quality",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "One of the greatest strengths of modern development is the ease of unit testing for many languages and frameworks. Obviously, you’re testing your code–but are you thoroughly testing it? Are you testing the right things? Is there more you could be testing?\n\nEnter black box testing techniques...."
+  },
+  {
+    "id": "531608",
+    "title": "Reasonable Accommodations in the Workplace",
+    "speakers": [
+      "Erissa Duvall"
+    ],
+    "room": "Salon D",
+    "track": "Career Development",
+    "tags": [
+      "Diversity/Equity/Inclusion",
+      "Accessibility"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "Reasonable Accommodations can be a life saver for so many. They can be the difference between struggling to accomplish work tasks and flourishing. They can also benefit more people than you may realize. \n\nWhat kinds of things could be considered workplace accommodations? What might you need to do to..."
+  },
+  {
+    "id": "532476",
+    "title": "Building a Full-Stack Application with Flutter and Dart",
+    "speakers": [
+      "Ryan Edge"
+    ],
+    "room": "Salon E",
+    "track": "Mobile",
+    "tags": [
+      "Front End",
+      "Mobile",
+      "Cloud"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "For the past few years, Flutter has revolutionized mobile app development by allowing developers to build high-performance, cross-platform applications with ease. However, building a full-stack application can be a challenging task because we often find ourselves juggling multiple technologies to..."
+  },
+  {
+    "id": "537449",
+    "title": "Exploring Cloud Native MLOps for GenAI Vector Search",
+    "speakers": [
+      "Mary Grygleski"
+    ],
+    "room": "Salon B",
+    "track": "Data",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Machine Learning"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "ChatGPT has been in the center stage since early this year. We will first take a look into this exciting sub-new field of Generative AI, and understand what LLM and NLP are, and the challenges that all of these are presenting themselves. We will also highlight the importance of Vector Search, and..."
+  },
+  {
+    "id": "530635",
+    "title": "AI Speaks: Giving Large Language Models a Voice with Alexa",
+    "speakers": [
+      "Craig Walls"
+    ],
+    "room": "Salon G",
+    "track": "Hardware/IoT",
+    "tags": [
+      "Javascript",
+      "IoT",
+      "Machine Learning"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "9:15",
+    "endTime": "10:15",
+    "excerpt": "Large Language Models (LLM) have been quite the buzz lately, offering one of the first tangible applications of artificial intelligence for the masses. Despite quirks and \"hallucinations\", LLMs show real promise of being a valuable component in the future of thinking machines.\n\nMeanwhile, for a few..."
+  },
+  {
+    "id": "537187",
+    "title": "Doodle with \"Logo\" the turtle",
+    "speakers": [
+      "Umang Nahata"
+    ],
+    "room": "Portia / Wisteria",
+    "track": "KidzMash",
+    "tags": [
+      "Soft Skills"
+    ],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "9:30",
+    "endTime": "11:30",
+    "excerpt": "Learn how to program and draw using \"Logo\" the turtle. The Logo programming language was invented over thirty years ago to make it easier for kids to learn how to program computers. \n\nKids will learn to draw shapes on their computer screen using the \"Logo\" turtle while learning to program and direct..."
+  },
+  {
+    "id": "586431",
+    "title": "A Kid's introduction to 3D Modeling (Thursday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "excerpt": "This second session is a follow up where we get to make 3D models! Children must have a responsible adult present. We will work with a fully featured CAD application called Rhino3d and walk through the process of building a basic model from geometric shapes. We will explain the XYZ coordinate..."
+  },
+  {
+    "id": "531557",
+    "title": "Async/Await from the Ground Up",
+    "speakers": [
+      "Stephen Cleary"
+    ],
+    "room": "Cypress",
+    "track": "Programming Principles",
+    "tags": [
+      ".NET",
+      "C#",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "An async refresher course for developers who use async and await but want to really understand what's going on.\n\nThis session is a \"re-introduction\" to async and await. It covers what the keywords mean and - just as importantly - what they *don't* mean. We'll be covering What You Need To Know,..."
+  },
+  {
+    "id": "530201",
+    "title": "Tactics for Building Background Services in .NET",
+    "speakers": [
+      "Kevin Griffin"
+    ],
+    "room": "Indigo Bay",
+    "track": "Architecture",
+    "tags": [
+      ".NET",
+      "C#",
+      "Backend",
+      "Programming Principles",
+      "Cloud",
+      "Architecture",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "Mature applications often find themselves in the predicament of having to do work \"behind the scenes.\" Frequently this could be simple tasks such as sending emails or updating statistics.  Or it could be something more complicated, like processing incoming files or building reports.  These tasks..."
+  },
+  {
+    "id": "537211",
+    "title": "Isn't it time to ditch code coverage? Focus on high value tests instead",
+    "speakers": [
+      "Stephen Odell"
+    ],
+    "room": "Nile",
+    "track": "Software Quality",
+    "tags": [
+      "Automation",
+      "Code Quality",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "As engineers, it can be difficult to use metrics to measure the value of what we do. One metric that typically falls short is code coverage because it can’t measure how WELL our application has been tested, rather, it focuses how MUCH has been tested. What if we ditched this traditional metric and..."
+  },
+  {
+    "id": "530649",
+    "title": "Building a Pan/Tilt/Zoom Live Streaming Camera Rig",
+    "speakers": [
+      "Todd Sharp"
+    ],
+    "room": "Orange",
+    "track": "Hardware/IoT",
+    "tags": [
+      "Javascript",
+      "Hardware",
+      "IoT"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "In this session, you'll see how I used an XBox controller, Arduino, a few servo motors and some HTML and JavaScript APIs to build the whole assembly. Even if you don't need your own PTZ rig, you'll still learn about some really cool JavaScript APIs like Web Serial, and the Gamepad API that you may..."
+  },
+  {
+    "id": "532287",
+    "title": "Transforming the Workday: How Generative AI Can Empower Knowledge Workers",
+    "speakers": [
+      "Jean Seely"
+    ],
+    "room": "Salon A",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Project Management",
+      "Machine Learning"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "In the fast-paced world of knowledge work, efficiency and innovation are key. 'Transforming the Workday' is a talk designed to illuminate how Generative AI can become a vital ally in the daily tasks of professionals across various fields. From automating time-consuming processes to enhancing..."
+  },
+  {
+    "id": "531549",
+    "title": "Scaling Web Frontends Across Teams",
+    "speakers": [
+      "Cory House"
+    ],
+    "room": "Salon H",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "React",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "At some point, a web app's frontend becomes too complex to manage via a single dev team. In this session, we'll explore patterns and techniques for splitting an app across teams. We'll discuss component-driven development patterns, micro-frontends, shell apps, reorg strategies, monorepos, vertical..."
+  },
+  {
+    "id": "531099",
+    "title": "AI for Highway Maintenance",
+    "speakers": [
+      "Jordan Thayer"
+    ],
+    "room": "Salon D",
+    "track": "Data",
+    "tags": [
+      "Programming Principles",
+      "Machine Learning",
+      "Performance"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "Software touches every aspect of our lives, and no where is that clearer than in the automotive industry. With the recent surge to AI for self driving cars, we lose sight of adaptive cruise control, anti-lock breaks, and in-cab media centers that all require software to operate.\n\nHowever, did you..."
+  },
+  {
+    "id": "537342",
+    "title": "Hybrid Agility: Working Conditions for Team Success",
+    "speakers": [
+      "Carina Silfverduk"
+    ],
+    "room": "Salon E",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Agile",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "Is your team or workplace working hybrid, with some in the office and some remote on any given day? Working hybrid is by far harder than either remote or on-site work because you need to accommodate both and then do something extra to keep everyone in the room and everyone on the call engaged.\n\nHow..."
+  },
+  {
+    "id": "536452",
+    "title": "Accessibility in the Enterprise: The Relationship of A11y and ROI",
+    "speakers": [
+      "Chris DeMars"
+    ],
+    "room": "Salon B",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Front End",
+      "Diversity/Equity/Inclusion",
+      "Accessibility"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "As we build more and more things on the web, accessibility is gaining much more visibility. But what does it actually mean to you and your company? It means we HAVE to be cognizant of everyone, all the time, with no exceptions as we do our part in building awesome, accessible user experiences to..."
+  },
+  {
+    "id": "537301",
+    "title": "Survival Under Fire: How to Stay Whole During Adversity",
+    "speakers": [
+      "Arthur Doler"
+    ],
+    "room": "Salon G",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "Each of the last few years have hit like a brick to the temple. It felt like the entire world was upended. There’s been radical shifts in the way we work, endless video conference calls, social and political unrest, and lots of tough choices about our health and the health of those we love and..."
+  },
+  {
+    "id": "535619",
+    "title": "Clay-tastic",
+    "speakers": [
+      "Alexis Glenn"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      ".NET"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "In this hands-on session, Kidz will learn about the different types of clay, what they are used for, and basic sculpting techniques.  Kids will make their own sculpture with air-dry clay using their newfound skills."
+  },
+  {
+    "id": "532537",
+    "title": "A Contrarian View of Software Architecture",
+    "speakers": [
+      "Jeremy Miller"
+    ],
+    "room": "Cypress",
+    "track": "Architecture",
+    "tags": [
+      "Programming Principles",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "I’ve spent an inordinate amount of time the past half decade across multiple companies working with very large, long running enterprise systems. Especially in long running, constantly changing systems, you want the code to be easy to understand, relatively painless to extend or modify, and when..."
+  },
+  {
+    "id": "537226",
+    "title": "You’re Doing Exceptions Wrong",
+    "speakers": [
+      "Matt Burke"
+    ],
+    "room": "Indigo Bay",
+    "track": "Programming Principles",
+    "tags": [
+      "Backend",
+      "Object Oriented Programming",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "Exceptions are powerful and valuable, but we frequently misuse them and destabilize our applications. We fear users seeing an error message, so we swallow the exception, creating troubleshooting nightmares down the road. We fail to check inputs and throw them at all, letting garbage into our..."
+  },
+  {
+    "id": "537359",
+    "title": "Modern Authentication and Authorization with OIDC, OAuth2, and Resource-based Permissions",
+    "speakers": [
+      "Eric Boyd"
+    ],
+    "room": "Nile",
+    "track": "Security",
+    "tags": [
+      ".NET",
+      "Backend",
+      "Security"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "Open web standards for authentication, authorization and delegation are especially important in our connected, integrated, and mobile world. There are expectations for single sign-on, integration with external partners, multi-tenancy, identity across application tiers, and authentication with..."
+  },
+  {
+    "id": "531432",
+    "title": "From IC to EM: How to Know if Management is Right for You",
+    "speakers": [
+      "Andrea Rhodes"
+    ],
+    "room": "Orange",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Leadership",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "“What do I want to be when I grow up?” This isn’t something that we only ask our younger-selves, but our older-selves as well. At some point in your career, you’ve probably been asked: “Have you thought about growing into the people management area?” If you have (or even if you..."
+  },
+  {
+    "id": "530271",
+    "title": "Automating your smarthome without the cloud",
+    "speakers": [
+      "Seth Petry-Johnson"
+    ],
+    "room": "Salon A",
+    "track": "Hardware/IoT",
+    "tags": [
+      "IoT",
+      "Cloud",
+      "Automation"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "Modern \"smart\" homes are dumb; your lights shouldn't stop working because your Internet is down, and your new doorbell shouldn't compromise your network security.\n\nA smarter and more secure home doesn't depend on cloud services or a disparate array of apps to function, and it's easier than you might..."
+  },
+  {
+    "id": "533987",
+    "title": "The Illustrated Guide to Node.js",
+    "speakers": [
+      "David Neal"
+    ],
+    "room": "Salon H",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Backend"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "Node.js is a compelling platform for building all types of applications for startups to enterprises. Node.js strategically unites developers through the universal language of JavaScript. Or TypeScript! Why should you learn Node.js, and where do you start?\n\nYou will walk away from this fun..."
+  },
+  {
+    "id": "536741",
+    "title": "Long-Term Planning in an Agile World",
+    "speakers": [
+      "Jeremy Jarrell"
+    ],
+    "room": "Salon D",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Leadership",
+      "Agile",
+      "Project Management"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "“Long-term” and “Agile” typically aren’t two words that go together. After all, agile teams prize reactivity and adaptability over firm plans set in stone. But these two concepts aren’t mutually exclusive. In fact, the best-performing agile teams keep one eye on their longer-term..."
+  },
+  {
+    "id": "536779",
+    "title": "Terminal, CLI's, and UI's - Using Windows Terminal & the WSL",
+    "speakers": [
+      "Mike Nelson"
+    ],
+    "room": "Salon E",
+    "track": "DevOps",
+    "tags": [
+      "Functional Programming",
+      "DevOps",
+      "UI/UX",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "The classic Windows Terminal app allowed for simple command line integrations. But now, the new Terminal app, along with the Windows Subsystem for Linux (WSL), can generate some really cool interaction between you and multiple operating systems. Not only can you do command line, but the Linux..."
+  },
+  {
+    "id": "537289",
+    "title": "GPT Embeddings - Not Magic, Just Math",
+    "speakers": [
+      "Barry Stahl"
+    ],
+    "room": "Salon B",
+    "track": "Data",
+    "tags": [
+      "C#",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "Embeddings may be the least understood yet most valuable tool to come out of the world of Large Language Models. In this presentation, we will unravel the mystery of embeddings, emphasizing their mathematical foundations and practical applications. \n\nWe'll start by discussing what embeddings are,..."
+  },
+  {
+    "id": "534208",
+    "title": "Design Systems as a Foundation for Accessibility",
+    "speakers": [
+      "Marko Skugor"
+    ],
+    "room": "Salon G",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Front End",
+      "Diversity/Equity/Inclusion",
+      "Accessibility",
+      "UI/UX"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "11:45",
+    "endTime": "12:45",
+    "excerpt": "Design systems are at their core a repository of solved UX interaction design problems made re-usable and highly visible for others to leverage. Accessibility, on the other hand, is an outcome that is usually hard fought for and hard won for any organization - especially at scale. As technologists,..."
+  },
+  {
+    "id": "537345",
+    "title": "The Other Side of the Table - Salary Negotiation from a Management Perspective",
+    "speakers": [
+      "Nick Stewart"
+    ],
+    "room": "Cypress",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Soft Skills"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Salary negotiation is a daunting task, and it can be made all the more confusing, if you don’t understand the position management often has to take.  One of the best strategies for a successful negotiation is to determine what the other side values, and it’s not always the lowest number.  In..."
+  },
+  {
+    "id": "535246",
+    "title": "Creative Problem Solving",
+    "speakers": [
+      "Eric Potter"
+    ],
+    "room": "Indigo Bay",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "Leadership",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "You're a developer. Solving problems is a big part of what you do. But how can you learn to think more clearly and more creatively about the problems you are solving? In this session, you will learn about the cognitive science of creative thinking. You will also learn some practical things you can..."
+  },
+  {
+    "id": "533604",
+    "title": "Dev Containers. What are they and why do you need them?",
+    "speakers": [
+      "Joseph Guadagno"
+    ],
+    "room": "Nile",
+    "track": "DevOps",
+    "tags": [
+      ".NET",
+      "DevOps",
+      "CI/CD"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "You're onboarding a new team member, or your team recently inherited a project that uses a different SDK/framework version than your current project uses. What do you do?  Install the old SDK/framework versions? Can they even be installed at the same time on the same machine?  What if I told you..."
+  },
+  {
+    "id": "530668",
+    "title": "Prime (re)Factoring",
+    "speakers": [
+      "Steve Smith"
+    ],
+    "room": "Orange",
+    "track": "Programming Principles",
+    "tags": [
+      ".NET",
+      "C#",
+      "Object Oriented Programming",
+      "Programming Principles",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "You've probably heard of refactoring, but did you know the term originates from the process of factoring programming code? In mathematics, factoring is used to pull out factors of numbers through division, and importantly prime numbers have factors of only themselves and the identity constant,..."
+  },
+  {
+    "id": "530691",
+    "title": "Modern Web Automation Testing",
+    "speakers": [
+      "Bob Crowley"
+    ],
+    "room": "Salon A",
+    "track": "Software Quality",
+    "tags": [
+      "Front End",
+      "Automation",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Modern web applications require a modern tool for automated testing. Something that can handle both mobile and desktop, async operations, shadow DOM, all the browsers and much more.\n\nEnter Playwright. Designed for all the needs of modern applications, Playwright checks all the boxes.\n\nThis session..."
+  },
+  {
+    "id": "533186",
+    "title": "Spaces, squares, and circles - an intro to UI design",
+    "speakers": [
+      "Ash Banaszek"
+    ],
+    "room": "Salon H",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Front End",
+      "Soft Skills",
+      "UI/UX"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Are you a techie that has found yourself in charge of laying out and designing screens?  Do you find yourself staring at screens that just don't \"feel right\" but it is hard to pinpoint why.  Maybe a few design basics can get you back in the game.  In this talk, [Redacted name] (an experienced UX..."
+  },
+  {
+    "id": "537280",
+    "title": "Debugging JavaScript and React",
+    "speakers": [
+      "Mark Erikson"
+    ],
+    "room": "Salon D",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "React",
+      "Front End"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "## Description / Abstract\n\nAs developers, we spend much of our time debugging apps - often code we didn't even write. Sadly, few developers have ever been taught how to approach debugging - it's something most of us learn through painful experience.  The good news is you _can_ learn how to debug..."
+  },
+  {
+    "id": "532566",
+    "title": "A Hands-On Overview to Building AI Solutions with AI Builder",
+    "speakers": [
+      "Barret Blake"
+    ],
+    "room": "Salon E",
+    "track": "Data",
+    "tags": [
+      "Cloud",
+      "Automation"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Whether it's generating automated interactive chat experiences or automating business processes, AI is the future of business software. AI Builder is a powerful tool for organizations looking to incorporate the power of AI into their business processes. \n\nIn this talk, we'll explore the key features..."
+  },
+  {
+    "id": "530551",
+    "title": "Building Relationships for Better Security",
+    "speakers": [
+      "Darylynn Ross"
+    ],
+    "room": "Salon B",
+    "track": "Security",
+    "tags": [
+      "Security",
+      "Soft Skills",
+      "Leadership"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "It's 2024 and software engineering teams and security teams are still struggling to figure out how we can all just get along. Engineering teams are commonly frustrated and annoyed at all the extraneous stuff security wants them to do. And security teams are commonly frustrated with the lack of..."
+  },
+  {
+    "id": "536661",
+    "title": "Services Reloaded: Increased Throughput with Project Loom Virtual Threads",
+    "speakers": [
+      "Kito Mann"
+    ],
+    "room": "Salon G",
+    "track": "Architecture",
+    "tags": [
+      "Java",
+      "Backend"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "The promise of Reactive programming models is that you can free yourself from the constraints of handling one request for each thread and realize increased throughput as a result. The only problem is that it requires a completely different set of APIs that many developers find counter-intuitive...."
+  },
+  {
+    "id": "586663",
+    "title": "Getting started in basic electronics, part 1 (Thursday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "586456",
+    "title": "From idea to physical series: A basic overview of the world of CAD and 3D printing (Thursday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "This session will talk about the exciting world of 3D printing. We will go over exciting trends and happenings in the 3D printing world. We’ll then cover choosing a CAD app and will briefly cover using curated 3D printer object libraries and different CAD apps that might be more appropriate to..."
+  },
+  {
+    "id": "533783",
+    "title": "Product Thinking and Tinkering",
+    "speakers": [
+      "BJ Allmon"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "UI/UX"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Do you aspire to be an inventor one day? Maybe you have lots of ideas and don't know what to do with them. \n\nYou probably never heard of Frank Epperson, have you? But I bet you've heard of the popsicle, and he invented that when he was only 11 yrs old!\n\nYou may have heard of Ben Franklin, one..."
+  },
+  {
+    "id": "537229",
+    "title": "What a Character!",
+    "speakers": [
+      "Matt \"Kelly\" Williams"
+    ],
+    "room": "Portia / Wisteria",
+    "track": "KidzMash",
+    "tags": [
+      "Career Development",
+      "Soft Skills"
+    ],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "excerpt": "What do games, stories, books, movies, and comics all have in common?\n\nCharacters\n\nIn this dive you will get hands on practice creating characters, from start to finish.  Along the way you'll envision their world, family, friends, society, motivations, quirks, and more!\n\nAward winning comic book..."
+  },
+  {
+    "id": "586659",
+    "title": "Getting started in basic electronics, part 2 (Thursday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "586464",
+    "title": "From idea to physical: A demo of how to make CAD models in Rhino3d. (Thursday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "excerpt": "This lab is intended to be a fast-paced technology walk-through of the process of creating a 3D printed object. We will focus in on the process of using CAD to create our model with a NURBS modeler called Rhino3D and will walk through the UI and how Rhino uses basic curves and shapes to create more..."
+  },
+  {
+    "id": "584579",
+    "title": "Light Up with Graphite!",
+    "speakers": [
+      "Erin Hanton"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Hardware"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Thursday",
+    "startTime": "14:30",
+    "endTime": "15:20",
+    "excerpt": "Did you know you can make electrical circuits with all kinds of conductors, including the graphite in your pencils? In this session we'll learn a bit about electrical circuit basics and make some LEDs light up by experimenting with drawing some circuits on paper with regular graphite!"
+  },
+  {
+    "id": "530052",
+    "title": "Out of Control: How to Rescue a Struggling Software Project",
+    "speakers": [
+      "Cory House"
+    ],
+    "room": "Kilamanjaro Ballroom",
+    "track": "Software Quality",
+    "tags": [
+      "Architecture",
+      "System Design",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "We were drowning in bugs. We had countless partially implemented features. We had no tests, few types, no CI, no error handling, and we couldn't demo our work reliably. Developers kept copying anti-patterns in our code. Our software was out of control. \n\nIf you want to improve quality and velocity,..."
+  },
+  {
+    "id": "535352",
+    "title": "Bad Tendencies in Leaders and How to Manage Up",
+    "speakers": [
+      "Benjamin Dobrowolski"
+    ],
+    "room": "Cypress",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Leadership",
+      "Project Management"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "No matter where you’ve worked, we’ve all had those bosses that we’ve not gotten along with. \n\nBut what if you did more than complain about it? What if you could “manage” your boss, to not only your benefit, but to your co-workers benefit as well? \n\nTake back control and learn to manage up..."
+  },
+  {
+    "id": "530109",
+    "title": "Stop using JavaScript for that: moving features from JS to CSS and HTML",
+    "speakers": [
+      "Kilian Valkhof"
+    ],
+    "room": "Nile",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Javascript",
+      "Front End",
+      "Accessibility"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "If you've been building websites for a while you \"know\" that some things require JS and that's just the way it is. Turns out, spec writers and browser makers both are working hard to find common JS patterns and implementing them in CSS and HTML. Things like accordions, auto-suggest, smooth..."
+  },
+  {
+    "id": "530056",
+    "title": "One app, multiple platforms: How Cross Platform Actually Works",
+    "speakers": [
+      "Mike Hartington"
+    ],
+    "room": "Orange",
+    "track": "Mobile",
+    "tags": [
+      "Javascript",
+      "Mobile"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "Today's solutions for cross platform development all aim to provide developers a better way to build their apps. Build your app in a certain way, and you can ship it to multiple targets (iOS, Android, Web, etc.) with ease. But not all solutions are created equal, and it can be difficult to..."
+  },
+  {
+    "id": "535543",
+    "title": "Does Your API Need a REST? Check Out GraphQL",
+    "speakers": [
+      "Dan Vega"
+    ],
+    "room": "Salon A",
+    "track": "Programming Principles",
+    "tags": [
+      "Java",
+      "GraphQL"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "GraphQL is a declarative query language that simplifies retrieving data from an application's back end. It provides a clear and comprehensive description of the data in your API, giving you the ability to request only what you need. This makes it easy to evolve APIs over time and enables powerful..."
+  },
+  {
+    "id": "531983",
+    "title": "self.clone();//Passing On Your Passion",
+    "speakers": [
+      "Barry Tarlton"
+    ],
+    "room": "Salon H",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "When you've written your last line of code, what will be your legacy?  Will your applications live on forever in Production or at least until AI takes over?  Will your Github repos be archived and immortalized?  Will there be patterns or tools named after you?  For most of us, there probably won't..."
+  },
+  {
+    "id": "532928",
+    "title": "Take Back Control - Introducing Veilid",
+    "speakers": [
+      "Bill Sempf"
+    ],
+    "room": "Salon E",
+    "track": "Architecture",
+    "tags": [
+      "Python",
+      "Rust",
+      "Mobile",
+      "Security",
+      "Cloud"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "Veilid is an open-source, peer-to-peer, mobile-ﬁrst, networked application framework. It allows developers to build private, distributed, scalable social applications containing and sharing a user's personal content without data collection by third parties being of concern. Built by Cult of the..."
+  },
+  {
+    "id": "536704",
+    "title": "Aerospace Engineering for Computer Scientists",
+    "speakers": [
+      "Ilyana Smith"
+    ],
+    "room": "Salon B",
+    "track": "Programming Principles",
+    "tags": [
+      "Programming Principles",
+      "Project Management"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "It IS rocket science! What do the International Space station and Apollo 1 have to do with basic programming principles?  What considerations need to be taken into account when computers go to space? How did computers impact the moon landing? (Hint: it wasn’t special effects!) In this session,..."
+  },
+  {
+    "id": "534517",
+    "title": "Scaling your .NET app with Azure",
+    "speakers": [
+      "Callum Whyte"
+    ],
+    "room": "Salon G",
+    "track": "DevOps",
+    "tags": [
+      ".NET",
+      "Cloud",
+      "DevOps"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "15:30",
+    "endTime": "16:30",
+    "excerpt": "You've made it big time, and your web app just can't handle the traffic... Where do you even start with scaling in Azure?\n\nThis session will cover all there is to know about efficiently scaling an app on Azure; from scaling on App Service, to hosting in containers on AKS, and all the DevOps magic in..."
+  },
+  {
+    "id": "586471",
+    "title": "From idea to physical series: Codemash Race League project. (open to Adults and Kidz) (Thursday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "excerpt": "Want to make something more advanced than the ones you made in the basic overview? We have some additional options to expand model building skills for those who have been through our previous sessions. \n\nThis session the goal will be to build a raceable “matchbox/hot wheels scaled” 3d-printed..."
+  },
+  {
+    "id": "536315",
+    "title": "From Good to Great: How API Gateways Can Level-Up Your Software",
+    "speakers": [
+      "Daniel Mikusa"
+    ],
+    "room": "Cypress",
+    "track": "Architecture",
+    "tags": [
+      "Java",
+      "Cloud",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "In today's digital landscape, APIs are an essential part of most software offerings, and from financial services to a Chuck Norris joke generator, all APIs have similar pain points.\n\n- How do we secure our APIs?\n- How do we monitor our APIs?\n- How do we authenticate and authorize users?\n- How can we..."
+  },
+  {
+    "id": "531443",
+    "title": "Alerts Don't Suck. YOUR Alerts Suck.",
+    "speakers": [
+      "Leon Adato"
+    ],
+    "room": "Nile",
+    "track": "DevOps",
+    "tags": [
+      "Observability"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "The SRE handbook defines alerts as \"A notification intended to be read by a human and that is pushed to a system such as a bug or ticket queue, an email alias, or a pager. Respectively, these alerts are classified as tickets, email alerts, and pages.\" and I just want to scream. Not because the..."
+  },
+  {
+    "id": "537287",
+    "title": "git gone wild: how to recover from common git mistakes.",
+    "speakers": [
+      "Magnus Stahre"
+    ],
+    "room": "Orange",
+    "track": "Programming Principles",
+    "tags": [
+      "Programming Principles"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "\"Oh no! I just typed something into git and now my work is gone! Ahh!\"\n\nDon't panic. Contrary to popular belief, git is one of the most non-destructive version control systems available. When used right, git\nnever loses any data, and even when misused, chances are very high you can still..."
+  },
+  {
+    "id": "537293",
+    "title": "Deliver what the client wants instead of what they ask for! Getting them to tell you what they need.",
+    "speakers": [
+      "Angel Thomas"
+    ],
+    "room": "Salon A",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Teams",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "As software developers, our goal is to typically write software that meets the needs of our clients, whether they be internal or external clients. Often times, when we miss the mark, it is due to a communication breakdown between the developer team and the client team on what the actual requirements..."
+  },
+  {
+    "id": "531711",
+    "title": "The Hazards of Sitting: An Osteopath’s Approach to Preventing Work-Related Injury.",
+    "speakers": [
+      "Michele Parsley-Lanning D.O."
+    ],
+    "room": "Salon H",
+    "track": "Career Development",
+    "tags": [
+      "Soft Skills",
+      "Leadership"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "My training as an Osteopathic Physician prepared me to counsel my patients about  injury and disease prevention. However, I did not realize the full impact of spending a majority of my time sitting at a desk would have on my overall movement and flexibility. \n\nIn this talk, I will provide background..."
+  },
+  {
+    "id": "530145",
+    "title": "My Pi in the Sky - Running MySQL on a Raspberry Pi and Replicating Data to the Cloud",
+    "speakers": [
+      "Scott Stroz"
+    ],
+    "room": "Salon D",
+    "track": "Hardware/IoT",
+    "tags": [
+      "Hardware",
+      "Databases"
+    ],
+    "format": "General Session",
+    "level": "Advanced",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "Did you know that you can run MySQL on a Raspberry Pi and replicate the data to the cloud?\n\nIn this session, we will cover how to install MySQL on a Raspberry Pi, give a brief overview of how to store data on this MySQL instance, demonstrate an application that can visualize that data, and finally,..."
+  },
+  {
+    "id": "537343",
+    "title": "What Does Security Look Like When Building AI?",
+    "speakers": [
+      "Robert Herbig"
+    ],
+    "room": "Salon E",
+    "track": "Security",
+    "tags": [
+      "Programming Principles",
+      "Security",
+      "Machine Learning"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "Anyone who is working with AI or considering doing so should care about security. When considering building an AI-powered system or product, the traditional attack surfaces and mitigations still apply. However, new attack surfaces can be present depending on the specific AI approaches used. In..."
+  },
+  {
+    "id": "536266",
+    "title": "Building accessible Android apps using Jetpack Compose",
+    "speakers": [
+      "Devanshu Chandra"
+    ],
+    "room": "Salon B",
+    "track": "Mobile",
+    "tags": [
+      "Mobile"
+    ],
+    "format": "General Session",
+    "level": "Advanced",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "Recently Android introduced a new technique of developing Android user interface called Jetpack Compose. Using Kotlin APIs Jetpack Compose provides a faster and easier way to develop Android UI and has inbuilt support for Material Design, Dark Theme, Animation and much more. In this session we will..."
+  },
+  {
+    "id": "537319",
+    "title": "Effective Observability for MLOps Pipelines at Scale",
+    "speakers": [
+      "Shivay Lamba"
+    ],
+    "room": "Salon G",
+    "track": "Data",
+    "tags": [
+      "Cloud",
+      "DevOps",
+      "Machine Learning",
+      "Data Science",
+      "Observability"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Thursday",
+    "startTime": "16:45",
+    "endTime": "17:45",
+    "excerpt": "As the world embraces AI and adopts machine learning, many companies and moving towards using models like the LLMs. Deployment and monitoring such large models are extremely important. As traditional DevOps Engineers, you might not be exposed to working with machine learning systems. This is where..."
+  },
+  {
+    "id": "533606",
+    "title": "Application Architecture Patterns",
+    "speakers": [
+      "Joseph Guadagno"
+    ],
+    "room": "Cypress",
+    "track": "Architecture",
+    "tags": [
+      "Programming Principles",
+      "Architecture",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "Architecting an application can be challenging.  What do you do to keep your application flexible to ever-constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well..."
+  },
+  {
+    "id": "536759",
+    "title": "State of Mobile Development",
+    "speakers": [
+      "Sam Basu"
+    ],
+    "room": "Indigo Bay",
+    "track": "Mobile",
+    "tags": [
+      ".NET",
+      "Javascript"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "It’s 2024. Thankfully, developers have a lot of choice in how to build for mobile form factors. Mobile strategy can often be an afterthought – in reality, it needs to be driven by type of app, audience, platform reach, developer expertise & need for code reuse. \n\nIs Mobile web still an option?..."
+  },
+  {
+    "id": "530545",
+    "title": "Writing Secure APIs - A Look at the OWASP 2023 API Top 10 List",
+    "speakers": [
+      "Darylynn Ross"
+    ],
+    "room": "Nile",
+    "track": "Security",
+    "tags": [
+      "Programming Principles",
+      "Security",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "OWASP published a new API top 10 list in July of 2023. There are some old favorites hanging around (I'm looking at you Authentication) and some new comers like Server Side Request Forgery and Unrestricted Access to Sensitive Business Flows.  This session will cover the new top 10 list and take a..."
+  },
+  {
+    "id": "537388",
+    "title": "Caffeinate Your Queries: Brew Up Faster SQL with Tuning",
+    "speakers": [
+      "Tristan Chiappisi"
+    ],
+    "room": "Orange",
+    "track": "Data",
+    "tags": [
+      "SQL",
+      "Databases"
+    ],
+    "format": "General Session",
+    "level": "Advanced",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency,..."
+  },
+  {
+    "id": "537432",
+    "title": "The Vue.js Power Hour: Building a Dynamic Frontend in < 60 Minutes",
+    "speakers": [
+      "Tori Brenneison"
+    ],
+    "room": "Salon A",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Front End"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "Are you a beginner developer who is curious about JS component frameworks? A backend developer who wants to add a frontend skill to their toolbox? A data analyst looking for a quick way to build views? Have we got a deal for you!\n\nVue.js is a relatively straightforward and increasingly popular..."
+  },
+  {
+    "id": "537298",
+    "title": "Reaping the Benefits of Ritual and Routine",
+    "speakers": [
+      "Arthur Doler"
+    ],
+    "room": "Salon H",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "Remote Work"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "Software is as close as humans are ever going to come to actual magic. You type arcane incantations using cryptic symbols, crafting messages incomprehensible to most mortals and communicating them to vast, unknowable systems, to be executed blindly by idiot machine gods who follow our instructions..."
+  },
+  {
+    "id": "532315",
+    "title": "Can We Learn to Manage Uncertainty? Probably!",
+    "speakers": [
+      "Robert Herbig"
+    ],
+    "room": "Salon D",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Agile",
+      "Project Management"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "When we’re asked when something will be done, it’s tempting to answer the question. “It’ll be done on March 32nd” or “it’ll take 182.5 days” or “we need 15 sprints”. It doesn’t matter if that answer is the best-case, average, or worst-case scenario.\n\nThe answer is fundamentally..."
+  },
+  {
+    "id": "533750",
+    "title": "Projectional Code Editors: Past, Present, and Future",
+    "speakers": [
+      "Jonathan Arnett"
+    ],
+    "room": "Salon E",
+    "track": "Programming Principles",
+    "tags": [
+      "UI/UX",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "Have you ever felt that your humble text editor could be—should be—so much more?  After all, the software we're writing is much more than text!  Programming languages mandate rigid structures for textual code, for instance that (in some languages) the conditional for an \"if\" must be in..."
+  },
+  {
+    "id": "535552",
+    "title": "Testing Mayhem on the Basic Side",
+    "speakers": [
+      "Jeanette Kalb"
+    ],
+    "room": "Salon B",
+    "track": "Software Quality",
+    "tags": [
+      "Programming Principles",
+      "Code Quality",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "Did you ever wonder how a QA managed to find something you didn’t on that last feature card? Hint, it’s not magic, but there is a lot of mayhem. Your quality professionals need your help to help them test better. This talk will provide insight as to what your QA person goes through when deciding..."
+  },
+  {
+    "id": "535269",
+    "title": "Accelerating Accessible Software Development for People with Motor Disabilities",
+    "speakers": [
+      "Yvette Menase"
+    ],
+    "room": "Salon G",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Front End",
+      "Diversity/Equity/Inclusion",
+      "Accessibility"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "9:30",
+    "excerpt": "In today's digital world, many people with motor disabilities face barriers when accessing and using software due to their assistive device & physical limitations. In this talk, we will discuss strategies and best practices for designing software that is accessible to people with motor..."
+  },
+  {
+    "id": "586386",
+    "title": "A Kid's World of 3D printing and CAD (Friday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Friday",
+    "startTime": "8:30",
+    "endTime": "10:00",
+    "excerpt": "This session is targeted for children. All ages of children are welcome based on their ability to enjoy the content being offered! Children must have a responsible adult present. We will talk about and watch videos about the exciting world of 3D printing. We will tour the 3D printer lab and look at..."
+  },
+  {
+    "id": "586671",
+    "title": "Intro to Soldering (Friday)",
+    "speakers": [
+      "Damon Stamper"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "Learn how to solder electronic components by assembling a themed 'Codemash Prime' LED badge. We’ll go over basic soldering equipment, safety and technique. We’ll solder through-hole and SMD components. This session assumes no prior experience with electronics. Even if you’re a total beginner,..."
+  },
+  {
+    "id": "534776",
+    "title": "[KidzMash] Become a LEGO Master Builder With Teamwork!",
+    "speakers": [
+      "Thomas Haver"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "Leadership"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Friday",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "excerpt": "LEGO(R) sets are amazingly fun to build, but who has attempted to build a complete set without looking at the instructions? In this session, the kidz & adults will form teams and try to build one of sixteen different Creator sets without the instructions. Only one person from each team will be able..."
+  },
+  {
+    "id": "537174",
+    "title": "Scrambled - Solving a Rubik's cube!",
+    "speakers": [
+      "Yajat Nahata"
+    ],
+    "room": "Portia / Wisteria",
+    "track": "KidzMash",
+    "tags": [
+      "Soft Skills"
+    ],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Friday",
+    "startTime": "9:30",
+    "endTime": "11:30",
+    "excerpt": "Have you ever wondered why solving a Rubik's cube is so much fun yet challenging! In this session, I will share how I solve a 3x3x3 Rubik's cube using the beginner's method and making it fun and exciting.\n\nWe will cover the history of the Rubik's cube and then move onto the basics such as the sides,..."
+  },
+  {
+    "id": "535707",
+    "title": "How to answer \"When will it be done?\" using probabilistic forecasting.",
+    "speakers": [
+      "Chris Shinkle"
+    ],
+    "room": "Cypress",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Agile",
+      "Project Management",
+      "Velocity"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "\"When will it be done?\" How often have you been asked that question? That question strikes fear or frustration in most people. It often results in throwing up your hands in frustration or tossing out a wild guess. Surely there's a better way?\n\nForget story points, t-shirt sizing, historical..."
+  },
+  {
+    "id": "531370",
+    "title": "Platform as a Product: the future of Agile and DevOps",
+    "speakers": [
+      "Brad Nelson"
+    ],
+    "room": "Indigo Bay",
+    "track": "DevOps",
+    "tags": [
+      "Programming Principles",
+      "DevOps",
+      "Agile",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "Cross-functional teams and full-stack developers have become the expectation in today's highest-performing teams. However, as technology needs become more complex and solutions begin to scale, it becomes increasingly difficult for software engineers to balance expertise across all layers of the..."
+  },
+  {
+    "id": "530690",
+    "title": "Imposters! faking endpoints over-the-wire",
+    "speakers": [
+      "Bob Crowley"
+    ],
+    "room": "Nile",
+    "track": "Software Quality",
+    "tags": [
+      "Backend",
+      "Code Quality",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "Faking remote services can be very useful. Maybe you need to build against a service that isn't created yet, mock micro service dependencies, test against an API that only has a production instance or validate a large number of data scenarios that would be difficult to achieve with a \"real\"..."
+  },
+  {
+    "id": "537350",
+    "title": "Clean Architecture with ASP.NET Core 8",
+    "speakers": [
+      "Steve Smith"
+    ],
+    "room": "Orange",
+    "track": "Architecture",
+    "tags": [
+      ".NET",
+      "C#",
+      "Backend",
+      "Object Oriented Programming",
+      "Programming Principles",
+      "Architecture",
+      "System Design",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "Clean Architecture is a very popular approach for DDD and Microservices, and for good reason. It's not a new approach, and went by other names in the past (e.g. Onion, Hexagonal, Ports-and-Adapters). One of the main benefits of the approach is its focus on business logic and its reduction in..."
+  },
+  {
+    "id": "533371",
+    "title": "Building Event Driven User Interfaces",
+    "speakers": [
+      "Sam Ferree"
+    ],
+    "room": "Salon A",
+    "track": "Web/Front-End",
+    "tags": [
+      "Front End",
+      "Object Oriented Programming",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "In the realm of modern software development, creating dynamic and responsive user interfaces is essential to delivering engaging user experiences. Event-driven architectures have emerged as a powerful paradigm to achieve this goal. In this enlightening talk, we will delve into the world of..."
+  },
+  {
+    "id": "536657",
+    "title": "Expect the Unexpected: Handling Exceptions in Enterprise Applications",
+    "speakers": [
+      "Kito Mann"
+    ],
+    "room": "Salon H",
+    "track": "Programming Principles",
+    "tags": [
+      "Java",
+      "Programming Principles",
+      "Architecture",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "One of the most common reasons for software defects is poor exception handling. The more complex the application, the more difficult it can be to track down the root cause of a bug. An exception at the service or database layer may manifest itself as unpredictable behavior at the user interface..."
+  },
+  {
+    "id": "530110",
+    "title": "Understanding CSS Layout: the concepts underlying your (least) favorite language.",
+    "speakers": [
+      "Kilian Valkhof"
+    ],
+    "room": "Salon D",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Front End",
+      "CSS"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "Have you ever felt perplexed by CSS, struggling to understand why the browser put the element where it did, and why it didn’t just follow the clear instructions you wrote? Do you think CSS is hard to work with?\n\nBy getting a better understanding of the concepts that underlie the language, you’ll..."
+  },
+  {
+    "id": "532285",
+    "title": "AI-Enabled Privacy: Leveraging Artificial Intelligence to Protect Personal Data in Models",
+    "speakers": [
+      "Jean Seely"
+    ],
+    "room": "Salon E",
+    "track": "Data",
+    "tags": [
+      "Security",
+      "Project Management",
+      "Machine Learning"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "In this session, we'll explore how AI can identify and safeguard personal data in the modeling process. As advocates for privacy, you're navigating the complex intersection of technology and regulation, and this talk aims to make that journey easier. We'll dive into the legal frameworks that govern..."
+  },
+  {
+    "id": "530240",
+    "title": "Alexa on the Go: Building Location Aware Voice Experiences for Alexa",
+    "speakers": [
+      "Craig Walls"
+    ],
+    "room": "Salon B",
+    "track": "Mobile",
+    "tags": [
+      "Javascript",
+      "Front End",
+      "Mobile"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "When you think of voice assistants like Amazon Alexa, you probably are thinking of a device on a shelf or a desk somewhere, tethered to a power outlet. But what if you could take Alexa with you wherever you go? \n\nSeveral devices allow for mobile Alexa, including Echo Auto, Echo Frames, Echo Buds,..."
+  },
+  {
+    "id": "536770",
+    "title": "Learning, Giving Back, & the Art of Community",
+    "speakers": [
+      "Mike Nelson"
+    ],
+    "room": "Salon G",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Diversity/Equity/Inclusion",
+      "Soft Skills",
+      "Leadership",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "9:45",
+    "endTime": "10:45",
+    "excerpt": "As you journey through your career(s) in IT, it is becoming more critical for you to immerse yourself in the network of worldwide and regional communities that are available in just a few mouse clicks. The drive for continuous learning, combined with the passion for giving back through many..."
+  },
+  {
+    "id": "586391",
+    "title": "A Kid's introduction to 3D Modeling (Friday)",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "KidzMash",
+    "tags": [],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Friday",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "excerpt": "This second session is a follow up where we get to make 3D models! Children must have a responsible adult present. We will work with a fully featured CAD application called Rhino3d and walk through the process of building a basic model from geometric shapes. We will explain the XYZ coordinate..."
+  },
+  {
+    "id": "536897",
+    "title": "Talking to the Astronauts: Amateur HAM Radio",
+    "speakers": [
+      "Laci Graham"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Hardware",
+      "System Design",
+      "Observability"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Friday",
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "excerpt": "This interactive talk is open to anyone who is interested but suggested for older kids. In this talk we’ll learn about how radios work, how to get your amateur radio license, and we’ll talk to the astronauts in the International Space Station."
+  },
+  {
+    "id": "536138",
+    "title": "Networking for Introverts: Build, Maintain, and Use Networks Without Being Creepy",
+    "speakers": [
+      "Brian MacDonald"
+    ],
+    "room": "Cypress",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Diversity/Equity/Inclusion",
+      "Soft Skills"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "You've heard that having a professional network is important for career growth, for learning about your industry, and to help out in the event of a layoff. But how do you go about building one from scratch? Taking a transactional, goal-oriented approach may be good engineering design, but it tends..."
+  },
+  {
+    "id": "531144",
+    "title": "The Right Database for the Right Job",
+    "speakers": [
+      "Nuri Halperin"
+    ],
+    "room": "Indigo Bay",
+    "track": "Data",
+    "tags": [
+      "Databases",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "Picking a database for your particular purpose is hard, and vendors don't make it easier. So which database is right for which workload?\n\nThis session breaks down the decision factors into characteristics that let you decide and reason with them on even ground.\n\nWe will examine the underlying..."
+  },
+  {
+    "id": "530263",
+    "title": "Practical Auth(entication|orization) for Developers",
+    "speakers": [
+      "Seth Petry-Johnson"
+    ],
+    "room": "Nile",
+    "track": "Security",
+    "tags": [
+      "Programming Principles",
+      "Security"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "It's never been easier to launch a website or expose services over HTTP. It's also never been easier to make rookie mistakes in the authentication of those services.\n\nThis session is designed for the average developer/architect that's struggling to make sense of modern authentication options. You'll..."
+  },
+  {
+    "id": "537169",
+    "title": "Beyond Request/Response: Why and how we should change the way we build web applications",
+    "speakers": [
+      "Chris Nelson"
+    ],
+    "room": "Orange",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Front End",
+      "Functional Programming"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "As web developers, we’ve been building web applications the same way for 25 years. We send a request, and we receive a response. We might get a whole page back, or we might get some data to render, but the common thread for almost every web application that has ever been built is the..."
+  },
+  {
+    "id": "531559",
+    "title": "Async Masterclass",
+    "speakers": [
+      "Stephen Cleary"
+    ],
+    "room": "Salon A",
+    "track": "Programming Principles",
+    "tags": [
+      ".NET",
+      "C#",
+      "Programming Principles"
+    ],
+    "format": "General Session",
+    "level": "Advanced",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "You've mastered async and await, but you find you need more powerful tools. This is how to build them.\n\nTired of reading articles about async that just don't go deep enough? Here you go. This is the async masterclass. There are no breakfast food analogies here. Except bacon, because bacon is..."
+  },
+  {
+    "id": "531473",
+    "title": "Developing kids in tech - a retrospective",
+    "speakers": [
+      "Bill Sempf"
+    ],
+    "room": "Salon H",
+    "track": "Career Development",
+    "tags": [
+      "Python",
+      "Security",
+      "Leadership"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "Your humble speaker has spent the last eighteen years devising, researching, and implementing ways to get kids into tech.  Between Scouting, advising friends, KidzMash, and my own Thing 1 and Thing 2, I have accumulated a rather dramatic list of ideas that do and do not work.  Programming, social..."
+  },
+  {
+    "id": "532538",
+    "title": "CQRS with Event Sourcing using the “Critter Stack”",
+    "speakers": [
+      "Jeremy Miller"
+    ],
+    "room": "Salon D",
+    "track": "Architecture",
+    "tags": [
+      ".NET",
+      "Databases",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "Do you have a system where you think would be a good fit for a CQRS architecture that also uses Event Sourcing for at least part of its persistence strategy? Are you intimidated by the potential complexity of that kind of approach? \n\nFear not, using a combination of the Postgresql-backed Marten..."
+  },
+  {
+    "id": "536738",
+    "title": "Failing Forward",
+    "speakers": [
+      "Jeremy Jarrell"
+    ],
+    "room": "Salon E",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Agile",
+      "Project Management",
+      "UI/UX"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "The first iteration of a product never succeeds. Nor does the second, the tenth, or even the 20th. Instead, most of the successful products we know and love today were abject failures at the start…but then evolved to get better.\n\nChances are your own product might be heading toward failure right..."
+  },
+  {
+    "id": "533412",
+    "title": "Watch this! Building a Health app for Wear OS",
+    "speakers": [
+      "Sierra OBryan"
+    ],
+    "room": "Salon B",
+    "track": "Mobile",
+    "tags": [
+      "Hardware",
+      "Mobile"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "One of the most popular answers for a favorite smart watch feature is to monitor your health. From steps to heart rate to exercise to sleep, smart watches do it all and with Jetpack Compose and Health Services, we can build our own app for Wear OS!\n\nDuring this talk, we’ll explore building for..."
+  },
+  {
+    "id": "532574",
+    "title": "Revolutionizing Business Processes with Power Automate RPA",
+    "speakers": [
+      "Barret Blake"
+    ],
+    "room": "Salon G",
+    "track": "DevOps",
+    "tags": [
+      "DevOps",
+      "Automation"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "excerpt": "We all have to deal with them, those legacy desktop applications that are too important to get rid of, but not important enough to replace, the kind of application where someone has to open it up and click a few buttons a couple times a day. \n\nRobotic Process Automation (RPA) is transforming the way..."
+  },
+  {
+    "id": "532681",
+    "title": "Technical Debt Is Not Free",
+    "speakers": [
+      "Chad Green"
+    ],
+    "room": "Cypress",
+    "track": "Programming Principles",
+    "tags": [
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "So many software development teams rack up technical debt and do not even realize it.  But even if you are a more mature team and recognize and maybe even document technical debt, what good is it if you do not take action.  Just like in other parts of our life, just because we can accumulate bunches..."
+  },
+  {
+    "id": "530180",
+    "title": "Multithreaded Income: How Developers Can Achieve Parallel Success",
+    "speakers": [
+      "Kevin Griffin"
+    ],
+    "room": "Indigo Bay",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Soft Skills"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "In an unpredictable tech industry, job security is fragile. How can developers harness their unique skills to create a diversified, resilient professional life? This talk presents the concept of \"Multithreaded Income,\" a strategic approach to building parallel income streams inspired by the..."
+  },
+  {
+    "id": "530081",
+    "title": "Fresh Hot CSS Features!",
+    "speakers": [
+      "Alex Riviere"
+    ],
+    "room": "Nile",
+    "track": "Design (UI/UX/CSS/a11y)",
+    "tags": [
+      "Front End",
+      "CSS",
+      "UI/UX"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "Do you use a CSS Framework like bootstrap? Or maybe you've been coasting for a few years on your current knowledge of CSS. You've maybe seen something called CSS Grid and wondered what it was... Maybe you have never seen `var()` used before.\n\nLet's discuss the latest newest hottest big features in..."
+  },
+  {
+    "id": "534516",
+    "title": "All your secrets are belong to us",
+    "speakers": [
+      "Callum Whyte"
+    ],
+    "room": "Orange",
+    "track": "Security",
+    "tags": [
+      ".NET",
+      "Security",
+      "DevOps"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "Admit it: we've all checked in an API key or password to a repo at some point... Oops... No one wants their secrets to accidentally leak, so this session is your essential refresher on secret management (and mismanagement!) for your applications and beyond!\n\nLet's explore the range of methods and..."
+  },
+  {
+    "id": "535306",
+    "title": ".NET on AWS: Wait, you can do that?",
+    "speakers": [
+      "Brad Knowles"
+    ],
+    "room": "Salon A",
+    "track": "Architecture",
+    "tags": [
+      ".NET",
+      "C#",
+      "Cloud"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": ".NET on AWS: Wait, you can do that?\n\nThat's right, .NET is a first-class citizen on AWS, meaning you can run any .NET workload in your organization. Are you currently using AWS and need help understanding the .NET landscape?  Are you comparing cloud providers and looking to understand what AWS can..."
+  },
+  {
+    "id": "536733",
+    "title": "Dream Teams:  Hiring (and Keeping) the Right People",
+    "speakers": [
+      "Michelle Smith"
+    ],
+    "room": "Salon H",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Leadership",
+      "Teams"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "Everyone says that “your people are your most important asset.” But how do you find the RIGHT people?  And once you have them, how do you keep them?  In this entertaining session, we’ll turn the traditional hiring process on its head and share a new perspective on how to identify the right..."
+  },
+  {
+    "id": "537176",
+    "title": "Delivery & Execution Across Multiple Teams with Azure Dev Ops",
+    "speakers": [
+      "Krista Campbell"
+    ],
+    "room": "Salon D",
+    "track": "DevOps",
+    "tags": [
+      "CI/CD",
+      "Agile",
+      "Project Management"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "Azure Dev Ops started as a tool specifically for software development teams.  It’s only been a few years since it was rebranded from Team Foundation Services/Server to Azure Dev Ops.  It has always been a great tool for autonomous development teams to deliver great software but fallen flat in..."
+  },
+  {
+    "id": "537458",
+    "title": "Best of Both Worlds: Apache Pulsar and Apache Kafka",
+    "speakers": [
+      "Mary Grygleski"
+    ],
+    "room": "Salon B",
+    "track": "Architecture",
+    "tags": [
+      "Java",
+      "Backend",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "Which streaming technology is right for me? Do I need to use Apache Pulsar or do I choose  Apache Kafka?\n\nThat is mostly the question, but did you also knew that you can combine them? \n\nIn this session we will show how to use best of both worlds. Let's compare both architectures and Java Client..."
+  },
+  {
+    "id": "530054",
+    "title": "From Zero to Hero: Building and Shipping Your First JavaScript Library",
+    "speakers": [
+      "Mike Hartington"
+    ],
+    "room": "Salon G",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "12:15",
+    "endTime": "13:15",
+    "excerpt": "If you're a developer, chances you've used a third-party library for various parts of your projects. Third-party libraries offer so much functionality that they are essential to most teams success. So, how do you make your own library? How do you go from your teams \"utils\" folder, to a package on..."
+  },
+  {
+    "id": "586662",
+    "title": "Getting started in basic electronics, part 1 (Friday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "586627",
+    "title": "3D printing/CAD open lab and hangout",
+    "speakers": [
+      "Brian Carnes"
+    ],
+    "room": "Crown Palm",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "excerpt": "Come hang out during open lab hours!"
+  },
+  {
+    "id": "537155",
+    "title": "Earthquake Challenge",
+    "speakers": [
+      "Andrew Potozniak"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Architecture"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Friday",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "excerpt": "What does it take to build a structure that can withstand a simulated earthquake with common house-hold items?  During this session, kids will use their creativity and problem-solving skills to build structures to see how severe of an earthquake they can withstand on a shake-table.  Kids will..."
+  },
+  {
+    "id": "535609",
+    "title": "It's time to walk the dog...at Kidzmash...with a yo-yo",
+    "speakers": [
+      "Connor Glenn"
+    ],
+    "room": "Portia / Wisteria",
+    "track": "KidzMash",
+    "tags": [
+      ".NET"
+    ],
+    "format": "KidzMash Divez",
+    "level": "",
+    "day": "Friday",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "excerpt": "Yo-yos may be over 2000 years old but these tricks are trending.  Kidz will become hands on experts on how to preform basic yo-yo tricks (including walk the dog) then learn modern and complex maneuvers using their own yo-yo."
+  },
+  {
+    "id": "586658",
+    "title": "Getting started in basic electronics, part 2 (Friday)",
+    "speakers": [
+      "Rob Ballenger"
+    ],
+    "room": "Ironwood",
+    "track": "Makerspace",
+    "tags": [],
+    "format": "Makerspace",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but..."
+  },
+  {
+    "id": "536094",
+    "title": "Prepare for the Eclipse!",
+    "speakers": [
+      "Steven Swenson"
+    ],
+    "room": "Guava / Tamarind",
+    "track": "KidzMash",
+    "tags": [
+      "Hardware"
+    ],
+    "format": "KidzMash Sessionz",
+    "level": "",
+    "day": "Friday",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "excerpt": "Attention budding astronomers!!\nIn April there will be a total solar eclipse in the Eastern United States!!!  This is a big deal, so let's get together and talk about what an eclipse is, when it will happen, and how to safely view it. AND we will also be building solar eclipse viewers from cardboard..."
+  },
+  {
+    "id": "530067",
+    "title": "Rebuild your APIs Better, Strong, Faster with Minimal APIs",
+    "speakers": [
+      "Jonathan \"J.\" Tower"
+    ],
+    "room": "Cypress",
+    "track": "Programming Principles",
+    "tags": [
+      ".NET",
+      "C#",
+      "Backend"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "If you currently have a controller-based API built in ASP.NET or ASP.NET Core, you might be eager to embark on the journey of transitioning it to a Minimal API approach, but not know the best process to make it happen. If so, this talk is tailor-made for you. \n\nWe will delve into the advantages of..."
+  },
+  {
+    "id": "537368",
+    "title": "Harnessing the Power of Asynchronous Messaging and Eventing for Distributed Systems at Scale",
+    "speakers": [
+      "Eric Boyd"
+    ],
+    "room": "Indigo Bay",
+    "track": "Architecture",
+    "tags": [
+      "Architecture",
+      "System Design",
+      "Performance"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "Distributed applications, microservices solutions and systems at scale depend on In today's era of distributed applications, microservices, and systems at scale, the key to achieving agility, resilience, and scalability lies in mastering the art of asynchronous messaging and eventing. \n\nIn this..."
+  },
+  {
+    "id": "536424",
+    "title": "The Five Code Reviewers You Meet At Work",
+    "speakers": [
+      "Aaron Salvo"
+    ],
+    "room": "Nile",
+    "track": "Software Quality",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "When you review code at work do you simply trust your peers have written bug-free code? Does a co-worker infuriate you when they block your pull request over indention? Are you a freshman engineer who worries they'll get an atomic wedgie by the coffee maker if you point out a syntax error in a..."
+  },
+  {
+    "id": "534992",
+    "title": "Morality and AI: How do I use this power responsibly?",
+    "speakers": [
+      "Cameron Vetter"
+    ],
+    "room": "Orange",
+    "track": "Data",
+    "tags": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "As artificial intelligence (AI) continues to advance, it becomes increasingly important to address the ethical implications and moral considerations surrounding its use. In this talk, we will explore the intersection of morality and AI, focusing on how individuals and organizations can wield this..."
+  },
+  {
+    "id": "534207",
+    "title": "The Micro-Frontend Playbook",
+    "speakers": [
+      "Marko Skugor"
+    ],
+    "room": "Salon A",
+    "track": "Web/Front-End",
+    "tags": [
+      "Javascript",
+      "Front End",
+      "Cloud",
+      "Architecture"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "Micro-frontend architecture can provide a lot of great benefits to team autonomy and can play a crucial role in enabling technical and organizational scalability. At the same time, it also comes with a lot of potential pitfalls and anti-patterns to avoid. In this talk we'll learn how to apply Domain..."
+  },
+  {
+    "id": "535542",
+    "title": "The Developer Relations Playbook: How to build bridges by putting people first",
+    "speakers": [
+      "Dan Vega"
+    ],
+    "room": "Salon H",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Soft Skills",
+      "Remote Work"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "Are you passionate about technology and love engaging with communities? Ever wondered how you could turn these interests into a fulfilling career? Look no further! \"The Developer Relations Playbook: How to Build Bridges by Putting People First\" is your comprehensive guide to becoming a Developer..."
+  },
+  {
+    "id": "531984",
+    "title": "Controlling data overhead from the OpenTelmetry Collector",
+    "speakers": [
+      "Nočnica Mellifera"
+    ],
+    "room": "Salon D",
+    "track": "DevOps",
+    "tags": [
+      "DevOps",
+      "Performance",
+      "Observability"
+    ],
+    "format": "General Session",
+    "level": "Advanced",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "The OpenTelemetry Collector is becoming the de facto standard for moving observability data within your architecture and to a data store. But in its default configuration it can overuse data and network resources. In this talk I'll cover the configuration control you have over your collector, and..."
+  },
+  {
+    "id": "537077",
+    "title": "Hands-On Few-Shot and Prompt-Based Learning",
+    "speakers": [
+      "Brayan Kai Mwanyumba"
+    ],
+    "room": "Salon E",
+    "track": "Data",
+    "tags": [
+      "Cloud",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "format": "General Session",
+    "level": "Advanced",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "Machine learning has been highly successful in data-intensive applications but is often hampered when the dataset is small. Few-shot learning (FSL) was proposed to tackle this problem. FSL enables making predictions using a limited number of examples with supervised information—that is, with few..."
+  },
+  {
+    "id": "535254",
+    "title": "Building Better Teams Through Play",
+    "speakers": [
+      "Jenny Bramble"
+    ],
+    "room": "Salon B",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Leadership"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "Teams work incredibly hard to drive software and processes forward. Sometimes we neglect the emotional side of our hard work, leaving teams brittle and less able to adapt and bend. How do we release tension and form the strong bonds that a good team needs to be successful as well as honing some of..."
+  },
+  {
+    "id": "536453",
+    "title": "Unlocking Inclusive Potential: Screen Reader Integration for Hybrid Mobile Apps",
+    "speakers": [
+      "Chris DeMars"
+    ],
+    "room": "Salon G",
+    "track": "Mobile",
+    "tags": [
+      "Javascript",
+      "Mobile",
+      "Accessibility"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "14:45",
+    "endTime": "15:45",
+    "excerpt": "Join us as we uncover the untapped potential of screen reader integration in hybrid mobile apps. This talk will delve into the technical aspects of integrating screen reader functionality, discussing the challenges and opportunities that arise during development. Discover effective techniques for..."
+  },
+  {
+    "id": "533990",
+    "title": "Visual Storytelling: How to be a Superhuman Communicator",
+    "speakers": [
+      "David Neal"
+    ],
+    "room": "Cypress",
+    "track": "Career Development",
+    "tags": [
+      "Career Development",
+      "Soft Skills"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "Who says communication has to be dry, dull, and boring? Simple, hand-drawn illustrations are a compelling and fun way to engage, inform, and win your audience of readers and viewers!\n\nDrawing is a skill that anyone can learn. There's no such thing as \"bad\" art! You can make a huge impact with some..."
+  },
+  {
+    "id": "533342",
+    "title": "From Theory to Practice: Building Reliable Event-Driven Services",
+    "speakers": [
+      "Hugh McKee"
+    ],
+    "room": "Indigo Bay",
+    "track": "Architecture",
+    "tags": [
+      "Java",
+      "Backend",
+      "Programming Principles",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "This talk will delve into the key concepts and strategies for creating effective and efficient event-driven services. We will cover the following topics:\n\nHandling at-least-once message delivery: This section will discuss the importance of ensuring that messages are delivered at least once, even in..."
+  },
+  {
+    "id": "536084",
+    "title": "You Are the Pilot: Getting Better with Code Gen AI Tools",
+    "speakers": [
+      "Sean Wedig"
+    ],
+    "room": "Nile",
+    "track": "Programming Principles",
+    "tags": [
+      "Velocity",
+      "Machine Learning",
+      "Code Quality"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "You might have asked yourself - \"Self, what's all this hubub about AI tools for programmers?  Am I going to lose my job?\" and you might have answered, \"I don't know, self.  I haven't even really played with any AI code generation tools.  There are so many tools, I wouldn't even know where to..."
+  },
+  {
+    "id": "536030",
+    "title": "Agile Pitfalls and How to Parry Them: A Practical Guide",
+    "speakers": [
+      "Arin Heinselman"
+    ],
+    "room": "Orange",
+    "track": "Teams & Collaboration",
+    "tags": [
+      "Soft Skills",
+      "Leadership",
+      "Agile"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "Hey there, fellow conference-goers! 🎉 Imagine this: you've embarked on the Agile journey, armed with good intentions and high spirits, only to find yourself tangled in a web of chaos and confusion. Fear not, because our talk is here to save the day! 🦸‍♂️\n\t\t\t\nJoin us for a rollercoaster..."
+  },
+  {
+    "id": "535818",
+    "title": "MSBuild Unleashed: Breaking Free From Complex CI Pipelines",
+    "speakers": [
+      "Dan Siegel"
+    ],
+    "room": "Salon A",
+    "track": "DevOps",
+    "tags": [
+      ".NET",
+      "Programming Principles",
+      "CI/CD"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "In today's rapidly evolving software landscape, Continuous Integration (CI) and Continuous Deployment (CD) are the linchpins of a streamlined and efficient development process. However, with myriad build platforms, technologies, and tooling, we often find ourselves entangled in complex build..."
+  },
+  {
+    "id": "530629",
+    "title": "What's that smell? Monitoring air quality with Python, Raspberry Pi, and Redis",
+    "speakers": [
+      "Justin Castilla"
+    ],
+    "room": "Salon H",
+    "track": "Hardware/IoT",
+    "tags": [
+      "Python",
+      "IoT",
+      "Cloud",
+      "Data Science",
+      "Databases"
+    ],
+    "format": "General Session",
+    "level": "Intermediate",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "With a little wiring and a few lines of code, one can create your own hyper-local air sensor system to send alerts, activate smart-windows, and gather data. A sensor measures air particulate density and sends the values to a Raspberry Pi compute unit. The Raspberry Pi then sends the data along with..."
+  },
+  {
+    "id": "537237",
+    "title": "Agile and Sustainable: A Pragmatic Approach to Sustainable Tech",
+    "speakers": [
+      "Matt \"Kelly\" Williams"
+    ],
+    "room": "Salon D",
+    "track": "Programming Principles",
+    "tags": [
+      "Programming Principles",
+      "Agile",
+      "System Design"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "In this talk, we're going to explore why sustainability matters to IT, and why you should care about it too.\n\nWe'll dive into what sustainability is and how it impacts the world of IT. We'll also take a look at the proposed SEC regulations that could change the way companies view sustainability in..."
+  },
+  {
+    "id": "537273",
+    "title": "Testing Enterprise Software Rewrites",
+    "speakers": [
+      "Umang Nahata"
+    ],
+    "room": "Salon E",
+    "track": "Software Quality",
+    "tags": [
+      "Backend",
+      "Code Quality",
+      "QA Testing"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "Most enterprises have legacy code that needs to be rewritten to keep pace with industry standards, new technologies, and modern infrastructures. The primary purpose of a software rewrite is to ensure functional compatibility before retiring the current system. However, replacing large, complex,..."
+  },
+  {
+    "id": "535340",
+    "title": "Unveil the Magic Without Hoodini: Transform Your Data Lake into a Fountain of Insights",
+    "speakers": [
+      "Nadine Farah"
+    ],
+    "room": "Salon B",
+    "track": "Data",
+    "tags": [
+      "Databases",
+      "Architecture",
+      "System Design",
+      "Performance"
+    ],
+    "format": "General Session",
+    "level": "Introductory and overview",
+    "day": "Friday",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "excerpt": "Many people have been using their data lake as vast reservoirs of data. Yet, there’s been a real struggle to harness the full potential of this data to power actionable insights. These data lakes often become stagnant because processing and analyzing them is hard. Hudi’s magic, however, brings a..."
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "537368",
+  "title": "Harnessing the Power of Asynchronous Messaging and Eventing for Distributed Systems at Scale",
+  "speakers": [
+    {
+      "id": "04b2f4cb-4318-4aea-90c9-a215e6116179",
+      "name": "Eric Boyd",
+      "photo": "https://sessionize.com/image/6cd1-400o400o1-9NypoPEhpPtDE1FUEZY7Qw.jpg",
+      "bio": "Eric D. Boyd is the Founder and CEO of responsiveX, a Microsoft Azure MVP, a Microsoft Regional Director, a regular conference speaker, and the co-author of Step-by-Step Azure SQL Database from Microsoft Press. He is so passionate about cloud, mobile and modern applications, that he founded responsiveX (www.responsiveX.com), a technology company that helps customers deliver great web, mobile and enterprise apps using the cloud and Azure. Eric launched his technology career almost two decades ago with a web development startup and has served in multiple roles since including developer, consultant, technology executive and business owner. You can find Eric blogging at http://www.EricDBoyd.com and on Twitter at http://twitter.com/EricDBoyd.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://www.twitter.com/EricDBoyd"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/EricDBoyd"
+        },
+        {
+          "title": "Blog",
+          "url": "http://www.EricDBoyd.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.responsivex.com"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Architecture",
+  "tags": [
+    "Architecture",
+    "System Design",
+    "Performance"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "14:45",
+  "endTime": "15:45",
+  "excerpt": "Distributed applications, microservices solutions and systems at scale depend on In today's era of distributed applications, microservices, and systems at scale, the key to achieving agility, resilience, and scalability lies in mastering the art of asynchronous messaging and eventing. \n\nIn this...",
+  "description": "Distributed applications, microservices solutions and systems at scale depend on In today's era of distributed applications, microservices, and systems at scale, the key to achieving agility, resilience, and scalability lies in mastering the art of asynchronous messaging and eventing.\n\nIn this session I will delve deep into the world of asynchronous messaging and event-driven architectures. We will explore messaging design patterns such as competing consumers, pub/sub, event sourcing, command query responsibility segregation (CQRS), and more. You will gain an understanding of how these patterns can improve your system design and development. We will explore the benefits of decoupled, event-driven systems and how they contribute to fault tolerance, scalability, and adaptability in complex ecosystems.\n\nI will demonstrate implementing the messaging and eventing patterns showing you how to put these concepts into practice using platforms like Azure Service Bus, Event Hubs, and Event Grid. You'll learn hands-on techniques for building robust, event-driven solutions that can handle the demands of modern, distributed applications.\n\nLastly, I will guide you through real-world use cases and practical insights, equipping you with the knowledge and tools to harness asynchronous messaging.\n\nWhether you are an experienced developer looking to expand your skill set or an architect seeking to optimize your system's design, this session promises valuable insights and practical takeaways to help you create resilient, scalable, and responsive systems. messaging and eventing to achieve their goals."
+}

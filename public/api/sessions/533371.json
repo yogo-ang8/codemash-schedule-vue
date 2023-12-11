@@ -1,0 +1,32 @@
+{
+  "id": "533371",
+  "title": "Building Event Driven User Interfaces",
+  "speakers": [
+    {
+      "id": "3a98ccf2-e299-484d-9bbc-d6b6dd13ebb8",
+      "name": "Sam Ferree",
+      "photo": "https://sessionize.com/image/7f9e-400o400o1-20340481-0897-4912-b3a7-6b0df1e89a94.jpg",
+      "bio": "Sam Ferree is an engineer that has learned a lot of lessons about building web applications, too many of them the hard way. He enjoys finding new ways to deliver value with event driven applications built with Blazor and the wider .NET ecosystem. When not working he enjoys spending time with his family, travelling, and finding new ways to deliver value with event driven applications built with Blazor and the wider .NET ecosystem.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/sam_ferree"
+        }
+      ]
+    }
+  ],
+  "room": "Salon A",
+  "track": "Web/Front-End",
+  "tags": [
+    "Front End",
+    "Object Oriented Programming",
+    "System Design"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "9:45",
+  "endTime": "10:45",
+  "excerpt": "In the realm of modern software development, creating dynamic and responsive user interfaces is essential to delivering engaging user experiences. Event-driven architectures have emerged as a powerful paradigm to achieve this goal. In this enlightening talk, we will delve into the world of...",
+  "description": "In the realm of modern software development, creating dynamic and responsive user interfaces is essential to delivering engaging user experiences. Event-driven architectures have emerged as a powerful paradigm to achieve this goal. In this enlightening talk, we will delve into the world of event-driven user interfaces, exploring how this approach revolutionizes the way we build interactive software.\n\nBy leveraging event-driven paradigms, developers can create highly modular and loosely coupled systems that are more resilient to change. We will explore event-driven design patterns, such as event sourcing, pub-sub, and reactive programming, that enable seamless communication and collaboration between different components of an application.\n\nExamples will be in C# using a Blazor Web Application, but the concepts are fundamental and transferrable to many front-end frameworks and languages."
+}

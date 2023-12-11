@@ -1,0 +1,20 @@
+{
+  "id": "11ab0997-77ab-4f0b-bbd7-a803c5f636fa",
+  "name": "Shivay Lamba",
+  "photo": "https://sessionize.com/image/6cff-400o400o1-SLEpnRDisd73aeG7eH8ukd.jpg",
+  "bio": "Shivay Lamba is a software developer specializing in DevOps, Machine Learning and Full Stack Development. \n \n He is an Open Source Enthusiast and has been part of various programs like Google Code In and Google Summer of Code as a Mentor and is currently a MLH Fellow. He has also worked at organizations like Amazon, EY, Genpact. He is a Tensorflow.JS SIG member and community lead from India.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/howdevelop"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/shivaylamba"
+    },
+    {
+      "title": "Blog",
+      "url": "https://shivaylamba.me/"
+    }
+  ]
+}

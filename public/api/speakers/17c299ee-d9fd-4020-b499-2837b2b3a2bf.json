@@ -1,0 +1,24 @@
+{
+  "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
+  "name": "Matt Eland",
+  "photo": "https://sessionize.com/image/2af0-400o400o1-MX2vxaEVrGpQGHyA3VRMRr.png",
+  "bio": "Matt Eland is a software engineering leader and data scientist who has served as a senior engineer, software engineering manager, professional programming instructor, and has helped build enterprise-level software at a variety of organizations before distinguishing himself as a Microsoft MVP in Artificial Intelligence by using technology to accomplish ridiculous things in the name of science and teaching others.\n \n Matt makes it his job to learn new things and share them with others through articles, videos, and talks at user groups and conferences covering a wide range of topics from software architecture to programming topics to artificial intelligence and data science. \n \n Matt is a current data analytics master's student, an AI Specialist at Leading EDJE, wrote \"Refactoring with C#\" and occasionally sleeps as well.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/IntegerMan"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matteland/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://AccessibleAI.dev"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://TechElevator.com"
+    }
+  ]
+}

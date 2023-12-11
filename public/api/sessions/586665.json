@@ -1,0 +1,23 @@
+{
+  "id": "586665",
+  "title": "Getting started in basic electronics, part 1 (Tuesday)",
+  "speakers": [
+    {
+      "id": "e2d70fce-9198-434b-b01d-609a7857da95",
+      "name": "Rob Ballenger",
+      "photo": "//www.codemash.org/wp-content/uploads/2018/10/codemash-logo-256x300.png",
+      "bio": "",
+      "links": []
+    }
+  ],
+  "room": "Ironwood",
+  "track": "Makerspace",
+  "tags": [],
+  "format": "Makerspace",
+  "level": "Introductory and overview",
+  "day": "Tuesday",
+  "startTime": "13:00",
+  "endTime": "14:00",
+  "excerpt": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but...",
+  "description": "Please note that this is designed in such a way that you can join/drop at any time and attend the guided session or use the makerspace during open lab time. The idea behind this is to have this be a standalone class, but also a fallback for \"the rule of feet\".\n\nWant to get started in electronics but don’t know where to get started? You’ll be shocked how easy it is! Get hands on experience building a few simple circuits and start yer Maker’in!\n\nKids 10+ welcome with adult supervision. The advanced section will cover using Arduino microcontrollers so install Pre-requisites on your laptop for the last section.\n\nPre-requisites: Arduino IDE (https://www.arduino.cc/en/software)\n\nAdditional notes\nKit required. Please see eventbrite (https://www.eventbrite.com/e/codemash-2023-tickets-396878312717) for tickets. Limited \"free\" kits are available but free kits must be returned before leaving the Makerspace.\n\nSlidedeck: https://tinyurl.com/3xmw9jmh"
+}

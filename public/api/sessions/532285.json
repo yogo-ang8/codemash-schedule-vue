@@ -1,0 +1,40 @@
+{
+  "id": "532285",
+  "title": "AI-Enabled Privacy: Leveraging Artificial Intelligence to Protect Personal Data in Models",
+  "speakers": [
+    {
+      "id": "070b260a-c65f-44fc-9a2b-c2998280b994",
+      "name": "Jean Seely",
+      "photo": "https://sessionize.com/image/fb89-400o400o1-LRkFCGjkFy15LpAYnCdyqo.jpg",
+      "bio": "Jean is a seasoned professional with over three decades of experience in project management, software development, compliance, and privacy. With a Bachelor of Science in Applied Mathematics and a Masters in Project Management from the University of Wisconsin, she has earned multiple certifications, including PMP, CSM, and CIPM.\n \n Starting her career as a Software Engineer, Jean progressed through various roles at Insight Industries, Catalyst International, Woodmark Technologies, MedAssets, and TekSystems. she later served as a Compliance Manager at Expedia, focusing on remediation projects and cloud control guidelines.\n \n Joining Microsoft in 2017, Jean held several Senior Program Manager positions, playing key roles in privacy initiatives, SOX compliance, risk management, and business continuity automation. She led teams across multiple continents, increased operational efficiency, and mentored team members.\n \n Currently, as the CEO of Seely, Inc., Jean leads project management consulting services throughout North America. She is also an active community volunteer, serving as the VP of Events at PMI La Crosse - Rochester Chapter.\n \n With skills in Project Management, Power BI, Azure, and various programming languages, Jean's career reflects a blend of technical prowess, leadership acumen, and ethical practices, making her a respected figure in the technology and management landscape.\n",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeanseely/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://seelyinc.com/blog/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://seelyinc.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Data",
+  "tags": [
+    "Security",
+    "Project Management",
+    "Machine Learning"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "9:45",
+  "endTime": "10:45",
+  "excerpt": "In this session, we'll explore how AI can identify and safeguard personal data in the modeling process. As advocates for privacy, you're navigating the complex intersection of technology and regulation, and this talk aims to make that journey easier. We'll dive into the legal frameworks that govern...",
+  "description": "In this session, we'll explore how AI can identify and safeguard personal data in the modeling process. As advocates for privacy, you're navigating the complex intersection of technology and regulation, and this talk aims to make that journey easier. We'll dive into the legal frameworks that govern personal data, demonstrate how AI can flag such data, and discuss practical techniques for curating and fine-tuning models while maintaining privacy. You'll gain insights from real-world cases and learn how to create collaborative strategies among lawyers, engineers, and managers. Whether you're a legal counsel, data engineer, or program manager, this session will equip you with the tools and understanding to champion privacy in the AI-driven world."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b0285dfa-db64-4536-86ba-8961c007f4bb",
+  "name": "Jonathan Arnett",
+  "photo": "https://sessionize.com/image/fd8d-400o400o1-MDneB8uy4XauuHMhndx4zD.jpg",
+  "bio": "Jonathan is a software engineer who has dabbled in embedded systems and desktop applications, but has spent the vast majority of his career working with web technologies.  His interests are centered around developer productivity and happiness, specifically programming languages, tools, and ecosystems.",
+  "links": [
+    {
+      "title": "Blog",
+      "url": "https://j3rn.com"
+    }
+  ]
+}

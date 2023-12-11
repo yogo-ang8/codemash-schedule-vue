@@ -1,0 +1,43 @@
+{
+  "id": "531317",
+  "title": "Custom ChatGPT for your real-time data",
+  "speakers": [
+    {
+      "name": "Bobur Umurzokov",
+      "photo": "https://sessionize.com/image/6d9f-400o400o1-Dr3ykRdU1dM26J4L2BvAHo.jpg",
+      "bio": "𝐖𝐡𝐨 𝐈 𝐚𝐦\n \n Bobur is a developer advocate and speaker specializing in software engineering and leading developer audiences. With over 10- years of experience in IT, he blogs about open-source technologies and the community around them.\n \n 𝐖𝐡𝐚𝐭 𝐈 𝐝𝐨\n \n Bobur works with companies at different scales to build awareness, drive adoption, and engage with the community for developer-targeted products. He also creates inspiring content, design, and code use cases, projects, and demo apps to boost learning products.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/BoburUmurzokov"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/bobur-u-147400106/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://iambobur.com/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://api7.ai/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon D",
+  "track": "Data",
+  "tags": [
+    "Python",
+    "Backend",
+    "Data Science"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "15:30",
+  "endTime": "16:30",
+  "excerpt": "In our modern world where speedy access to the right information matters, going through enormous amounts of records such as legal papers, academic studies, news, and technical guides can be automated using AI. However, an AI chatbot like ChatGPT can not answer questions about unfamiliar topics after...",
+  "description": "In our modern world where speedy access to the right information matters, going through enormous amounts of records such as legal papers, academic studies, news, and technical guides can be automated using AI. However, an AI chatbot like ChatGPT can not answer questions about unfamiliar topics after 2021, recent events, or non-public documents. This task gets even more complicated when you deal with data that constantly changes. What should you do?\n\nThis presentation showcases a solution to these hurdles. You will learn how to build your AI app and how language models such as those provided by OpenAI ChatGPT and Pathway Python libraries can query real-time data intelligently without vector databases. This method opens up the potential to build solid systems for retrieving information, recommending content, or even making chatbots that answer user questions based on ever-changing streaming data.\n"
+}

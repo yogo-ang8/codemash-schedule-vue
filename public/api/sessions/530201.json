@@ -1,0 +1,48 @@
+{
+  "id": "530201",
+  "title": "Tactics for Building Background Services in .NET",
+  "speakers": [
+    {
+      "id": "37313769-11ae-4245-93b3-e6e60d5d187c",
+      "name": "Kevin Griffin",
+      "photo": "https://sessionize.com/image/8f96-400o400o1-69-11ae-4245-93b3-e6e60d5d187c.8d6d9927-2dd8-4e29-82b7-eaf585033c6a.jpg",
+      "bio": "Kevin Griffin is an author, teacher, mentor, and consultant focusing on software development.  He is also a 14-time Microsoft MVP, specializing in ASP.NET and web development.  As the owner of Swift Kick, a software training and services company, Kevin specializes in helping businesses push their technology stacks into the 21st century.   Kevin is often speaking at conferences and user groups nationwide or blogging at https://consultwithgriff.com.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/1kevgriff"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/1kevgriff"
+        },
+        {
+          "title": "Blog",
+          "url": "https://consultwithgriff.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://consultwithgriff.com"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Architecture",
+  "tags": [
+    ".NET",
+    "C#",
+    "Backend",
+    "Programming Principles",
+    "Cloud",
+    "Architecture",
+    "System Design"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "10:30",
+  "endTime": "11:30",
+  "excerpt": "Mature applications often find themselves in the predicament of having to do work \"behind the scenes.\" Frequently this could be simple tasks such as sending emails or updating statistics.  Or it could be something more complicated, like processing incoming files or building reports.  These tasks...",
+  "description": "Mature applications often find themselves in the predicament of having to do work \"behind the scenes.\" Frequently this could be simple tasks such as sending emails or updating statistics.  Or it could be something more complicated, like processing incoming files or building reports.  These tasks should not impede the user experience because they can be done in the background.\n\nBut in modern .NET applications, what's the best way to implement background services?  There isn't necessarily a right or wrong way, but there are ways that are \"easy to write\" and methods that are \"easy to scale.\"\n\nThis talk aims to take you on a journey through several processes that allow you to do work in the background.  We'll cover the pros and cons of different approaches and leave you with actionable advice to take back to your projects."
+}

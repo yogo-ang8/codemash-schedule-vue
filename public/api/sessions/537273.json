@@ -1,0 +1,36 @@
+{
+  "id": "537273",
+  "title": "Testing Enterprise Software Rewrites",
+  "speakers": [
+    {
+      "id": "f1bce3ee-cdf8-42d7-a6d8-dcf62074fb1b",
+      "name": "Umang Nahata",
+      "photo": "https://sessionize.com/image/74d8-400o400o1-7pNoRpPpW1a4jSbenjJ3zG.png",
+      "bio": "Umang is a Senior test engineer with Progressive Insurance and has more than a decade of developer-tester experience under his wings. Being curious and lazy, he's on the lookout for new approaches, ideas and ways to make his work/life better. He is passionate about his own development and in sharing his learning with others.\n \n When not working or tinkering with tech, he loves to spend his time with his family…",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/umang_nahata"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/umang-nahata-9769643"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Software Quality",
+  "tags": [
+    "Backend",
+    "Code Quality",
+    "QA Testing"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Friday",
+  "startTime": "16:00",
+  "endTime": "17:00",
+  "excerpt": "Most enterprises have legacy code that needs to be rewritten to keep pace with industry standards, new technologies, and modern infrastructures. The primary purpose of a software rewrite is to ensure functional compatibility before retiring the current system. However, replacing large, complex,...",
+  "description": "Most enterprises have legacy code that needs to be rewritten to keep pace with industry standards, new technologies, and modern infrastructures. The primary purpose of a software rewrite is to ensure functional compatibility before retiring the current system. However, replacing large, complex, bread-and-butter legacy systems is a risky and costly project endeavor, frequently resulting in projects failing, being shelved, or abandoned.\n\nSoftware rewrites face significant challenges due to many reasons. Testing in this context should account for these challenges. In this session, I'll share strategies that worked for me and my experiences. Learn tips on minimizing architectural transformation for effective delivery/scoping, auditing test data for internal systems, using legacy systems as test oracles, and building effective automation for testing.\n\nJoin me in my story of a real-life successful software rewrite, packed with valuable nuggets of info. that someday you might find useful. Or gain a different perspective or idea that, perhaps, in some shape of form, could be adapted in your current context."
+}

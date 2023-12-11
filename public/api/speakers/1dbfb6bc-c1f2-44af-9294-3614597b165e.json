@@ -1,0 +1,16 @@
+{
+  "id": "1dbfb6bc-c1f2-44af-9294-3614597b165e",
+  "name": "Brendan Enrick",
+  "photo": "https://sessionize.com/image/ff1e-400o400o1-Nhbh9sAeXRqYKpaBuHA3Tq.png",
+  "bio": "I've been speaking about coding for over a decade. Everything changes, but everything is the same. \n \n I write code to solve problems, and I try to leave things nicer than I found them. I have fun while doing it. Let's write code and talk about code together!",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/brendoneus"
+    },
+    {
+      "title": "Blog",
+      "url": "http://brendan.enrick.com/"
+    }
+  ]
+}

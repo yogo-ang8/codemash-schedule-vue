@@ -1,0 +1,32 @@
+{
+  "id": "535552",
+  "title": "Testing Mayhem on the Basic Side",
+  "speakers": [
+    {
+      "id": "dd50b312-3c34-4006-9378-c28939a640d8",
+      "name": "Jeanette Kalb",
+      "photo": "https://sessionize.com/image/9707-400o400o1-MyYnVCbgavAVa25FubZx56.jpg",
+      "bio": "I’ve been doing software QA for seven years. I’ve seen a lot of weird problems, been traumatized by some of them, and now that people are asking me questions about what I know I can hopefully prevent someone else having the same problems I had. I did Ruby Cucumber for six of those, and I’ve been doing some C# automated testing in similar veins this year. I am familiar with automated testing and I can’t get away from manual testing no matter how hard I try – some of it isn’t worth automating. I will talk about that too.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeanette-kalb-a9008a90/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon B",
+  "track": "Software Quality",
+  "tags": [
+    "Programming Principles",
+    "Code Quality",
+    "QA Testing"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Friday",
+  "startTime": "8:30",
+  "endTime": "9:30",
+  "excerpt": "Did you ever wonder how a QA managed to find something you didn’t on that last feature card? Hint, it’s not magic, but there is a lot of mayhem. Your quality professionals need your help to help them test better. This talk will provide insight as to what your QA person goes through when deciding...",
+  "description": "Did you ever wonder how a QA managed to find something you didn’t on that last feature card? Hint, it’s not magic, but there is a lot of mayhem. Your quality professionals need your help to help them test better. This talk will provide insight as to what your QA person goes through when deciding what to test, where to test, and how to test any given piece of work. You can use it to do better dev testing on the side before it goes into that Ready For QA column.\nThis is an entry-level talk designed for developers and new QAs that introduces some common testing concepts and explains some of the reasoning behind QA methodology. There’s also a short segment on the three basic types of work that development teams tend to get and how to test them. Important questions covered are, in order, why, what, where, and how to test.\n"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d8e84b6f-f7e0-4d3d-bd51-44fee46ad5ea",
+  "name": "Scott Stroz",
+  "photo": "https://sessionize.com/image/e3a6-400o400o1-PpxnvqFyqY3nmMZ2DyspZd.png",
+  "bio": "Scott is a developer with over 20 years of experience in several languages. In those years, MySQL was the only constant in his development stack. He is passionate about sharing what he has learned on his coding journey so others may learn from his mistakes.",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/boyzoid"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/boyzoid/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://scottstroz.com"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://www.oracle.com"
+    }
+  ]
+}

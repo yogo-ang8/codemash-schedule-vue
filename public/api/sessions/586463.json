@@ -1,0 +1,28 @@
+{
+  "id": "586463",
+  "title": "From idea to physical: A demo of how to make CAD models in Rhino3d. (Wednesday)",
+  "speakers": [
+    {
+      "id": "2f918be7-e87e-4636-8132-6284e77f8fee",
+      "name": "Brian Carnes",
+      "photo": "https://sessionize.com/image/a875-400o400o1-pZBadYf9yUdKA4hWHX5dDm.jpg",
+      "bio": "Brian is professional creative based out of Dublin Ohio. In addition to to being a lifelong artist, he also worked for over 20 years on various IT support/infrastructure engineering teams. He runs a small studio business as well as working on various freelance and consulting projects involving digital sculpting, emerging technology, gamification, additive manufacturing, and 3D printing! His studio, Sea Dog Game Studios, is a publisher/maker of tabletop games and accessories. He is the game designer, author, and sculptor for “Sailpower: Fun Scale Combat in the Age of Sail,” a tabletop miniature ship combat game first released in 2005. He also is the owner of Valkyrie Pewter, a renaissance and fantasy pewter hand-sculpted and handcrafted jewelry maker sold at retail shops at the Ohio Renaissance Festival and Great Lakes Medieval fair. Brian hopes to be a voice for 3D printing, and agile short run customer reactive manufacturing (Industry 4.0) and empower people of all ages with the tools to bring ideas to life through CAD and 3D printing.",
+      "links": [
+        {
+          "title": "Blog",
+          "url": "https://www.seadoggamestudios.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Crown Palm",
+  "track": "Makerspace",
+  "tags": [],
+  "format": "Makerspace",
+  "level": "Introductory and overview",
+  "day": "Wednesday",
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "excerpt": "This lab is intended to be a fast-paced technology walk-through of the process of creating a 3D printed object. We will focus in on the process of using CAD to create our model with a NURBS modeler called Rhino3D and will walk through the UI and how Rhino uses basic curves and shapes to create more...",
+  "description": "This lab is intended to be a fast-paced technology walk-through of the process of creating a 3D printed object. We will focus in on the process of using CAD to create our model with a NURBS modeler called Rhino3D and will walk through the UI and how Rhino uses basic curves and shapes to create more advanced geometry and create up to three basic models: a goblet, and a challenge coin\n\nHigh School aged teens or late junior high aged students may also attend adult sessions. Additionally, kids that complete all kid projects in the morning sessions without issue are welcome in this lab as well as we will be making slightly more advanced models that are different."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "530062",
+  "title": "Don’t Build a Distributed Monolith: How to Avoid Doing Microservices Completely Wrong",
+  "speakers": [
+    {
+      "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
+      "name": "Jonathan \"J.\" Tower",
+      "photo": "https://sessionize.com/image/9e81-400o400o1-wwqA6E8ThZezUyRtfAke4P.jpg",
+      "bio": "Jonathan, or J as he's known to friends, is a husband, a father, and the owner of Trailhead Technology Partners, a custom software consulting company with employees all around the world. He is also a Microsoft MVP in .NET and frequently speaks at software meetups and conferences. He doesn't mind too much because he loves sharing what he’s learned, and it also gives him an excuse to visit any nearby National Parks, a passion of his, proven by the fact that he's currently made it to 52 of the 63 parks.\n \n J also has a passion for building community and has served on several non-profit boards over the years as a result. Currently, J sits on the SoftwareGR board, a non-profit trade organization dedicated to building the software industry in West Michigan. He also runs Beer City Code, a software conference, and has served as president on that board for over a decade. J loves hiking, reading, photography, and trying to see all the best picture nominees before the Oscars ceremony.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/jtowermi"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jtower/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://trailheadtechnology.com/blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://trailheadtechnology.com"
+        }
+      ]
+    }
+  ],
+  "room": "Kilamanjaro Ballroom",
+  "track": "Architecture",
+  "tags": [
+    "Architecture"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Thursday",
+  "startTime": "9:15",
+  "endTime": "10:15",
+  "excerpt": "As a consultant, I get to see many systems built by many different developers. Recently, I’ve seen an uptick in the number of systems built with a microservice architecture in mind, but those systems often include a lot of the same mistakes that keep them from working well. \n\nIn this session...",
+  "description": "As a consultant, I get to see many systems built by many different developers. Recently, I’ve seen an uptick in the number of systems built with a microservice architecture in mind, but those systems often include a lot of the same mistakes that keep them from working well.\n\nIn this session you’ll learn from my experiences and get pointers on what to avoid in your microservices implementations so that you don’t accidentally build something which has all the worst aspects of a monolithic application and the worst aspects of microservices These monsters are what I call “distributed monoliths”, and I can help you avoid building one accidentally."
+}

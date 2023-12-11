@@ -1,0 +1,39 @@
+{
+  "id": "537461",
+  "title": "Learning R Programming and Python Together - Data Science Primer for Everyone",
+  "speakers": [
+    {
+      "id": "079f5ebb-5eda-4d44-af3f-41af5c5c8f8a",
+      "name": "Pierre DeBois",
+      "photo": "https://sessionize.com/image/383c-400o400o1-bb-5eda-4d44-af3f-41af5c5c8f8a.51d748ed-3aff-4ac5-b665-919559d59898.jpeg",
+      "bio": "Pierre DeBois is the founder and CEO of Zimana, an analytics services firm that help organizations achieve profitability improvements in marketing, Web development, and within their business operations. Zimana has provided services for businesses from many industries.   Pierre’s articles are among CMSWire's Top 10 Digital Marketing Articles for 2018, 2020, 2021 and 2022.\n \n Pierre has provided digital marketing and analytic workshops. His first major workshop was for the City of Chicago Treasurer’s Office as part of the 2014 Small Business Expo (SBE). He has also conducted several workshops since the 2014 SBE, including the following: \n \n •\tA general marketing workshop and panel for General Assembly in Chicago\n •\tCivicBLUE workshops for BlueLacuna, a business incubator in the Pilsen neighborhood of Chicago; CivicBLUE explained the importance of data science for developing community solutions\n •\tThe DX Summit, a marketing conference hosted by CMS Wire in 2015, 2016, and 2017\n •\tR programming workshop at Interop ITX in Las Vegas \n •\tAnalytics workshop for Content Marketing World in Cleveland (2017).\n •\tGoogle Analytics and R programming at Indy.Code and Nebraska.Code, developers conferences in Indianapolis, Indiana and Council Bluffs, Iowa (Omaha), respectively (Pierre will be back at both conferences for 2019 ).\n •\tSentiment Analysis at O’Reilly OSCON in Portland Oregon (2018).\n •\tTensorflow in R Programming; A Primer at DevFest KC 2019, Kansas City, MO. \n •\tTensorflow in R Programming; A Primer at Tom Tom AML, Charlottesville, VA\n •\tExploratory Data Analysis in R Programming, CodeMash, Sandusky, OH\n \n His workshops have covered the gamut of business, data science, and programming topics, with a focus on JavaScript frameworks, Google Analytics, and R Programming.\n \n Pierre is also an analytics tech and business intelligence writer. He has contributed articles to CMS Wire, DMNews, and Information Week. He is also an associate editor of business book reviews for Small Business Trends, as well as credit as a technical editor for two Pearson/Que digital marketing publications.   He is currently working on his first R programming book, R for Business Intelligence.\n \n Pierre has been featured in the Chicago Sun-Times, and was a presenter for the Google Get Your Business Online program.  He successfully brought the program back to Gary Indiana in 2017.\n \n Pierre is a Prairie View A &amp; M University graduate (mechanical engineering) and a Georgia Tech graduate (MBA).  He is a native of Gary, Indiana, serving small businesses and organizations throughout the United States.\n \n",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ZimanaAnalytics"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/pierredebois/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@zimanaanalytics"
+        }
+      ]
+    }
+  ],
+  "room": "Salon E",
+  "track": "Data",
+  "tags": [
+    "Python",
+    "Data Science"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Tuesday",
+  "startTime": "13:00",
+  "endTime": "17:00",
+  "excerpt": "Both R programming and Python have become workhorse languages in the field of data science. They have allowed practitioners to apply statistical frameworks to a vast array of data models.  Today, new tools allow a combination of principles from both languages. How can tech professionals gain the...",
+  "description": "Both R programming and Python have become workhorse languages in the field of data science. They have allowed practitioners to apply statistical frameworks to a vast array of data models.  Today, new tools allow a combination of principles from both languages. How can tech professionals gain the right overview, especially as tools like Generational AI, Posit Cloud, VSCode, and Python In Excel introduce exciting and provocative ways to use of R and Python.\n\nThis workshop will go through the key functions of R programming and Python with respect to data models. Tips and lessons will include many of the latest libraries and how to develop models to explore data for business applications * The basic programming protocols for importing data  * The basics of RStudio (the IDE used for R as well as Python via reticulate  * Incorporating  * Data sources and ideas for creating models, from regression to sentiment analysis * Data visualizations * Tips for using AI tools ethically * Best data model practices\n"
+}

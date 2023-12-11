@@ -1,0 +1,44 @@
+{
+  "id": "537449",
+  "title": "Exploring Cloud Native MLOps for GenAI Vector Search",
+  "speakers": [
+    {
+      "id": "e2712384-1dff-4eb7-8dbf-77e621e4d274",
+      "name": "Mary Grygleski",
+      "photo": "https://sessionize.com/image/c1dc-400o400o1-MzXCpAY4QMhRV1uEw1yke2.jpg",
+      "bio": "Mary is a Java Champion and a passionate Senior Developer Advocate at DataStax, a leading data management company that champions Open Source software and specializes in Big Data, DB-as-a-service, Streaming, and Cloud-Native systems.  She spent 3.5 years as a very effective advocate at IBM, focusing on Java, Jakarta EE, OpenJ9, Open Source, Cloud, and Distributed Systems.  She transitioned from Unix/C to Java around 2000 and has never looked back since then.  She considers herself a polyglot and loves to continue learning new and better ways to solve real-life problems. She is an active tech community builder outside of her day job, and currently the President of the Chicago Java Users Group (CJUG), as well as a co-organizer for several IBM-sponsored meetup groups in the Greater Chicago area.\n",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mgrygles"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mary-grygleski/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/mgrygles"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.datastax.com"
+        }
+      ]
+    }
+  ],
+  "room": "Salon B",
+  "track": "Data",
+  "tags": [
+    "DevOps",
+    "CI/CD",
+    "Machine Learning"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "9:15",
+  "endTime": "10:15",
+  "excerpt": "ChatGPT has been in the center stage since early this year. We will first take a look into this exciting sub-new field of Generative AI, and understand what LLM and NLP are, and the challenges that all of these are presenting themselves. We will also highlight the importance of Vector Search, and...",
+  "description": "ChatGPT has been in the center stage since early this year. We will first take a look into this exciting sub-new field of Generative AI, and understand what LLM and NLP are, and the challenges that all of these are presenting themselves. We will also highlight the importance of Vector Search, and what a Vector DB's role is helping with the embeddings and fast index pattern matches/searches. While it is exciting, we also need to ensure that the process of building, integrating, and continuous deployment are being handled in the most efficient way, and by leveraging the cloud native environment with Kubernetes, we will examine how the process can be optimized by leveraging on the serverless and event-driven nature of a typical cloud native environment.\n\nMLOps—machine learning operations, or DevOps for machine learning—is the intersection of people, process, and platform for gaining business value from machine learning. It streamlines development and deployment via monitoring, validation, and governance of machine learning models. With the rapid rise in popularity in GenAI, we will explore how the operational side of things will be impacted and what MLOps will differ from DevOps."
+}

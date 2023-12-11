@@ -1,0 +1,52 @@
+{
+  "id": "537424",
+  "title": "Automated resource deployment with Bicep and Terraform (Part 1)",
+  "speakers": [
+    {
+      "id": "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d",
+      "name": "Samuel Gomez",
+      "photo": "https://sessionize.com/image/b9e8-400o400o1-K6649gMDEzkWxFkUQLE8Bm.jpg",
+      "bio": "I've worked in software development for 13 years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing and coaching), playing videogames and watching movies.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/thesoccerdev"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/samueljgomez/"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://geneca.com/"
+        }
+      ]
+    },
+    {
+      "id": "0c4f74c9-6be8-40d0-b588-674d3b783472",
+      "name": "Brian Gorman",
+      "photo": "https://sessionize.com/image/22ae-400o400o1-78Guf1D4AufM9RDKeHfdeo.jpg",
+      "bio": "Brian is a Microsoft Azure MVP and is an experienced speaker, author, trainer, and .NET developer with MCSA: Web App Certification, MCSD: App Builder, and eleven Azure certifications including Azure Developer, Administrator, DevOps, Architect, Data Administrator, Security, IoT, CosmosDB, and a number of Fundamentals certifications, and has been an MCT since April of 2018. Brian has a masters of science degree in computer information systems, and a bachelor of science degree in computer science. Additionally, Brian has around fifteen years of experience instructing college courses online in computer science, SQL databases, C#/VB.NET/and Java object-oriented programming, and Microsoft Office. Brian has created many online technical training courses that can be found online on various platforms. Brian has also published multiple books with APress, including \"Practical Entity Framework\" and the second edition \"Practical Entity Framework Core 6\".&nbsp; Brian's next book, which is an AZ-204 Exam Study Companion will be released in May of 2023.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/blgorman"
+        }
+      ]
+    }
+  ],
+  "room": "Salon D",
+  "track": "DevOps",
+  "tags": [
+    "Cloud",
+    "DevOps",
+    "Infrastructure as Code"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Wednesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "This workshop is a hands-on exercise that will walk you through the process of deploying the resources needed to run an application in the cloud using Bicep and Terraform.\n\nThe concepts reviewed during the workshop include the following:\n\nVariables.\nParameters.\nModules.\nDeployment pipelines.\n\nAt the...",
+  "description": "This workshop is a hands-on exercise that will walk you through the process of deploying the resources needed to run an application in the cloud using Bicep and Terraform.\n\nThe concepts reviewed during the workshop include the following:\n\nVariables.\nParameters.\nModules.\nDeployment pipelines.\n\nAt the end of this workshop, attendees will have a working application deployed to the cloud and can use the skills learned to deploy their cloud resources in a consistent and automated fashion."
+}

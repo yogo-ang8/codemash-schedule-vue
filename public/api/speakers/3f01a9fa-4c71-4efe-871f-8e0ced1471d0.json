@@ -1,0 +1,12 @@
+{
+  "id": "3f01a9fa-4c71-4efe-871f-8e0ced1471d0",
+  "name": "Callum Whyte",
+  "photo": "https://sessionize.com/image/9c36-400o400o1-UVs9qJnM6fRNiA7Xc8wBpa.jpg",
+  "bio": "Callum Whyte is a x4 Microsoft MVP and x6 Umbraco MVP specialising in building robust scalable solutions on Azure and the .NET stack, as well as websites with the open-source Umbraco CMS.\n \n Away from his desk you can find him organising community events; from local meetups and hackathons, to global conferences and roadshows. He’s an active contributor to open source projects, a regular speaker at events all over the world, as well as co-host of a weekly YouTube series “UmbraCoffee”!",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/callumbwhyte"
+    }
+  ]
+}

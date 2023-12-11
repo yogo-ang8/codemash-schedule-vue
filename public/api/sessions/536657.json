@@ -1,0 +1,45 @@
+{
+  "id": "536657",
+  "title": "Expect the Unexpected: Handling Exceptions in Enterprise Applications",
+  "speakers": [
+    {
+      "id": "ff0a1dd3-c9f2-48e2-88a8-9c0e429251be",
+      "name": "Kito Mann",
+      "photo": "https://sessionize.com/image/4dd4-400o400o1-KVpK6xjCnRxMPxCfVjDNf2.jpg",
+      "bio": "Kito D. Mann is the Principal Consultant at Virtua, Inc., specializing in enterprise application architecture, training, development, and mentoring with microservices, cloud, Web Components, Angular, and Jakarta/Java EE technologies. He is also the co-host of The Stackd Podcast and the author of JavaServer Faces in Action. Mann has participated in several Java Community Process expert groups (including CDI, JSF, and Portlets) and is an internationally recognized speaker. He is also a Java Champion and Google Developer Expert in Web Technologies. He holds a BA in Computer Science from Johns Hopkins University.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/kito99"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kitomann/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://kitomann.com"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://virtua.tech/"
+        }
+      ]
+    }
+  ],
+  "room": "Salon H",
+  "track": "Programming Principles",
+  "tags": [
+    "Java",
+    "Programming Principles",
+    "Architecture",
+    "System Design"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Friday",
+  "startTime": "9:45",
+  "endTime": "10:45",
+  "excerpt": "One of the most common reasons for software defects is poor exception handling. The more complex the application, the more difficult it can be to track down the root cause of a bug. An exception at the service or database layer may manifest itself as unpredictable behavior at the user interface...",
+  "description": "One of the most common reasons for software defects is poor exception handling. The more complex the application, the more difficult it can be to track down the root cause of a bug. An exception at the service or database layer may manifest itself as unpredictable behavior at the user interface level. Simple coding errors or unexpected inputs may result in unnecessary and confusing error messages. The net result is an application that doesn't meet the user's expectations. These types of issues can be avoided by handling exceptions properly. In this session, we'll look at examples of what happens when exceptions aren't handled, and how you can avoid unexpected defects by following a few key principles and using some discipline. We'll also examine the importance of establishing logging standards, and look at how to properly configure error pages and use the error handling facilities in back-end Java services and web apps.\n\n"
+}

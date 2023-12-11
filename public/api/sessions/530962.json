@@ -1,0 +1,32 @@
+{
+  "id": "530962",
+  "title": "How I use VS Code to implement local CICD",
+  "speakers": [
+    {
+      "id": "34108b41-1ae3-47d7-b18f-b49f156c86b4",
+      "name": "John Petersen",
+      "photo": "https://sessionize.com/image/2799-400o400o1-ZJDF416RN71dhaWVJ5Mvk.png",
+      "bio": "John is a Philadelphia-based Agile, Lean, and Scrum coach, developer, educator,  attorney , &amp; author. John is a 17x Microsoft MVP award recipient and is a contributing editor for CODE Magazine. John is also a member of the Agile Lean Leadership Network.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/johnvpetersen"
+        }
+      ]
+    }
+  ],
+  "room": "Nile",
+  "track": "DevOps",
+  "tags": [
+    "DevOps",
+    "CI/CD",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Introductory and overview",
+  "day": "Thursday",
+  "startTime": "9:15",
+  "endTime": "10:15",
+  "excerpt": "It's simplicity, transparency,  & clarity make VS Code an effective code editor. One of VS Code's greatest features is the seamless way the terminal/CLI experience meshes with an intellisense-enabled code editor. In this session, I'll demonstrate how I use VS Code as a CI/CD-based development...",
+  "description": "It's simplicity, transparency,  &amp; clarity make VS Code an effective code editor. One of VS Code's greatest features is the seamless way the terminal/CLI experience meshes with an intellisense-enabled code editor. In this session, I'll demonstrate how I use VS Code as a CI/CD-based development workbench approach that organizations can use as part of their \"Shifting-left\" initiative. Specific coverage will examine the extension ecosystem and how to incorporate and integrate bash/Powershell - based scripts as part of VS Code launch and build tasks that can be further leveraged for local integration testing. It can often seem overwhelming to get comfortable with CLI and shell environments. It's just a matter of understanding the basics, how to apply  and learn them, and then finally expanding on them. Attendees will be enabled with that understanding which in turn, will boost confidence."
+}

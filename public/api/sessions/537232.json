@@ -1,0 +1,39 @@
+{
+  "id": "537232",
+  "title": "Build a Modern Single Page Application with Vue",
+  "speakers": [
+    {
+      "id": "49c0235d-431e-4dbe-aa84-acb19b900ca4",
+      "name": "Matt Burke",
+      "photo": "https://sessionize.com/image/282a-400o400o1-U5q6V6yoS59QbmaL6GkUyu.jpg",
+      "bio": "Matt has been slinging code in multiple languages for over a decade. He loves diving headfirst into new technology and learning and sharing its best practices to help teams deliver quality quickly.",
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mattburkedev"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/akatakritos/"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mattburkedev.com/"
+        }
+      ]
+    }
+  ],
+  "room": "Orange",
+  "track": "Web/Front-End",
+  "tags": [
+    "Javascript",
+    "Front End"
+  ],
+  "format": "PreCompiler",
+  "level": "Introductory and overview",
+  "day": "Tuesday",
+  "startTime": "8:00",
+  "endTime": "12:00",
+  "excerpt": "Vue offers developers a way to build ambitious front-end applications with powerful reactive programming patterns and an intuitive HTML-based templating language.  \n\nThis workshop will give you a jumping-off point for large front-end applications using Vue with blazing-fast dev tools like esbuild,...",
+  "description": "Vue offers developers a way to build ambitious front-end applications with powerful reactive programming patterns and an intuitive HTML-based templating language.\n\nThis workshop will give you a jumping-off point for large front-end applications using Vue with blazing-fast dev tools like esbuild, rollup, and vite. You’ll learn the latest tools and patterns Vue offers for building reusable and testable UI code. You’ll get hands-on practice scaling an app to multiple pages using routing and state management libraries. At the end of this workshop, you’ll be ready to build complex and responsive front-end applications."
+}

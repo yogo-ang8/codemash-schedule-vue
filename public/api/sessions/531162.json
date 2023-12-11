@@ -1,0 +1,32 @@
+{
+  "id": "531162",
+  "title": "Software Test Automation ​and System Design",
+  "speakers": [
+    {
+      "id": "aa816ba9-7cb7-44c5-a21b-432f21ad50de",
+      "name": "Kate Jordan",
+      "photo": "https://sessionize.com/image/649a-400o400o1-rs33F26RVKWo9fuJE1WMCv.jpg",
+      "bio": "I'm a Tech Lead who has worked for the last 16 years at Central Mutual Insurance based out of Van Wert, Ohio. I have experience both on the mainframe in COBOL as well as in .Net with C# and some SQL.",
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kate-jordan-a49928227/"
+        }
+      ]
+    }
+  ],
+  "room": "Indigo Bay",
+  "track": "Software Quality",
+  "tags": [
+    "Programming Principles",
+    "System Design",
+    "Code Quality"
+  ],
+  "format": "General Session",
+  "level": "Intermediate",
+  "day": "Thursday",
+  "startTime": "8:00",
+  "endTime": "9:00",
+  "excerpt": "In this session I'll share with you one of the most valuable lessons that I've learned as a software engineer. From what I've seen it's not something that colleges or courses have nearly enough emphasis on for the impact that it has. Both on your skills, and the health of the systems you work...",
+  "description": "In this session I'll share with you one of the most valuable lessons that I've learned as a software engineer. From what I've seen it's not something that colleges or courses have nearly enough emphasis on for the impact that it has. Both on your skills, and the health of the systems you work in.\n\nI'm talking about learning what it means to build software that supports having both unit and integration tests. This session will cover some key principles that are required in order to build testable code, and touch on more advanced design patterns that build on these principles. It will also make the case for why investing the time in this test automation is so worthwhile, even if it does mean more time spent by engineers up front."
+}

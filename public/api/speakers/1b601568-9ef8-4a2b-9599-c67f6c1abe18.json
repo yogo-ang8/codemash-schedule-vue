@@ -1,0 +1,20 @@
+{
+  "id": "1b601568-9ef8-4a2b-9599-c67f6c1abe18",
+  "name": "Justin Castilla",
+  "photo": "https://sessionize.com/image/ed0a-400o400o1-Lc8B8QyPs5PschfyLzRaiu.png",
+  "bio": "Justin started his Software Engineering career as a Web Development Boot Camp Instructor where he developed a passion for exciting others with new concepts and empowering individuals with the tools needed to excel in their own right. As a Developer Advocate at Redis, Justin has created numerous videos breaking down Data Structures into easy-to-understand, relatable examples with real-world use cases. \n \n In his spare time, Justin enjoys hiking around the Pacific Northwest, building hobby electronics, and collecting vintage music synthesizers. His love of hardware and software has led him into a deep exploration of IoT for practical applications as well as performance art!",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/justincastilla/"
+    },
+    {
+      "title": "Blog",
+      "url": "https://www.youtube.com/watch?v=Tqaqdfxi-J4&list=PL83Wfqi-zYZG_tk7VQvkPDqRua0uwfXIF&ab_channel=Redis"
+    },
+    {
+      "title": "Company Website",
+      "url": "https://www.redis.com"
+    }
+  ]
+}
