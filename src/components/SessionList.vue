@@ -19,6 +19,37 @@ onMounted(() => {
   <div>
     <h1>Sessions</h1>
 
+    <div class="row">
+      <div class="col">
+        <div class="form-floating">
+          <input id="search" class="form-control mb-4" type="text" placeholder="Search" aria-label="Search" />
+          <label for="search">Search</label>
+        </div>
+      </div>
+      <div class="col">
+        <div class="form-floating">
+          <select id="track" class="form-control">
+            <option value="">All</option>
+            <option value="Architecture">Architecture</option>
+            <option value="Career">Career</option>
+            <option value="Cloud">Cloud</option>
+          </select>
+          <label for="track">Track</label>
+        </div>
+      </div>
+    </div>
+
+    <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+      <input type="radio" class="btn-check" name="btnradio" id="Introductory and overview" autocomplete="off" />
+      <label class="btn btn-outline-primary" for="Introductory and overview">Introductory and overview</label>
+
+      <input type="radio" class="btn-check" name="btnradio" id="Intermediate" autocomplete="off" />
+      <label class="btn btn-outline-primary" for="Intermediate">Intermediate</label>
+
+      <input type="radio" class="btn-check" name="btnradio" id="Advanced" autocomplete="off" />
+      <label class="btn btn-outline-primary" for="Advanced">Advanced</label>
+    </div>
+
     <!-- we're going to add filters in a later module that will update these counts -->
     <p>Showing {{ sessions.length }} of {{ sessions.length }} talks</p>
 
