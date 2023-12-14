@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import SessionList from "./components/SessionList.vue";
+import SessionDetails from './components/SessionDetails.vue';
 </script>
 
 <template>
@@ -20,6 +20,6 @@ import SessionList from "./components/SessionList.vue";
         </div>
       </div>
     </nav>
-    <SessionList />
+    <SessionDetails />
   </div>
 </template>
