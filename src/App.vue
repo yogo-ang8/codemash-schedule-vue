@@ -1,6 +1,4 @@
-<script setup lang="ts">
-import SessionDetails from './components/SessionDetails.vue';
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div class="container">
@@ -20,6 +18,6 @@ import SessionDetails from './components/SessionDetails.vue';
         </div>
       </div>
     </nav>
-    <SessionDetails />
+    <router-view />
   </div>
 </template>

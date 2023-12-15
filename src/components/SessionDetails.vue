@@ -1,10 +1,13 @@
 <script lang="ts" setup>
 import { computed, onMounted, ref } from 'vue';
 import { SessionDetail } from '../models.ts';
+import { useRoute, useRouter } from 'vue-router';
+
+const route = useRoute();
 
 const details = ref<SessionDetail | undefined>();
 onMounted(() => {
-  fetch(`/api/sessions/537232.json`)
+  fetch(`/api/sessions/${route.params.id}.json`)
     .then((res) => res.json())
     .then((data) => {
       details.value = data;
@@ -18,10 +21,16 @@ const descriptionParagraphs = computed(() => {
 
   return details.value.description.split('\n');
 });
+
+const router = useRouter();
+function handleBack() {
+  router.push('/');
+}
 </script>
 
 <template>
   <div v-if="details">
+    <button @click="handleBack">back to sessions</button>
     <div class="row">
       <div class="col-3">
         <div class="speaker-list">

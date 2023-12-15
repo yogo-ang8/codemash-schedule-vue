@@ -24,7 +24,7 @@ defineProps<SessionCardProps>();
       <p class="card-text">{{ session.excerpt }}</p>
       <div class="footer pt-2">
         <span> {{ session.day }} {{ session.startTime }} - {{ session.endTime }}</span>
-        <a href="" class="btn btn-primary">Details</a>
+        <router-link :to="{ path: '/session/' + session.id }" class="btn btn-primary">Details</router-link>
       </div>
     </div>
   </div>
