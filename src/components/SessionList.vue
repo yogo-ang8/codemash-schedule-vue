@@ -30,13 +30,13 @@ const selectedLevel = ref('');
 
 const levels = ['Introductory and overview', 'Intermediate', 'Advanced'];
 
-function handleSelectLevel(level: string) {
-  if (level == selectedLevel.value) {
-    selectedLevel.value = '';
-  } else {
-    selectedLevel.value = level;
-  }
-}
+// function handleSelectLevel(level: string) {
+//   if (level == selectedLevel.value) {
+//     selectedLevel.value = '';
+//   } else {
+//     selectedLevel.value = level;
+//   }
+// }
 
 const filteredSessions = computed(() => {
   let currentSessions = sessions.value;
