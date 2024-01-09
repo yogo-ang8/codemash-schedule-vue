@@ -32,3 +32,7 @@ export interface SpeakerLink {
     title: string,
     url: string
 }
+export interface ButtonGroupProps {
+    modelValue: string;
+    options: string[];
+  }

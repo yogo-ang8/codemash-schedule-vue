@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { computed, onMounted, ref } from 'vue';
 import { SessionOverview } from '../models.ts';
+import SessionCard from './SessionCard.vue';
+import ButtonGroup from './ButtonGroup.vue';
 
 // we 'll talk about this in a later module, but here we load the list of sessions and log it to the browser console
 // you can also open public/api/sessions/index.json to see the data in your editor
@@ -90,8 +92,13 @@ const filteredSessions = computed(() => {
         </div>
       </div>
     </div>
-
-    <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+    <!-- <ButtonGroup
+     :options="levels"
+     :model-value="selectedLevel"
+     @update:model-value="(newValue) => (selectedLevel = newValue)"
+   /> -->
+   <ButtonGroup :options="levels" v-model="selectedLevel" />
+    <!-- <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
       <template v-for="level in levels" :key="level">
         <input
           type="radio"
@@ -104,16 +111,17 @@ const filteredSessions = computed(() => {
         />
         <label class="btn btn-outline-primary" :for="level">{{ level }}</label>
       </template>
-    </div>
+    </div> -->
 
     <!-- we're going to add filters in a later module that will update these counts -->
     <p>Showing {{ filteredSessions.length }} of {{ sessions.length }} talks</p>
 
-    <div class="speaker-grid">
+    <!-- <div class="speaker-grid"> -->
+      <div class="speaker-grid">
       <!-- here we include three different cards depending on the level -->
       <!-- your job is to replace this static markup with vue templating syntax -->
       <!-- introductory and overview -->
-      <div class="card" v-for="session in filteredSessions" :key="session.id">
+      <!-- <div class="card" v-for="session in filteredSessions" :key="session.id">
         <div class="card-body">
           <span
             class="badge"
@@ -132,7 +140,13 @@ const filteredSessions = computed(() => {
             <a href="" class="btn btn-primary">Details</a>
           </div>
         </div>
-      </div>
+      </div> -->
+      
+      <SessionCard 
+        v-for="session in filteredSessions" 
+        :key="session.id" 
+        :session="session"
+      />
     </div>
 
     <!-- show this if there are no sessions -->
